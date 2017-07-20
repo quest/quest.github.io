@@ -5,7 +5,7 @@
         "favorite": false,
 	    "url": "http://www.digitalfm.cl/",
 	    "name": "Digital FM 91.1",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/digital-fm-91-1.png",
+	    "icon": "https://www.victorsanmartin.com/api/radios/images/1.png",
 	    "play": {
 	        "contentType": "audio/mpeg",
 	        "urlStream": "http://mimix.mercurio.cl:8000/digitalfm"
@@ -435,6 +435,16 @@
         "favorite": false,
 	    "url": "http://www.radiomaxima.cl/",
 	    "name": "Radio Máxima 94.9 FM",
+	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-maxima-94-9-fm.png",
+	    "play": {
+	        "contentType": "audio/mpeg",
+	        "urlStream": "http://streamprochile.com:9938/stream/1/"
+	    }
+	}, {
+	    "id": 45,
+        "favorite": false,
+	    "url": "http://www.radiohoy.cl/",
+	    "name": "Radio Hoy",
 	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-maxima-94-9-fm.png",
 	    "play": {
 	        "contentType": "audio/mpeg",
