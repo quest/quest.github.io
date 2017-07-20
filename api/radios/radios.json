@@ -1,454 +1,524 @@
 {
-	"version": "1",
-	"radios": [{
-	  "id": 1,
+  "version": "1",
+  "radios": [{
+    "id": 1,
         "favorite": false,
-	    "url": "http://www.digitalfm.cl/",
-	    "name": "Digital FM 91.1",
-	    "icon": "https://www.victorsanmartin.com/api/radios/images/1.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://mimix.mercurio.cl:8000/digitalfm"
-	    }
-	}, {
-	    "id": 2,
-      	"favorite": false,
-	    "url": "http://radiosol.cl/50/",
-	    "name": "Radio Sol 97.7 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-sol-97-7-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://online.radiosol.cl:8000/;"
-	    }
-	}, {
-	    "id": 3,
+      "url": "http://www.digitalfm.cl/",
+      "name": "Radio Digital FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/1.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://mimix.mercurio.cl:8000/digitalfm"
+      }
+  }, {
+      "id": 2,
         "favorite": false,
-	    "url": "http://www.fmdos.cl/",
-	    "name": "FM Dos 98.5",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/fm-dos-98-5.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS_SC"
-	    }
-	}, {
-	    "id": 4,
+      "url": "http://radiosol.cl/50/",
+      "name": "Radio Sol",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/2.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://online.radiosol.cl:8000/;"
+      }
+  }, {
+      "id": 3,
         "favorite": false,
-	    "url": "http://www.corazon.cl/",
-	    "name": "Radio Corazón FM 101.3",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-corazon-fm-101-3.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC"
-	    }
-	}, {
-	    "id": 5,
+      "url": "http://www.fmdos.cl/",
+      "name": "Radio FM Dos",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/3.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS_SC"
+      }
+  }, {
+      "id": 4,
+        "favorite": false,
+      "url": "http://www.corazon.cl/",
+      "name": "Radio Corazón",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/4.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC"
+      }
+  }, {
+      "id": 5,
       "favorite": true,
-	    "url": "http://www.carolina.cl/",
-	    "name": "Carolina 99.3 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/carolina-99-3-fm.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://redirector.dps.live/carolinafm/aac/icecast.audio"
-	    }
-	}, {
-	    "id": 6,
+      "url": "http://www.carolina.cl/",
+      "name": "Radio Carolina",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/5.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://redirector.dps.live/carolinafm/aac/icecast.audio"
+      }
+  }, {
+      "id": 6,
       "favorite": true,
-	    "url": "http://los40.cl/",
-	    "name": "Los 40 Principales 101.7 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/los-40-principales-101-7-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE_SC"
-	    }
-	}, {
-	    "id": 7,
+      "url": "http://los40.cl/",
+      "name": "Radio Los 40 Principales",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/6.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE_SC"
+      }
+  }, {
+      "id": 7,
         "favorite": false,
-	    "url": "http://www.radioimagina.cl/",
-	    "name": "Imagina 88.1 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/imagina-88-1-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC"
-	    }
-	}, {
-	    "id": 8,
+      "url": "http://www.radioimagina.cl/",
+      "name": "Radio Imagina",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/7.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC"
+      }
+  }, {
+      "id": 8,
         "favorite": false,
-	    "url": "http://radiodisney.disneylatino.com/chile",
-	    "name": "Radio Disney 104.9 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-disney-104-9-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://unlimited3-cl.dps.live/disney/mp364k/icecast.audio"
-	    }
-	}, {
-	    "id": 9,
+      "url": "http://radiodisney.disneylatino.com/chile",
+      "name": "Radio Disney",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/8.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://unlimited3-cl.dps.live/disney/mp364k/icecast.audio"
+      }
+  }, {
+      "id": 9,
         "favorite": false,
-	    "url": "http://www.pudahuel.cl/",
-	    "name": "Pudahuel FM 90.5",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/pudahuel-fm-90-5.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC"
-	    }
-	}, {
-	    "id": 10,
+      "url": "http://www.pudahuel.cl/",
+      "name": "Radio Pudahuel",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/9.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC"
+      }
+  }, {
+      "id": 10,
       "favorite": true,
-	    "url": "http://www.rockandpop.cl/",
-	    "name": "Rock and Pop 94.1 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/rock-and-pop-94-1-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP_SC"
-	    }
-	}, {
-	    "id": 11,
+      "url": "http://www.rockandpop.cl/",
+      "name": "Radio Rock and Pop",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/10.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POP_SC"
+      }
+  }, {
+      "id": 11,
         "favorite": false,
-	    "url": "http://www.romantica.cl",
-	    "name": "Romántica FM 104.1",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/romantica-fm-104-1.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://redirector.dps.live/romantica/mp3/icecast.audio"
-	    }
-	}, {
-	    "id": 12,
+      "url": "http://www.romantica.cl",
+      "name": "Radio Romántica",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/11.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://redirector.dps.live/romantica/mp3/icecast.audio"
+      }
+  }, {
+      "id": 12,
         "favorite": false,
-	    "url": "http://www.radiozero.cl/",
-	    "name": "Radio Zero 97.7 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-zero-97-7-fm.png",
-	    "play": {
-	        "contentType": "application/x-mpegURL",
-	        "urlStream": "http://unlimited1-us.dps.live/zero/go/audio/now/livestream1.m3u8"
-	    }
-	}, {
-	    "id": 13,
+      "url": "http://www.radiozero.cl/",
+      "name": "Radio Zero",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/12.png",
+      "play": {
+          "contentType": "application/x-mpegURL",
+          "urlStream": "http://unlimited1-us.dps.live/zero/go/audio/now/livestream1.m3u8"
+      }
+  }, {
+      "id": 13,
         "favorite": false,
-	    "url": "http://www.radiopaula.cl/",
-	    "name": "Paula FM 100.5",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/paula-fm-100-5.png",
-	    "play": {
-	        "contentType": "application/x-mpegURL",
-	        "urlStream": "http://unlimited1-us.dps.live/radiopaula/go/audio/now/livestream1.m3u8"
-	    }
-	}, {
-	    "id": 14,
+      "url": "http://www.radiopaula.cl/",
+      "name": "Radio Paula",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/13.png",
+      "play": {
+          "contentType": "application/x-mpegURL",
+          "urlStream": "http://unlimited1-us.dps.live/radiopaula/go/audio/now/livestream1.m3u8"
+      }
+  }, {
+      "id": 14,
         "favorite": false,
-	    "url": "http://www.elconquistadorfm.cl/",
-	    "name": "El Conquistador 91.3 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/el-conquistador-91-3-fm.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://cp.elconquistador.usastreams.com:9314/stream/1/"
-	    }
-	}, {
-	    "id": 15,
+      "url": "http://www.elconquistadorfm.cl/",
+      "name": "Radio El Conquistador",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/14.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://cp.elconquistador.usastreams.com:9314/stream/1/"
+      }
+  }, {
+      "id": 15,
       "favorite": true,
-	    "url": "http://www.radioactiva.cl/",
-	    "name": "Radio Activa 92.5 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-activa-92-5-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC"
-	    }
-	}, {
-	    "id": 16,
+      "url": "http://www.radioactiva.cl/",
+      "name": "Radio Activa",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/15.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/ACTIVA_SC"
+      }
+  }, {
+      "id": 16,
         "favorite": false,
-	    "url": "http://www.concierto.cl/",
-	    "name": "Concierto FM 88.5",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/concierto-fm-88-5.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC"
-	    }
-	}, {
-	    "id": 17,
+      "url": "http://www.concierto.cl/",
+      "name": "Radio Concierto",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/16.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC"
+      }
+  }, {
+      "id": 17,
         "favorite": false,
-	    "url": "http://www.radiocandela.cl/home/",
-	    "name": "Radio Candela FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-candela-fm.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://tunein.digitalproserver.com/candelabb.aac"
-	    }
-	}, {
-	    "id": 18,
+      "url": "http://www.radiocandela.cl/home/",
+      "name": "Radio Candela FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/17.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://tunein.digitalproserver.com/candelabb.aac"
+      }
+  }, {
+      "id": 18,
         "favorite": false,
-	    "url": "http://radio.uchile.cl/",
-	    "name": "Radio Universidad de Chile 102.5 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-universidad-de-chile-102-5-fm.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://stream3.rbm.cl:8010/playerweb.aac"
-	    }
-	}, {
-	    "id": 19,
+      "url": "http://radio.uchile.cl/",
+      "name": "Radio Universidad de Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/18.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream3.rbm.cl:8010/playerweb.aac"
+      }
+  }, {
+      "id": 19,
         "favorite": false,
-	    "url": "http://www.fmtiempo.cl/",
-	    "name": "FM Tiempo 95.9",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/fm-tiempo-95-9.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://tunein.digitalproserver.com/fmtiempobb.mp3"
-	    }
-	}, {
-	    "id": 20,
+      "url": "http://www.fmtiempo.cl/",
+      "name": "Radio FM Tiempo",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/19.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://tunein.digitalproserver.com/fmtiempobb.mp3"
+      }
+  }, {
+      "id": 20,
         "favorite": false,
-	    "url": "http://www.futuro.cl",
-	    "name": "Futuro FM 88.9",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/futuro-fm-88-9.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC"
-	    }
-	}, {
-	    "id": 21,
+      "url": "http://www.futuro.cl",
+      "name": "Radio Futuro",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/20.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC"
+      }
+  }, {
+      "id": 21,
         "favorite": false,
-	    "url": "http://www.universo.cl/",
-	    "name": "Universo 93.7 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/universo-93-7-fm.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://tunein.digitalproserver.com/universobb.aac"
-	    }
-	}, {
-	    "id": 22,
+      "url": "http://www.universo.cl/",
+      "name": "Radio Universo",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/21.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://tunein.digitalproserver.com/universobb.aac"
+      }
+  }, {
+      "id": 22,
         "favorite": false,
-	    "url": "http://oasisfm.cl/",
-	    "name": "Radio Oasis 102.1 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-oasis-102-1-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://mp3.oasisfm.cl/stream/1/"
-	    }
-	}, {
-	    "id": 23,
+      "url": "http://oasisfm.cl/",
+      "name": "Radio Oasis",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/22.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://mp3.oasisfm.cl/stream/1/"
+      }
+  }, {
+      "id": 23,
         "favorite": false,
-	    "url": "http://www.biobiochile.cl/",
-	    "name": "Radio Bio Bio 99.7 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-bio-bio-99-7-fm.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://unlimited2-us.dps.live/biobiosantiago/aac/icecast.audio"
-	    }
-	}, {
-	    "id": 24,
+      "url": "http://www.biobiochile.cl/",
+      "name": "Radio Bio Bio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/23.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://unlimited2-us.dps.live/biobiosantiago/aac/icecast.audio"
+      }
+  }, {
+      "id": 24,
         "favorite": false,
-	    "url": "http://www.beethovenfm.cl/",
-	    "name": "Beethoven FM 96.5",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/beethoven-fm-96-5.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://tunein.digitalproserver.com/beethovenbb.aac"
-	    }
-	}, {
-	    "id": 25,
+      "url": "http://www.beethovenfm.cl/",
+      "name": "Radio Beethoven",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/24.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://tunein.digitalproserver.com/beethovenbb.aac"
+      }
+  }, {
+      "id": 25,
         "favorite": false,
-	    "url": "http://www.duna.cl/",
-	    "name": "Radio Duna 89.7 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-duna-89-7-fm.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://tunein.digitalproserver.com/dunabb.aac"
-	    }
-	}, {
-	    "id": 26,
+      "url": "http://www.duna.cl/",
+      "name": "Radio Duna",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/25.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://tunein.digitalproserver.com/dunabb.aac"
+      }
+  }, {
+      "id": 26,
         "favorite": false,
-	    "url": "http://www.radiounochile.cl/player-online/",
-	    "name": "Radio Uno 97.1 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-uno-97-1-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_UNO_SC"
-	    }
-	}, {
-	    "id": 27,
+      "url": "http://www.radiounochile.cl/player-online/",
+      "name": "Radio Uno",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/26.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_UNO_SC"
+      }
+  }, {
+      "id": 27,
         "favorite": false,
-	    "url": "http://canalcarnaval.cl/envivo/",
-	    "name": "Radio Carnaval 89.9 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-carnaval-89-9-fm.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://ice.dallas.digitalproserver.com/carnaval_vina"
-	    }
-	}, {
-	    "id": 28,
+      "url": "http://canalcarnaval.cl/envivo/",
+      "name": "Radio Carnaval",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://ice.dallas.digitalproserver.com/carnaval_vina"
+      }
+  }, {
+      "id": 28,
         "favorite": false,
-	    "url": "http://www.radioarmonia.cl/inicio/",
-	    "name": "Radio Armonía 106.3 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-armonia-106-3-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://encoder.armonia.cl:3032/1.mp3"
-	    }
-	}, {
-	    "id": 29,
+      "url": "http://www.radioarmonia.cl/inicio/",
+      "name": "Radio Armonía",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/28.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://encoder.armonia.cl:3032/1.mp3"
+      }
+  }, {
+      "id": 29,
         "favorite": false,
-	    "url": "http://www.radioagricultura.cl/",
-	    "name": "Radio Agricultura 92.1 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-agricultura-92-1-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://unlimited1-us.dps.live/agricultura/mp3/icecast.audio"
-	    }
-	}, {
-	    "id": 30,
+      "url": "http://www.radioagricultura.cl/",
+      "name": "Radio Agricultura",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/29.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://unlimited1-us.dps.live/agricultura/mp3/icecast.audio"
+      }
+  }, {
+      "id": 30,
         "favorite": false,
-	    "url": "http://www.radiocarinosa.cl/",
-	    "name": "Radio Cariñosa 92.1 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-carinosa-92-1-fm.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://stream5.eltelon.com/carinosa-chillan.aac"
-	    }
-	}, {
-	    "id": 31,
+      "url": "http://www.radiocarinosa.cl/",
+      "name": "Radio Cariñosa",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/30.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/carinosa-chillan.aac"
+      }
+  }, {
+      "id": 31,
         "favorite": false,
-	    "url": "http://www.cooperativa.cl/",
-	    "name": "Radio Cooperativa 106.7 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-cooperativa-106-7-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://unlimited1-us.digitalproserver.com/cooperativafm/mp3/icecast.audio"
-	    }
-	}, {
-	    "id": 32,
+      "url": "http://www.cooperativa.cl/",
+      "name": "Radio Cooperativa",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/31.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://unlimited1-us.digitalproserver.com/cooperativafm/mp3/icecast.audio"
+      }
+  }, {
+      "id": 32,
         "favorite": false,
-	    "url": "http://radionuble.cl/linea/",
-	    "name": "Radio Ñuble 89.7 FM Chillán",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-nuble-89-7-fm-chillan.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://173.233.72.82:9358/;"
-	    }
-	}, {
-	    "id": 33,
+      "url": "http://radionuble.cl/linea/",
+      "name": "Radio Ñuble Chillán",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/32.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://173.233.72.82:9358/;"
+      }
+  }, {
+      "id": 33,
         "favorite": false,
-	    "url": "http://www.infinita.cl/",
-	    "name": "Infinita Radio 100.1 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/infinita-radio-100-1-fm.png",
-	    "play": {
-	        "contentType": "application/x-mpegURL",
-	        "urlStream": "http://unlimited1-us.dps.live/infinita/go/audio/now/livestream1.m3u8"
-	    }
-	}, {
-	    "id": 34,
+      "url": "http://www.infinita.cl/",
+      "name": "Infinita Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/33.png",
+      "play": {
+          "contentType": "application/x-mpegURL",
+          "urlStream": "http://unlimited1-us.dps.live/infinita/go/audio/now/livestream1.m3u8"
+      }
+  }, {
+      "id": 34,
         "favorite": false,
-	    "url": "http://radiomaria.cl/",
-	    "name": "Radio María 89.3 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-maria-89-3-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://dreamsiteradiocp.com:8066/stream/1/"
-	    }
-	}, {
-	    "id": 35,
+      "url": "http://radiomaria.cl/",
+      "name": "Radio María",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/34.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://dreamsiteradiocp.com:8066/stream/1/"
+      }
+  }, {
+      "id": 35,
         "favorite": false,
-	    "url": "http://www.radiocolocolo.cl/",
-	    "name": "Radio Colo Colo 90.1 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-colo-colo-90-1-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://186.103.213.249:9988/stream/1/"
-	    }
-	}, {
-	    "id": 36,
+      "url": "http://www.radiocolocolo.cl/",
+      "name": "Radio Colo Colo",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/35.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://186.103.213.249:9988/stream/1/"
+      }
+  }, {
+      "id": 36,
         "favorite": false,
-	    "url": "http://www.radiomontecarlo.cl/web/",
-	    "name": "Montecarlo 102.7 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/montecarlo-102-7-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://montecarloradiostation2.better-than.tv/stream/1/"
-	    }
-	}, {
-	    "id": 37,
+      "url": "http://www.radiomontecarlo.cl/web/",
+      "name": "Radio Montecarlo",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/36.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://montecarloradiostation2.better-than.tv/stream/1/"
+      }
+  }, {
+      "id": 37,
         "favorite": false,
-	    "url": "http://www.radiocentinela.cl/",
-	    "name": "Radio Centinela 93.9 FM Yumbel",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-centinela-93-9-fm-yumbel.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://s3.medionline.cl:9964/;"
-	    }
-	}, {
-	    "id": 38,
+      "url": "http://www.radiocentinela.cl/",
+      "name": "Radio Centinela Yumbel",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/37.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://s3.medionline.cl:9964/;"
+      }
+  }, {
+      "id": 38,
         "favorite": false,
-	    "url": "http://www.radioamor.cl/",
-	    "name": "Radio Amor Chile",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-amor-chile.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://192.99.150.234:9902/;"
-	    }
-	}, {
-	    "id": 39,
+      "url": "http://www.radioamor.cl/",
+      "name": "Radio Amor Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/38.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.150.234:9902/;"
+      }
+  }, {
+      "id": 39,
         "favorite": false,
-	    "url": "http://www.fmbox.cl",
-	    "name": "FM Box Chile",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/fm-box-chile.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://abelardo.mundobox.cl:8000/stream/1/"
-	    }
-	}, {
-	    "id": 40,
+      "url": "http://www.fmbox.cl",
+      "name": "FM Box Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/39.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://abelardo.mundobox.cl:8000/stream/1/"
+      }
+  }, {
+      "id": 40,
         "favorite": false,
-	    "url": "http://www.adnradio.cl/",
-	    "name": "ADN Radio 91.7 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/adn-radio-91-7-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/ADN_SC"
-	    }
-	}, {
-	    "id": 41,
+      "url": "http://www.adnradio.cl/",
+      "name": "ADN Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/40.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/ADN_SC"
+      }
+  }, {
+      "id": 41,
         "favorite": false,
-	    "url": "http://sonarfm.cl/",
-	    "name": "Sonar FM 105.3",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/sonar-fm-105-3.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://mp3.sonarfm.cl/stream/1/"
-	    }
-	}, {
-	    "id": 42,
+      "url": "http://sonarfm.cl/",
+      "name": "Radio Sonar FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/41.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://mp3.sonarfm.cl/stream/1/"
+      }
+  }, {
+      "id": 42,
         "favorite": false,
-	    "url": "http://www.fmokey.cl/",
-	    "name": "Radio Okey 103.1 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-okey-103-1-fm.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://streaming.fmokey.cl:8000/FmOkCP.aac"
-	    }
-	}, {
-	    "id": 43,
+      "url": "http://www.fmokey.cl/",
+      "name": "Radio Okey",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/42.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://streaming.fmokey.cl:8000/FmOkCP.aac"
+      }
+  }, {
+      "id": 43,
         "favorite": false,
-	    "url": "http://radioclub80.blogspot.com/",
-	    "name": "Radio Club 80",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-club-80.png",
-	    "play": {
-	        "contentType": "audio/aac",
-	        "urlStream": "http://play.enhd.co:7024/;"
-	    }
-	}, {
-	    "id": 44,
+      "url": "http://radioclub80.blogspot.com/",
+      "name": "Radio Club 80",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/43.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://play.enhd.co:7024/;"
+      }
+  }, {
+      "id": 44,
         "favorite": false,
-	    "url": "http://www.radiomaxima.cl/",
-	    "name": "Radio Máxima 94.9 FM",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-maxima-94-9-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://streamprochile.com:9938/stream/1/"
-	    }
-	}, {
-	    "id": 45,
+      "url": "http://www.radiomaxima.cl/",
+      "name": "Radio Máxima",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/44.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://streamprochile.com:9938/stream/1/"
+      }
+  }, {
+      "id": 45,
         "favorite": false,
-	    "url": "http://www.radiohoy.cl/",
-	    "name": "Radio Hoy",
-	    "icon": "https://cdn.webrad.io/images/logos/emisora-cl/radio-maxima-94-9-fm.png",
-	    "play": {
-	        "contentType": "audio/mpeg",
-	        "urlStream": "http://streamprochile.com:9938/stream/1/"
-	    }
-	}]
+      "url": "http://www.radiohoy.cl/",
+      "name": "Radio Hoy",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/45.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://radio.radiohoy.cl:7002/;"
+      }
+  }, {
+      "id": 46,
+      "favorite": false,
+      "url": "http://www.nacionaldechile.cl/",
+      "name": "Radio Nacional de Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/46.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://radio.nacionaldechile.cl:9954/;"
+      }
+  }, {
+      "id": 47,
+      "favorite": false,
+      "url": "http://www.7fm.cl/",
+      "name": "Radio 7 FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/47.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://audio.streaminghd.cl:9058/;"
+      }
+  }, {
+      "id": 48,
+      "favorite": false,
+      "url": "http://www.radioportales.cl/",
+      "name": "Radio Portales",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/48.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://s6.jcwebnew.com:8060/stream"
+      }
+  }, {
+      "id": 49,
+      "favorite": false,
+      "url": "http://radio.injuv.cl/",
+      "name": "Radio Injuv FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/49.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://unlimited3-cl.dps.live/injuvfm/aac/icecast.audio"
+      }
+  }, {
+      "id": 50,
+      "favorite": false,
+      "url": "http://playfm.cl/",
+      "name": "Radio Play FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/50.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://playfm.janus.cl/playlist/stream.m3u8?s=playfm&t=1500529315&id=0d554ef9-57aa-4c92-b695-85b0c8c3c34e"
+      }
+  }, {
+      "id": 51,
+      "favorite": false,
+      "url": "http://www.cnxradio.cl/",
+      "name": "CNX Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/51.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://5.9.65.9:8074/;"
+      }
+  }, {
+      "id": 52,
+      "favorite": false,
+      "url": "https://www.coca-cola.cl/",
+      "name": "Radio Coca-Cola FM Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/52.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "https://ic.imusicaradios.com.br/chile.stream.http.48k"
+      }
+  }]
 }
