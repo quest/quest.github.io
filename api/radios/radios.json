@@ -520,5 +520,85 @@
           "contentType": "audio/mpeg",
           "urlStream": "https://ic.imusicaradios.com.br/chile.stream.http.48k"
       }
+  }, {
+      "id": 53,
+      "favorite": false,
+      "url": "http://niu.cl/",
+      "name": "Niu Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://live-origin.us.niu.cl/niu_radio.aac?rand=0.7035691775319075"
+      }
+  }, {
+      "id": 54,
+      "favorite": false,
+      "url": "http://niu.cl/",
+      "name": "Niu Radio POP",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://live-origin.us.niu.cl/niu_pop.aac?rand=0.295647363996405"
+      }
+  }, {
+      "id": 55,
+      "favorite": false,
+      "url": "http://niu.cl/",
+      "name": "Niu Radio INDIE",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://live-origin.us.niu.cl/niu_indie.aac?rand=0.48283160193268615"
+      }
+  }, {
+      "id": 56,
+      "favorite": false,
+      "url": "http://niu.cl/",
+      "name": "Niu Radio ROCK",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://live-origin.us.niu.cl/niu_rock.aac?rand=0.4328400655258573"
+      }
+  }, {
+      "id": 57,
+      "favorite": false,
+      "url": "http://niu.cl/",
+      "name": "Niu Radio CL.",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://live-origin.us.niu.cl/niu_cl.aac?rand=0.3701315305542121"
+      }
+  }, {
+      "id": 58,
+      "favorite": false,
+      "url": "http://niu.cl/",
+      "name": "Niu Radio 80s",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://live-origin.us.niu.cl/niu_80s.aac?rand=0.7846438914603913"
+      }
+  }, {
+      "id": 59,
+      "favorite": false,
+      "url": "http://niu.cl/",
+      "name": "Niu Radio 90s",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://live-origin.us.niu.cl/niu_90s.aac?rand=0.15481141759647388"
+      }
+  }, {
+      "id": 60,
+      "favorite": false,
+      "url": "http://niu.cl/",
+      "name": "Niu Radio LIVE",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://live-origin.us.niu.cl/niu_live.aac?rand=0.5485308457223754"
+      }
   }]
 }
