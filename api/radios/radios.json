@@ -3,7 +3,7 @@
   "radios": [{
     "id": 1,
         "favorite": false,
-      "url": "http://www.digitalfm.cl/",
+      "url": "http://www.digitalfm.cl",
       "name": "Radio Digital FM",
       "icon": "https://www.victorsanmartin.com/api/radios/images/1.png",
       "play": {
