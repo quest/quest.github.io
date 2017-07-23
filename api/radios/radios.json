@@ -1,6 +1,16 @@
 {
-  "version": 3,
+  "version": 4,
   "radios": [{
+      "id": 1,
+      "favorite": false,
+      "url": "http://www.digitalfm.cl",
+      "name": "Radio Digital FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/1.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://mimix.mercurio.cl:8000/digitalfm"
+      }
+  }, {
       "id": 2,
       "favorite": false,
       "url": "http://radiosol.cl/50/",
@@ -589,6 +599,16 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://live-origin.us.niu.cl/niu_live.aac?rand=0.5485308457223754"
+      }
+  }, {
+      "id": 61,
+      "favorite": false,
+      "url": "http://www.t13.cl/radio",
+      "name": "T13 Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "blob:http://w3.t13radio.cl/715290fe-24de-4a2d-bfb5-926b3e30d783"
       }
   }]
 }
