@@ -1,18 +1,8 @@
 {
-  "version": "1",
+  "version": 3,
   "radios": [{
-    "id": 1,
-        "favorite": false,
-      "url": "http://www.digitalfm.cl",
-      "name": "Radio Digital FM",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/1.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://mimix.mercurio.cl:8000/digitalfm"
-      }
-  }, {
       "id": 2,
-        "favorite": false,
+      "favorite": false,
       "url": "http://radiosol.cl/50/",
       "name": "Radio Sol",
       "icon": "https://www.victorsanmartin.com/api/radios/images/2.png",
@@ -22,7 +12,7 @@
       }
   }, {
       "id": 3,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.fmdos.cl/",
       "name": "Radio FM Dos",
       "icon": "https://www.victorsanmartin.com/api/radios/images/3.png",
@@ -32,7 +22,7 @@
       }
   }, {
       "id": 4,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.corazon.cl/",
       "name": "Radio Corazón",
       "icon": "https://www.victorsanmartin.com/api/radios/images/4.png",
@@ -62,7 +52,7 @@
       }
   }, {
       "id": 7,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radioimagina.cl/",
       "name": "Radio Imagina",
       "icon": "https://www.victorsanmartin.com/api/radios/images/7.png",
@@ -72,7 +62,7 @@
       }
   }, {
       "id": 8,
-        "favorite": false,
+      "favorite": false,
       "url": "http://radiodisney.disneylatino.com/chile",
       "name": "Radio Disney",
       "icon": "https://www.victorsanmartin.com/api/radios/images/8.png",
@@ -82,7 +72,7 @@
       }
   }, {
       "id": 9,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.pudahuel.cl/",
       "name": "Radio Pudahuel",
       "icon": "https://www.victorsanmartin.com/api/radios/images/9.png",
@@ -102,7 +92,7 @@
       }
   }, {
       "id": 11,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.romantica.cl",
       "name": "Radio Romántica",
       "icon": "https://www.victorsanmartin.com/api/radios/images/11.png",
@@ -112,7 +102,7 @@
       }
   }, {
       "id": 12,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radiozero.cl/",
       "name": "Radio Zero",
       "icon": "https://www.victorsanmartin.com/api/radios/images/12.png",
@@ -122,7 +112,7 @@
       }
   }, {
       "id": 13,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radiopaula.cl/",
       "name": "Radio Paula",
       "icon": "https://www.victorsanmartin.com/api/radios/images/13.png",
@@ -132,7 +122,7 @@
       }
   }, {
       "id": 14,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.elconquistadorfm.cl/",
       "name": "Radio El Conquistador",
       "icon": "https://www.victorsanmartin.com/api/radios/images/14.png",
@@ -152,7 +142,7 @@
       }
   }, {
       "id": 16,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.concierto.cl/",
       "name": "Radio Concierto",
       "icon": "https://www.victorsanmartin.com/api/radios/images/16.png",
@@ -162,7 +152,7 @@
       }
   }, {
       "id": 17,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radiocandela.cl/home/",
       "name": "Radio Candela FM",
       "icon": "https://www.victorsanmartin.com/api/radios/images/17.png",
@@ -172,7 +162,7 @@
       }
   }, {
       "id": 18,
-        "favorite": false,
+      "favorite": false,
       "url": "http://radio.uchile.cl/",
       "name": "Radio Universidad de Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/18.png",
@@ -182,7 +172,7 @@
       }
   }, {
       "id": 19,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.fmtiempo.cl/",
       "name": "Radio FM Tiempo",
       "icon": "https://www.victorsanmartin.com/api/radios/images/19.png",
@@ -192,7 +182,7 @@
       }
   }, {
       "id": 20,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.futuro.cl",
       "name": "Radio Futuro",
       "icon": "https://www.victorsanmartin.com/api/radios/images/20.png",
@@ -202,7 +192,7 @@
       }
   }, {
       "id": 21,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.universo.cl/",
       "name": "Radio Universo",
       "icon": "https://www.victorsanmartin.com/api/radios/images/21.png",
@@ -212,7 +202,7 @@
       }
   }, {
       "id": 22,
-        "favorite": false,
+      "favorite": false,
       "url": "http://oasisfm.cl/",
       "name": "Radio Oasis",
       "icon": "https://www.victorsanmartin.com/api/radios/images/22.png",
@@ -222,7 +212,7 @@
       }
   }, {
       "id": 23,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.biobiochile.cl/",
       "name": "Radio Bio Bio",
       "icon": "https://www.victorsanmartin.com/api/radios/images/23.png",
@@ -232,7 +222,7 @@
       }
   }, {
       "id": 24,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.beethovenfm.cl/",
       "name": "Radio Beethoven",
       "icon": "https://www.victorsanmartin.com/api/radios/images/24.png",
@@ -242,7 +232,7 @@
       }
   }, {
       "id": 25,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.duna.cl/",
       "name": "Radio Duna",
       "icon": "https://www.victorsanmartin.com/api/radios/images/25.png",
@@ -252,7 +242,7 @@
       }
   }, {
       "id": 26,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radiounochile.cl/player-online/",
       "name": "Radio Uno",
       "icon": "https://www.victorsanmartin.com/api/radios/images/26.png",
@@ -262,7 +252,7 @@
       }
   }, {
       "id": 27,
-        "favorite": false,
+      "favorite": false,
       "url": "http://canalcarnaval.cl/envivo/",
       "name": "Radio Carnaval",
       "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
@@ -272,7 +262,7 @@
       }
   }, {
       "id": 28,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radioarmonia.cl/inicio/",
       "name": "Radio Armonía",
       "icon": "https://www.victorsanmartin.com/api/radios/images/28.png",
@@ -282,7 +272,7 @@
       }
   }, {
       "id": 29,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radioagricultura.cl/",
       "name": "Radio Agricultura",
       "icon": "https://www.victorsanmartin.com/api/radios/images/29.png",
@@ -292,7 +282,7 @@
       }
   }, {
       "id": 30,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radiocarinosa.cl/",
       "name": "Radio Cariñosa",
       "icon": "https://www.victorsanmartin.com/api/radios/images/30.png",
@@ -302,7 +292,7 @@
       }
   }, {
       "id": 31,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.cooperativa.cl/",
       "name": "Radio Cooperativa",
       "icon": "https://www.victorsanmartin.com/api/radios/images/31.png",
@@ -312,7 +302,7 @@
       }
   }, {
       "id": 32,
-        "favorite": false,
+      "favorite": false,
       "url": "http://radionuble.cl/linea/",
       "name": "Radio Ñuble Chillán",
       "icon": "https://www.victorsanmartin.com/api/radios/images/32.png",
@@ -322,7 +312,7 @@
       }
   }, {
       "id": 33,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.infinita.cl/",
       "name": "Infinita Radio",
       "icon": "https://www.victorsanmartin.com/api/radios/images/33.png",
@@ -332,7 +322,7 @@
       }
   }, {
       "id": 34,
-        "favorite": false,
+      "favorite": false,
       "url": "http://radiomaria.cl/",
       "name": "Radio María",
       "icon": "https://www.victorsanmartin.com/api/radios/images/34.png",
@@ -342,7 +332,7 @@
       }
   }, {
       "id": 35,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radiocolocolo.cl/",
       "name": "Radio Colo Colo",
       "icon": "https://www.victorsanmartin.com/api/radios/images/35.png",
@@ -352,7 +342,7 @@
       }
   }, {
       "id": 36,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radiomontecarlo.cl/web/",
       "name": "Radio Montecarlo",
       "icon": "https://www.victorsanmartin.com/api/radios/images/36.png",
@@ -362,7 +352,7 @@
       }
   }, {
       "id": 37,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radiocentinela.cl/",
       "name": "Radio Centinela Yumbel",
       "icon": "https://www.victorsanmartin.com/api/radios/images/37.png",
@@ -372,7 +362,7 @@
       }
   }, {
       "id": 38,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radioamor.cl/",
       "name": "Radio Amor Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/38.png",
@@ -382,7 +372,7 @@
       }
   }, {
       "id": 39,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.fmbox.cl",
       "name": "FM Box Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/39.png",
@@ -392,7 +382,7 @@
       }
   }, {
       "id": 40,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.adnradio.cl/",
       "name": "ADN Radio",
       "icon": "https://www.victorsanmartin.com/api/radios/images/40.png",
@@ -402,7 +392,7 @@
       }
   }, {
       "id": 41,
-        "favorite": false,
+      "favorite": false,
       "url": "http://sonarfm.cl/",
       "name": "Radio Sonar FM",
       "icon": "https://www.victorsanmartin.com/api/radios/images/41.png",
@@ -412,7 +402,7 @@
       }
   }, {
       "id": 42,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.fmokey.cl/",
       "name": "Radio Okey",
       "icon": "https://www.victorsanmartin.com/api/radios/images/42.png",
@@ -422,7 +412,7 @@
       }
   }, {
       "id": 43,
-        "favorite": false,
+      "favorite": false,
       "url": "http://radioclub80.blogspot.com/",
       "name": "Radio Club 80",
       "icon": "https://www.victorsanmartin.com/api/radios/images/43.png",
@@ -432,7 +422,7 @@
       }
   }, {
       "id": 44,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radiomaxima.cl/",
       "name": "Radio Máxima",
       "icon": "https://www.victorsanmartin.com/api/radios/images/44.png",
@@ -442,7 +432,7 @@
       }
   }, {
       "id": 45,
-        "favorite": false,
+      "favorite": false,
       "url": "http://www.radiohoy.cl/",
       "name": "Radio Hoy",
       "icon": "https://www.victorsanmartin.com/api/radios/images/45.png",
@@ -512,7 +502,7 @@
       }
   }, {
       "id": 52,
-      "favorite": false,
+     "favorite": false,
       "url": "https://www.coca-cola.cl/",
       "name": "Radio Coca-Cola FM Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/52.png",
