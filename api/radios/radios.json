@@ -663,7 +663,7 @@
   }, {
       "id": 67,
       "favorite": false,
-      "url": "hhttp://www.radiocumbre.cl/",
+      "url": "http://www.radiocumbre.cl/",
       "name": "Radio Cumbre 90.9 FM",
       "icon": "https://www.victorsanmartin.com/api/radios/images/67.png",
       "play": {
