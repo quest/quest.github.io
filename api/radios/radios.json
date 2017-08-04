@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -599,6 +599,76 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://live-origin.us.niu.cl/niu_live.aac?rand=0.5485308457223754"
+      }
+  }, {
+      "id": 61,
+      "favorite": false,
+      "url": "http://radiofmimagen.net/",
+      "name": "Radio FM Imagen",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/61.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://200.58.102.90:8034/live"
+      }
+  }, {
+      "id": 62,
+      "favorite": false,
+      "url": "http://www.fusionradio.cl/",
+      "name": "Fusion Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/62.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://107.155.120.114:9904/;"
+      }
+  }, {
+      "id": 63,
+      "favorite": false,
+      "url": "http://www.acuarelafm.cl/",
+      "name": "Radio Acuarela FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/63.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://s3.medionline.cl:8078/;"
+      }
+  }, {
+      "id": 64,
+      "favorite": false,
+      "url": "http://www.chilechico.cl/",
+      "name": "Radio FM tú 92.1",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/64.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://201.187.109.44:8000/;"
+      }
+  }, {
+      "id": 65,
+      "favorite": false,
+      "url": "http://arribafm.wixsite.com/curacavi",
+      "name": "Radio Arriba FM Curacavi",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/65.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://centova.crearchile.info:8176/;"
+      }
+  }, {
+      "id": 66,
+      "favorite": false,
+      "url": "http://www.fmmusic.cl/",
+      "name": "Radio FM Music Curacavi",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/66.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://212.83.146.67:9980/;"
+      }
+  }, {
+      "id": 67,
+      "favorite": false,
+      "url": "hhttp://www.radiocumbre.cl/",
+      "name": "Radio Cumbre 90.9 FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/67.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://sc.digitalproserver.com:9604/;?1501890036393"
       }
   }]
 }
