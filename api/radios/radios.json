@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -749,6 +749,16 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://206.190.136.140:7355/;stream/1"
+      }
+  }, {
+      "id": 76,
+      "favorite": false,
+      "url": "http://www.miradiols.cl/",
+      "name": "MiRadio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/76.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://s6.jcwebnew.com:9020/stream"
       }
   }]
 }
