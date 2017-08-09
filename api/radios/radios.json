@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -769,6 +769,16 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://tunein.digitalproserver.com/laclavebb.aac"
+      }
+  }, {
+      "id": 78,
+      "favorite": false,
+      "url": "http://radiogenial.cl/",
+      "name": "Radio Genial",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/78.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://s6.jcwebnew.com:7555/stream"
       }
   }]
 }
