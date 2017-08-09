@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "radios": [{
       "id": 1,
       "favorite": false,
