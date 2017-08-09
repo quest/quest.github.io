@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -779,6 +779,16 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://s6.jcwebnew.com:7555/stream"
+      }
+  }, {
+      "id": 79,
+      "favorite": false,
+      "url": "http://www.radio45.cl/",
+      "name": "Radio 45 Sur",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/79.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://stream5.eltelon.com:8000/45-sur.aac"
       }
   }]
 }
