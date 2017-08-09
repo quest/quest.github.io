@@ -670,5 +670,75 @@
           "contentType": "audio/mpeg",
           "urlStream": "http://sc.digitalproserver.com:9604/;?1501890036393"
       }
+  }, {
+      "id": 68,
+      "favorite": false,
+      "url": "https://www.pagina7.cl/",
+      "name": "Radio Punto 7 Valparaíso",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://unlimited3-cl.dps.live/p7valparaiso/aac/icecast.audio"
+      }
+  }, {
+      "id": 69,
+      "favorite": false,
+      "url": "https://www.pagina7.cl/",
+      "name": "Radio Punto 7 Concepcion",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://unlimited3-cl.dps.live/p7concepcion/aac/icecast.audio"
+      }
+  }, {
+      "id": 70,
+      "favorite": false,
+      "url": "https://www.pagina7.cl/",
+      "name": "Radio Punto 7 Los Angeles",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://unlimited3-cl.dps.live/p7losangeles/aac/icecast.audio"
+      }
+  }, {
+      "id": 71,
+      "favorite": false,
+      "url": "https://www.pagina7.cl/",
+      "name": "Radio Punto 7 Temuco",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://unlimited3-cl.dps.live/p7temuco/aac/icecast.audio"
+      }
+  }, {
+      "id": 72,
+      "favorite": false,
+      "url": "https://www.pagina7.cl/",
+      "name": "Radio Punto 7 Valdivia",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://unlimited3-cl.dps.live/p7valdivia/aac/icecast.audio"
+      }
+  }, {
+      "id": 73,
+      "favorite": false,
+      "url": "https://www.pagina7.cl/",
+      "name": "Radio Punto 7 Osorno",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://unlimited3-cl.dps.live/p7osorno/aac/icecast.audio"
+      }
+  }, {
+      "id": 74,
+      "favorite": false,
+      "url": "https://www.pagina7.cl/",
+      "name": "Radio Punto 7 Puerto Montt",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://unlimited3-cl.dps.live/p7puertomontt/aac/icecast.audio"
+      }
   }]
 }
