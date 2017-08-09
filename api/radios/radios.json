@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -759,6 +759,16 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://s6.jcwebnew.com:9020/stream"
+      }
+  }, {
+      "id": 77,
+      "favorite": false,
+      "url": "http://radiolaclave.cl/",
+      "name": "Radio La Clave",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/77.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://tunein.digitalproserver.com/laclavebb.aac"
       }
   }]
 }
