@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -739,6 +739,16 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://unlimited3-cl.dps.live/p7puertomontt/aac/icecast.audio"
+      }
+  }, {
+      "id": 75,
+      "favorite": false,
+      "url": "https://www.maxivinil.com",
+      "name": "Maxivinil Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/75.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://206.190.136.140:7355/;stream/1"
       }
   }]
 }
