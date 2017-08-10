@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 16,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -809,6 +809,26 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://sscl.denialstream.com:8044/;stream/1"
+      }
+  }, {
+      "id": 82,
+      "favorite": false,
+      "url": "http://www.somoschileradio.cl/",
+      "name": "Somos Chile Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/82.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://5.9.65.9:8120/;"
+      }
+  }, {
+      "id": 83,
+      "favorite": false,
+      "url": "http://www.sintoniaalbaradio.com/",
+      "name": "Sintonía Alba",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/83.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://192.99.18.164:9818/;"
       }
   }]
 }
