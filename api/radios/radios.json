@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -789,6 +789,16 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://stream5.eltelon.com:8000/45-sur.aac"
+      }
+  }, {
+      "id": 80,
+      "favorite": false,
+      "url": "https://www.radiosport.cl/",
+      "name": "Radio Sport",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/80.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://sscl.denialstream.com:8044/;stream/1"
       }
   }]
 }
