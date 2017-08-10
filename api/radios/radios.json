@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -829,6 +829,36 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://192.99.18.164:9818/;"
+      }
+  }, {
+      "id": 84,
+      "favorite": false,
+      "url": "http://frecuenciacruzada.cl/",
+      "name": "Frecuencia Cruzada",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/84.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://5.9.65.9:8022/stream"
+      }
+  }, {
+      "id": 85,
+      "favorite": false,
+      "url": "http://www.lauradio.cl/",
+      "name": "La U Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/85.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://stream3.rbm.cl:8010/playerweb.aac"
+      }
+  }, {
+      "id": 86,
+      "favorite": false,
+      "url": "http://radioazulchile.cl/",
+      "name": "Radio AzulChile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/86.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://centova.crearchile.info:8104/stream"
       }
   }]
 }
