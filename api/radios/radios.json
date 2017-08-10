@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -449,6 +449,16 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://radio.radiohoy.cl:7002/;"
+      }
+  }, {
+      "id": 81,
+      "favorite": false,
+      "url": "http://hoydeportes.cl/",
+      "name": "Radio Hoy Deportes",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/81.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://radio.radiohoy.cl:7000/;"
       }
   }, {
       "id": 46,
