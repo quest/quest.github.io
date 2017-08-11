@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -869,6 +869,16 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://streaming.shoutcast.com/RadioHunter-TheElectronicChannel"
+      }
+  }, {
+      "id": 88,
+      "favorite": false,
+      "url": "http://www.radioisadorafm.cl/",
+      "name": "Radio Isadora",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/88.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://173.233.72.82:9326/;"
       }
   }]
 }
