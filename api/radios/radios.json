@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -859,6 +859,16 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://centova.crearchile.info:8104/stream"
+      }
+  }, {
+      "id": 87,
+      "favorite": false,
+      "url": "http://mgradiochile.weebly.com/",
+      "name": "MG Radio Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/87.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://streaming.shoutcast.com/RadioHunter-TheElectronicChannel"
       }
   }]
 }
