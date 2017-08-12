@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -889,6 +889,16 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://radio1.us.mediastre.am/subela.aac"
+      }
+  }, {
+      "id": 90,
+      "favorite": false,
+      "url": "http://www.rinoceronte.fm/",
+      "name": "Rinoceronte.fm",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/90.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://radio1.us.mediastre.am/rinoceronte.aac"
       }
   }]
 }
