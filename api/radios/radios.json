@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 23,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -899,6 +899,46 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://radio1.us.mediastre.am/rinoceronte.aac"
+      }
+  }, {
+      "id": 91,
+      "favorite": false,
+      "url": "http://www.beatfm.cl/",
+      "name": "Beat FM Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/91.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://sonando.us.digitalproserver.com/beatfm_aac"
+      }
+  }, {
+      "id": 92,
+      "favorite": false,
+      "url": "http://www.rocketradio.cl/",
+      "name": "Rocket Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/92.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://104.131.18.232:8000/;"
+      }
+  }, {
+      "id": 93,
+      "favorite": false,
+      "url": "https://www.radiosago.cl/",
+      "name": "Radio Sago Osorno",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/93.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://184.107.165.66:9974/;?1502558795846"
+      }
+  }, {
+      "id": 94,
+      "favorite": false,
+      "url": "https://www.radiosago.cl/",
+      "name": "Radio Sago Puerto Montt",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/93.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://184.107.165.66:9992/;?1502558811387"
       }
   }]
 }
