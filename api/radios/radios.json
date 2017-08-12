@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -879,6 +879,16 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://173.233.72.82:9326/;"
+      }
+  }, {
+      "id": 89,
+      "favorite": false,
+      "url": "http://subela.cl/",
+      "name": "Súbela Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/89.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://radio1.us.mediastre.am/subela.aac"
       }
   }]
 }
