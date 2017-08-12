@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -939,6 +939,96 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://184.107.165.66:9992/;?1502558811387"
+      }
+  }, {
+      "id": 95,
+      "favorite": false,
+      "url": "http://radiocarnaval.cl/ovalle/",
+      "name": "Radio Carnaval FM Ovalle",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/carnaval_ovalle.aac"
+      }
+  }, {
+      "id": 96,
+      "favorite": false,
+      "url": "http://radiocarnaval.cl/antofagasta/",
+      "name": "Radio Carnaval FM Antofagasta",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac"
+      }
+  }, {
+      "id": 97,
+      "favorite": false,
+      "url": "http://radiocarnaval.cl/ligua/",
+      "name": "Radio Carnaval FM La Ligua",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/carnaval_quillota.aac"
+      }
+  }, {
+      "id": 98,
+      "favorite": false,
+      "url": "http://radiocarnaval.cl/lacalera/",
+      "name": "Radio Carnaval FM La Calera",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/carnaval_quillota.aac"
+      }
+  }, {
+      "id": 99,
+      "favorite": false,
+      "url": "http://radiocarnaval.cl/sanfelipe/",
+      "name": "Radio Carnaval FM San Felipe",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/carnaval_aconcagua.aac"
+      }
+  }, {
+      "id": 100,
+      "favorite": false,
+      "url": "http://radiocarnaval.cl/sanantonio/",
+      "name": "Radio Carnaval FM San Antonio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/carnaval_sanantonio.aac"
+      }
+  }, {
+      "id": 101,
+      "favorite": false,
+      "url": "http://radiocarnaval.cl/rancagua/",
+      "name": "Radio Carnaval FM Rancagua",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/carnaval_rancagua.aac"
+      }
+  }, {
+      "id": 102,
+      "favorite": false,
+      "url": "http://radiocarnaval.cl/curico/",
+      "name": "Radio Carnaval FM Curico",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/carnaval_curico.aac"
+      }
+  }, {
+      "id": 103,
+      "favorite": false,
+      "url": "http://radiocarnaval.cl/patagonia/",
+      "name": "Radio Carnaval FM Patagonia",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/carnaval_puntaarenas.aac"
       }
   }]
 }
