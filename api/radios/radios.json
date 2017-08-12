@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -263,12 +263,12 @@
   }, {
       "id": 27,
       "favorite": false,
-      "url": "http://canalcarnaval.cl/envivo/",
-      "name": "Radio Carnaval",
+      "url": "http://radiocarnaval.cl/vinadelmar/",
+      "name": "Radio Carnaval FM Viña del Mar",
       "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://ice.dallas.digitalproserver.com/carnaval_vina"
+          "urlStream": "http://sonando.us.digitalproserver.com/carnaval_vinadelmar.aac"
       }
   }, {
       "id": 28,
