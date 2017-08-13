@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1029,6 +1029,126 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://sonando.us.digitalproserver.com/carnaval_puntaarenas.aac"
+      }
+  }, {
+      "id": 104,
+      "favorite": false,
+      "url": "http://ejatefm.cl/",
+      "name": "Ejate FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/104.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.18.164:9734/;"
+      }
+  }, {
+      "id": 105,
+      "favorite": false,
+      "url": "https://radiotrespuntos.cl/",
+      "name": "Radio Tres Puntos",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/105.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.18.164:9598/;"
+      }
+  }, {
+      "id": 106,
+      "favorite": false,
+      "url": "http://www.plataformafm.cl/",
+      "name": "Plataforma FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/106.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.18.164:9560/;"
+      }
+  }, {
+      "id": 107,
+      "favorite": false,
+      "url": "http://www.serfm.cl/",
+      "name": "Ser FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/107.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/serfm_aac"
+      }
+  }, {
+      "id": 108,
+      "favorite": false,
+      "url": "http://www.radioemergencia.cl/",
+      "name": "Radio Emergencia",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/108.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://198.27.83.198:5500/player/index.html/;stream.mp3"
+      }
+  }, {
+      "id": 109,
+      "favorite": false,
+      "url": "http://www.radiochiloe.cl/",
+      "name": "Radio Chiloé",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/109.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://streaming.chiloestreaming.com:9554/;"
+      }
+  }, {
+      "id": 110,
+      "favorite": false,
+      "url": "http://www.radiosiente.com/",
+      "name": "Radio Siente Indie/Rock/Pop",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/110.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio1.us.mediastre.am/siente.aac"
+      }
+  }, {
+      "id": 111,
+      "favorite": false,
+      "url": "http://www.radiosiente.com/",
+      "name": "Radio Siente 80s/Pop/Rock",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/111.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio1.us.mediastre.am/siente2.aac"
+      }
+  }, {
+      "id": 112,
+      "favorite": false,
+      "url": "http://www.radiosiente.com/",
+      "name": "Radio Siente Dance/House/Pop",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/112.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio1.us.mediastre.am/siente3.aac"
+      }
+  }, {
+      "id": 113,
+      "favorite": false,
+      "url": "http://www.nuevasuper.cl/",
+      "name": "La Nueva SUPER 91.9",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/113.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://144.217.189.5:9982/;"
+      }
+  }, {
+      "id": 114,
+      "favorite": false,
+      "url": "http://rockaxis.com/",
+      "name": "Rockaxis Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/114.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio.cl.mediastre.am/rockaxis.aac"
+      }
+  }, {
+      "id": 115,
+      "favorite": false,
+      "url": "http://www.radiovillafrancia.cl/",
+      "name": "Radio Villa Francia",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/115.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://167.114.208.100:9814/;"
       }
   }]
 }
