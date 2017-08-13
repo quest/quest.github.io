@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1149,6 +1149,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://167.114.208.100:9814/;"
+      }
+  }, {
+      "id": 116,
+      "favorite": false,
+      "url": "http://www.radiounidafm.cl/",
+      "name": "Radio Unida FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/116.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://livehd.cdn.felpysolutions.us:5840/radiounidafm.mp3"
       }
   }]
 }
