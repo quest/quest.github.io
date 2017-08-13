@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1154,7 +1154,7 @@
       "id": 116,
       "favorite": false,
       "url": "http://www.radiounidafm.cl/",
-      "name": "Radio Unida FM",
+      "name": "Radio Unida FM Chile Oficial",
       "icon": "https://www.victorsanmartin.com/api/radios/images/116.png",
       "play": {
           "contentType": "audio/aac",
