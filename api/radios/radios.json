@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1159,6 +1159,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://livehd.cdn.felpysolutions.us:5840/radiounidafm.mp3"
+      }
+  }, {
+      "id": 117,
+      "favorite": false,
+      "url": "http://radiofederacion.cl/",
+      "name": "Radio Federación",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/117.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radiofederacion-shout.janus.cl/;stream.mp3"
       }
   }]
 }
