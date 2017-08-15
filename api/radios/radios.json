@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1169,6 +1169,36 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://radiofederacion-shout.janus.cl/;stream.mp3"
+      }
+  }, {
+      "id": 118,
+      "favorite": false,
+      "url": "http://radiolacentral.cl/",
+      "name": "Radio LaCENTRAL",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/118.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/lacentral_aac"
+      }
+  }, {
+      "id": 119,
+      "favorite": false,
+      "url": "http://radio.uchile.cl/",
+      "name": "Diario-Radio UChile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/119.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream3.rbm.cl:8010/playerweb.aac"
+      }
+  }, {
+      "id": 120,
+      "favorite": false,
+      "url": "http://radionuevomundo.cl/",
+      "name": "Radio Nuevo Mundo",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/120.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://190.82.105.90:8012/;"
       }
   }]
 }
