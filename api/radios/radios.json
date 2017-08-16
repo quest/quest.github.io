@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1199,6 +1199,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://190.82.105.90:8012/;"
+      }
+  }, {
+      "id": 121,
+      "favorite": false,
+      "url": "https://amigafm.cl/",
+      "name": "Radio Amiga",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/121.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/amiga-fm.aac1"
       }
   }]
 }
