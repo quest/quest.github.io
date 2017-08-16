@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1209,6 +1209,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://stream5.eltelon.com/amiga-fm.aac"
+      }
+  }, {
+      "id": 122,
+      "favorite": false,
+      "url": "http://www.radiopulso.cl/",
+      "name": "Radio Pulso",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/122.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://104.131.243.43:8095/;"
       }
   }]
 }
