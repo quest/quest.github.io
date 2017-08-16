@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1208,7 +1208,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/121.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/amiga-fm.aac1"
+          "urlStream": "http://stream5.eltelon.com/amiga-fm.aac"
       }
   }]
 }
