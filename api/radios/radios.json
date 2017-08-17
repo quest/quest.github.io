@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1219,6 +1219,26 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://104.131.243.43:8095/;"
+      }
+  }, {
+      "id": 123,
+      "favorite": false,
+      "url": "http://8090.cl/",
+      "name": "80/90 Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/123.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://198.50.154.235:10250/;stream/1"
+      }
+  }, {
+      "id": 124,
+      "favorite": false,
+      "url": "http://www.radiorecreo.cl/",
+      "name": "Radio Recreo",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/124.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s4.medionline.cl:8025/;stream.nsv"
       }
   }]
 }
