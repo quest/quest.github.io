@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1249,6 +1249,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://184.154.173.147:8004/stream?1502936207387"
+      }
+  }, {
+      "id": 126,
+      "favorite": false,
+      "url": "https://www.radiocasaabierta.cl/",
+      "name": "Radio Casa Abierta",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/126.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://audio.streaminghd.cl:9066/;?1502978999002"
       }
   }]
 }
