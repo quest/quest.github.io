@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1299,6 +1299,26 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://sonando.us.digitalproserver.com/ucvradio"
+      }
+  }, {
+      "id": 131,
+      "favorite": false,
+      "url": "http://www.nostalgica.cl/",
+      "name": "Radio Nostálgica",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/131.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://unlimited1-cl.digitalproserver.com/nostalgica/aac/icecast.audio"
+      }
+  }, {
+      "id": 132,
+      "favorite": false,
+      "url": "http://www.nostalgica.cl/",
+      "name": "Radio Nostálgica Plus",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/131.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://unlimited1-cl.digitalproserver.com/nostalgicaplus/aac/icecast.audio"
       }
   }]
 }
