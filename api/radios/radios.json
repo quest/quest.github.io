@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1279,6 +1279,26 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://167.114.119.122:9838/;"
+      }
+  }, {
+      "id": 129,
+      "favorite": false,
+      "url": "http://www.tele13radio.cl/",
+      "name": "Tele13 Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/129.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://mp3.t13radio.cl/;"
+      }
+  }, {
+      "id": 130,
+      "favorite": false,
+      "url": "http://www.ucvmedios.cl/",
+      "name": "UCV Radio 103.5 FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/130.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://mp3.t13radio.cl/;"
       }
   }]
 }
