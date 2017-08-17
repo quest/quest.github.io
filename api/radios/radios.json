@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1269,6 +1269,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://s6.jcwebnew.com:7060/stream"
+      }
+  }, {
+      "id": 128,
+      "favorite": false,
+      "url": "http://www.radiojgm.cl/",
+      "name": "Radio JGM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/128.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://167.114.119.122:9838/;"
       }
   }]
 }
