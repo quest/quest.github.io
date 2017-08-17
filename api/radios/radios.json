@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1298,7 +1298,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/130.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://mp3.t13radio.cl/;"
+          "urlStream": "http://sonando.us.digitalproserver.com/ucvradio"
       }
   }]
 }
