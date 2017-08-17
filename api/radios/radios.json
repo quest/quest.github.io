@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1239,6 +1239,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://s4.medionline.cl:8025/;stream.nsv"
+      }
+  }, {
+      "id": 125,
+      "favorite": false,
+      "url": "http://www.radioriquelme.cl/",
+      "name": "Radio Riquelme RRC",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/125.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://184.154.173.147:8004/stream?1502936207387"
       }
   }]
 }
