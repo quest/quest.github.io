@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1384,7 +1384,7 @@
       "id": 139,
       "favorite": false,
       "url": "http://www.radiosanjoaquin.cl/",
-      "name": "Radio Tributo",
+      "name": "Radio San joaquin",
       "icon": "https://www.victorsanmartin.com/api/radios/images/139.png",
       "play": {
           "contentType": "audio/aac",
