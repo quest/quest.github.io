@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1349,6 +1349,56 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://192.99.18.164:9600/;"
+      }
+  }, {
+      "id": 136,
+      "favorite": false,
+      "url": "http://www.movimientopatagonia.cl/",
+      "name": "Radio Trapananda",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/136.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.198.83.230:9902/;"
+      }
+  }, {
+      "id": 137,
+      "favorite": false,
+      "url": "https://www.radiomesias.cl/",
+      "name": "Radio Mesias FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/137.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://200.24.229.253:8310/;"
+      }
+  }, {
+      "id": 138,
+      "favorite": false,
+      "url": "http://www.radiotributo.net/",
+      "name": "Radio Tributo",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/138.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://144.217.129.213:8850/stream;"
+      }
+  }, {
+      "id": 139,
+      "favorite": false,
+      "url": "http://www.radiosanjoaquin.cl/",
+      "name": "Radio Tributo",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/139.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://espora.org:8000/radiosanjoaquin.mp3"
+      }
+  }, {
+      "id": 140,
+      "favorite": false,
+      "url": "http://www.sofchileradio.cl/",
+      "name": "SOFChile Radio.cl",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/140.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://190.3.168.130:9060/stream"
       }
   }]
 }
