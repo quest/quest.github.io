@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1319,6 +1319,26 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://unlimited1-cl.digitalproserver.com/nostalgicaplus/aac/icecast.audio"
+      }
+  }, {
+      "id": 133,
+      "favorite": false,
+      "url": "http://www.codigometal.net/",
+      "name": "Código Metal Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/133.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://176.31.241.17:8068/;stream.nsv"
+      }
+  }, {
+      "id": 134,
+      "favorite": false,
+      "url": "http://radiopopchile.myl2mr.com/",
+      "name": "Radio Pop Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/134.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://50.22.218.101/stream.mp3?ipport=50.22.218.101_40480"
       }
   }]
 }
