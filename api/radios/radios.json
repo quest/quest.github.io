@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1339,6 +1339,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://50.22.218.101/stream.mp3?ipport=50.22.218.101_40480"
+      }
+  }, {
+      "id": 135,
+      "favorite": false,
+      "url": "https://radiogalactika.cl/",
+      "name": "Radio Galactika",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/135.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.18.164:9600/;"
       }
   }]
 }
