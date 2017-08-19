@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1399,6 +1399,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://190.3.168.130:9060/stream"
+      }
+  }, {
+      "id": 141,
+      "favorite": false,
+      "url": "http://fm7lagos.cl/",
+      "name": "FM 7 Lagos",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/141.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.18.164:9852/;"
       }
   }]
 }
