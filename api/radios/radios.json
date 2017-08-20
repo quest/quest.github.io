@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1409,6 +1409,26 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://192.99.18.164:9852/;"
+      }
+  }, {
+      "id": 142,
+      "favorite": false,
+      "url": "http://ndmradiochile.cl/",
+      "name": "Radio NDM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/142.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://94.23.84.122:7048/;"
+      }
+  }, {
+      "id": 143,
+      "favorite": false,
+      "url": "http://radiolascolinas.cl/",
+      "name": "Radio Las Colinas",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/143.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/las-colinas.aac"
       }
   }]
 }
