@@ -1,5 +1,5 @@
 {
-  "version": 50,
+  "version": 51,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1449,6 +1449,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://5.9.65.6:9952/;"
+      }
+  }, {
+      "id": 146,
+      "favorite": false,
+      "url": "http://www.radioaukinko.cl/",
+      "name": "Radio Aukinko",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/146.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.18.164:9748/;"
       }
   }]
 }
