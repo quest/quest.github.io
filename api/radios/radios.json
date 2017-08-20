@@ -1,5 +1,5 @@
 {
-  "version": 48,
+  "version": 49,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1429,6 +1429,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://stream5.eltelon.com/las-colinas.aac"
+      }
+  }, {
+      "id": 144,
+      "favorite": false,
+      "url": "http://radiochevere.cl/",
+      "name": "Radio Chévere",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/144.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://laradiohd.com:9920/;"
       }
   }]
 }
