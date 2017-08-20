@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1439,6 +1439,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://laradiohd.com:9920/;"
+      }
+  }, {
+      "id": 145,
+      "favorite": false,
+      "url": "http://aconcaguahaiti.cl/",
+      "name": "Radio Aconcagua Haiti",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/145.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://5.9.65.6:9952/;"
       }
   }]
 }
