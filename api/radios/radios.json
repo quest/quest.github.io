@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1459,6 +1459,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://192.99.18.164:9748/;"
+      }
+  }, {
+      "id": 147,
+      "favorite": false,
+      "url": "http://www.rlpfm.cl/osornochile/",
+      "name": "RLPFM Osorno",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/147.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://167.114.208.100:9954/;?1503344786904"
       }
   }]
 }
