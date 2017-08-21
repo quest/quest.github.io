@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1469,6 +1469,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://167.114.208.100:9954/;?1503344786904"
+      }
+  }, {
+      "id": 148,
+      "favorite": false,
+      "url": "http://www.radiokamila.cl/",
+      "name": "Radio Kamila",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/148.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s6.jcwebnew.com:7470/stream"
       }
   }]
 }
