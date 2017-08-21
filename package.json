@@ -5,7 +5,8 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "git add . && git commit -am \"nueva radio\" && git push && ./cleancache.sh"
+    "deploy": "./cleancache.sh",
+    "sh": "./cleancache.sh"
   },
   "repository": {
     "type": "git",
