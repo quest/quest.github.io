@@ -1,5 +1,5 @@
 {
-  "version": 56,
+  "version": 57,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1479,6 +1479,96 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://s6.jcwebnew.com:7470/stream"
+      }
+  }, {
+      "id": 149,
+      "favorite": false,
+      "url": "http://www.caribefm.cl/",
+      "name": "Radio Caribe FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/149.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://198.50.154.235:10248/;"
+      }
+  }, {
+      "id": 150,
+      "favorite": false,
+      "url": "http://estacionfm.cl/",
+      "name": "Estacion FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/150.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.18.164:9902/;"
+      }
+  }, {
+      "id": 151,
+      "favorite": false,
+      "url": "http://centrofm.cl/",
+      "name": "Centro FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/151.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/centro.aac"
+      }
+  }, {
+      "id": 152,
+      "favorite": false,
+      "url": "http://radiocongreso.cl/",
+      "name": "Radio Congreso Valparaíso",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/152.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/radio-congreso.aac"
+      }
+  }, {
+      "id": 153,
+      "favorite": false,
+      "url": "http://femeninafm.cl/",
+      "name": "Femenina FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/153.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com:8000/femenina-fm.aac"
+      }
+  }, {
+      "id": 154,
+      "favorite": false,
+      "url": "http://radiogenesis.cl/",
+      "name": "Radio Genesis",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/154.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/genesis.aac"
+      }
+  }, {
+      "id": 155,
+      "favorite": false,
+      "url": "http://www.radiohualaihue.cl/",
+      "name": "Radio Hualaihué FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/155.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.150.234:9934/;stream.mp3"
+      }
+  }, {
+      "id": 156,
+      "favorite": false,
+      "url": "http://www.radioinesdesuarez.cl/",
+      "name": "Radio Inés de Suárez",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/156.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/ines-de-suarez.aac"
+      }
+  }, {
+      "id": 157,
+      "favorite": false,
+      "url": "http://www.cprpresencia.cl/",
+      "name": "Radio Camelia",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/157.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://200.54.134.30:3698/;stream.nsv"
       }
   }]
 }
