@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "push": "git add . && git commit -am \"nueva radio\" && g push"
+    "push": "git add . && git commit -am \"nueva radio\" && git push"
   },
   "repository": {
     "type": "git",
