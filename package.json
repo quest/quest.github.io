@@ -1,0 +1,25 @@
+{
+  "name": "victorsanmartin",
+  "version": "1.0.0",
+  "description": "Webte",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "push": "git add . && git commit -am \"nueva radio\" && g push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quest/quest.github.io.git"
+  },
+  "keywords": [
+    "website",
+    "api",
+    "personal"
+  ],
+  "author": "Victor San Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quest/quest.github.io/issues"
+  },
+  "homepage": "https://github.com/quest/quest.github.io#readme"
+}
