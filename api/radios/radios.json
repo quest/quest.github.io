@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1599,6 +1599,86 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://stream5.eltelon.com/candelaria.aac"
+      }
+  }, {
+      "id": 161,
+      "favorite": false,
+      "url": "http://radiofranja.cl/",
+      "name": "Radio Franja",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/161.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio.radiofranja.cl:8000/;"
+      }
+  }, {
+      "id": 162,
+      "favorite": false,
+      "url": "http://www.biobiochile.cl/",
+      "name": "Radio Bio Bio Valparaíso",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/23.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://unlimited3-cl.dps.live/biobiovalparaiso/aac/icecast.audio"
+      }
+  }, {
+      "id": 163,
+      "favorite": false,
+      "url": "http://www.biobiochile.cl/",
+      "name": "Radio Bio Bio Concepción",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/23.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio"
+      }
+  }, {
+      "id": 164,
+      "favorite": false,
+      "url": "http://www.biobiochile.cl/",
+      "name": "Radio Bio Bio Los Angeles",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/23.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://unlimited3-cl.dps.live/biobiolosangeles/aac/icecast.audio"
+      }
+  }, {
+      "id": 165,
+      "favorite": false,
+      "url": "http://www.biobiochile.cl/",
+      "name": "Radio Bio Bio Temuco",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/23.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://unlimited1-cl.dps.live/biobiotemuco/aac/icecast.audio"
+      }
+  }, {
+      "id": 166,
+      "favorite": false,
+      "url": "http://www.biobiochile.cl/",
+      "name": "Radio Bio Bio Osorno",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/23.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://unlimited3-cl.dps.live/biobioosorno/aac/icecast.audio"
+      }
+  }, {
+      "id": 167,
+      "favorite": false,
+      "url": "http://www.biobiochile.cl/",
+      "name": "Radio Bio Bio Valdivia",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/23.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://unlimited1-cl.dps.live/biobiovaldivia/aac/icecast.audio"
+      }
+  }, {
+      "id": 168,
+      "favorite": false,
+      "url": "http://www.biobiochile.cl/",
+      "name": "Radio Bio Bio Puerto Montt",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/23.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://unlimited3-cl.dps.live/biobiopuertomontt/aac/icecast.audio"
       }
   }]
 }
