@@ -1,5 +1,5 @@
 {
-  "version": 58,
+  "version": 59,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1579,6 +1579,26 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://s6.jcwebnew.com:7500/stream"
+      }
+  }, {
+      "id": 159,
+      "favorite": false,
+      "url": "http://www.inacapradio.cl/",
+      "name": "Inacap Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/159.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://198.15.86.218:9014/;"
+      }
+  }, {
+      "id": 160,
+      "favorite": false,
+      "url": "http://fmcandelaria.cl/",
+      "name": "FM Candelaria",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/160.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/candelaria.aac"
       }
   }]
 }
