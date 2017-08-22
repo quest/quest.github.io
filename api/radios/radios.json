@@ -1,5 +1,5 @@
 {
-  "version": 60,
+  "version": 61,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1679,6 +1679,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://unlimited3-cl.dps.live/biobiopuertomontt/aac/icecast.audio"
+      }
+  }, {
+      "id": 169,
+      "favorite": false,
+      "url": "http://www.fmarcoiris.cl/",
+      "name": "Arcoiris 99.3 FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/169.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s6.jcwebnew.com:8120/stream"
       }
   }]
 }
