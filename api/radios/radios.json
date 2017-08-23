@@ -1,5 +1,5 @@
 {
-  "version": 61,
+  "version": 62,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1689,6 +1689,36 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://s6.jcwebnew.com:8120/stream"
+      }
+  }, {
+      "id": 170,
+      "favorite": false,
+      "url": "http://radiodivina.com/",
+      "name": "Radio Divina FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/170.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s6.jcwebnew.com:7710/stream"
+      }
+  }, {
+      "id": 171,
+      "favorite": false,
+      "url": "http://www.2702.cl/",
+      "name": "Radio 27/02",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/171.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio.2702.cl:8003/live.mp3?hash=1503456676255"
+      }
+  }, {
+      "id": 172,
+      "favorite": false,
+      "url": "http://www.modoradio.cl/",
+      "name": "Modo Radio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/172.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://190.3.169.36:8056/live"
       }
   }]
 }
