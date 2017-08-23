@@ -1720,5 +1720,15 @@
           "contentType": "audio/aac",
           "urlStream": "http://190.3.169.36:8056/live"
       }
+  }, {
+      "id": 173,
+      "favorite": false,
+      "url": "http://www.radiosantotomas.cl/",
+      "name": "Radio Santo Tomás",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/173.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio.santotomas.cl:8000/;audio.mp3?hash=1503457987803"
+      }
   }]
 }
