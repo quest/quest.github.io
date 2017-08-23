@@ -1,5 +1,5 @@
 {
-  "version": 63,
+  "version": 64,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1729,6 +1729,136 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://radio.santotomas.cl:8000/;audio.mp3?hash=1503457987803"
+      }
+  }, {
+      "id": 174,
+      "favorite": false,
+      "url": "http://radiomagallanes.cl/",
+      "name": "Radio Magallanes CD-70",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/174.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/magallanes.aac"
+      }
+  }, {
+      "id": 175,
+      "favorite": false,
+      "url": "http://www.radionatales.com/",
+      "name": "Radio Natales CD-117",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/175.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/natales.aac"
+      }
+  }, {
+      "id": 176,
+      "favorite": false,
+      "url": "http://www.enlineamaule.cl/radiomagica/",
+      "name": "Radio Mágica de Talca",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/176.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://ip.audiostreaming.cl:9396/;"
+      }
+  }, {
+      "id": 177,
+      "favorite": false,
+      "url": "http://www.magistralfm.cl/",
+      "name": "Magistral FM Galvarino",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/177.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://www.magistralfm.cl:9110/galvarino"
+      }
+  }, {
+      "id": 178,
+      "favorite": false,
+      "url": "http://www.magistralfm.cl/",
+      "name": "Magistral FM Cholchol",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/178.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://www.magistralfm.cl:9110/cholchol"
+      }
+  }, {
+      "id": 179,
+      "favorite": false,
+      "url": "http://www.magistralfm.cl/",
+      "name": "Magistral FM Traiguén",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/179.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://www.magistralfm.cl:9110/traiguen"
+      }
+  }, {
+      "id": 180,
+      "favorite": false,
+      "url": "http://www.radiomagiztral.cl/",
+      "name": "Radio Magiztral",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/180.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com:8000/magiztral.aac"
+      }
+  }, {
+      "id": 181,
+      "favorite": false,
+      "url": "http://radiomanantial.cl/",
+      "name": "Radio Manantial FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/181.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s6.medionline.cl:7602/;;audio.mp3?hash=1503460493118"
+      }
+  }, {
+      "id": 182,
+      "favorite": false,
+      "url": "http://radiomanantial.cl/",
+      "name": "Radio Manantial AM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/181.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s3.medionline.cl:8590/;;audio.mp3?hash=1503460492526"
+      }
+  }, {
+      "id": 183,
+      "favorite": false,
+      "url": "http://www.maniafm.cl/",
+      "name": "Manía FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/183.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/mania.mp3"
+      }
+  }, {
+      "id": 184,
+      "favorite": false,
+      "url": "http://radiomarcela.cl/",
+      "name": "Radio Marcela",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/184.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/archi-marcela.aac"
+      }
+  }, {
+      "id": 185,
+      "favorite": false,
+      "url": "http://buenamusicafm.com/",
+      "name": "Buena Música FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/185.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s6.jcwebnew.com:9040/stream"
+      }
+  }, {
+      "id": 186,
+      "favorite": false,
+      "url": "http://www.radionahuel.cl/",
+      "name": "Radio Nahuel Chiloé - Castro",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/186.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://streaming.chiloestreaming.com:9142/;"
       }
   }]
 }
