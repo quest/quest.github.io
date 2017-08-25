@@ -1,5 +1,5 @@
 {
-  "version": 66,
+  "version": 67,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1902,6 +1902,17 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://stream5.eltelon.com/nueva-belen.aac?1503629480922"
+      }
+  }, {
+      "id": 191,
+      "favorite": false,
+      "url": "http://rdifm.cl/",
+      "name": "RDI 88.5 FM",
+      "location": "Concepción",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/191.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sc.digitalproserver.com:9534/;"
       }
   }]
 }
