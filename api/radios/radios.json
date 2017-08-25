@@ -1,5 +1,5 @@
 {
-  "version": 65,
+  "version": 66,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1869,6 +1869,39 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://107.191.102.88:8000/edelweiss;"
+      }
+  }, {
+      "id": 188,
+      "favorite": false,
+      "url": "http://www.miradorfm.cl/",
+      "name": "Radio Mirador Temuco",
+      "location": "Temuco",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/188.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://107.191.102.88:8000/miradortco;"
+      }
+  }, {
+      "id": 189,
+      "favorite": false,
+      "url": "http://www.superandina.cl",
+      "name": "Superandina 88.5 FM",
+      "location": "Los Andes",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/189.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://atanua.broadcastchile.cl:8009/;audio.mp3?hash=1503629416344"
+      }
+  }, {
+      "id": 190,
+      "favorite": false,
+      "url": "http://www.radionuevabelen.cl/",
+      "name": "Nueva Belén 92.3 FM",
+      "location": "Puerto Montt",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/190.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/nueva-belen.aac?1503629480922"
       }
   }]
 }
