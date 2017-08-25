@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 69,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1935,6 +1935,83 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://s6.jcwebnew.com:7900/stream"
+      }
+  }, {
+      "id": 194,
+      "favorite": false,
+      "url": "http://www.radioayer.com/",
+      "name": "Radio Ayer",
+      "location": "",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/194.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s01.midns.net/radioayer"
+      }
+  }, {
+      "id": 195,
+      "favorite": false,
+      "url": "http://www.fmdelosrecuerdos.cl/",
+      "name": "FM de los Recuerdos",
+      "location": "Valle de Aconcagua",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/195.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/fmdelosrecuerdos.aac"
+      }
+  }, {
+      "id": 196,
+      "favorite": false,
+      "url": "http://radiocontemporanea.cl/",
+      "name": "Radio Contemporanea",
+      "location": "San Felipe - La Ligua",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/196.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/contemporanea_aconcagua.aac"
+      }
+  }, {
+      "id": 197,
+      "favorite": false,
+      "url": "http://www.radioparati.cl/",
+      "name": "Radio PARATI",
+      "location": "Región de Los Lagos",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/197.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://104.131.43.160:7208/;"
+      }
+  }, {
+      "id": 198,
+      "favorite": false,
+      "url": "https://www.radioreloncavi.com/",
+      "name": "Radio Recolanví",
+      "location": "Puerto Montt",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/198.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://167.114.208.100:9988/;"
+      }
+  }, {
+      "id": 199,
+      "favorite": false,
+      "url": "http://radiopaulina.cl/",
+      "name": "Radio Paulina",
+      "location": "Iquique",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/199.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://198.50.154.235:9302/;?_=0.6959502016717296"
+      }
+  }, {
+      "id": 200,
+      "favorite": false,
+      "url": "http://www.elpinguino.com/",
+      "name": "Radio Paulina",
+      "location": "Punta Arenas",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/200.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://streaming.elpinguino.com:8069/pinguino.mp3"
       }
   }]
 }
