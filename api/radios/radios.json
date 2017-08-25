@@ -1,5 +1,5 @@
 {
-  "version": 70,
+  "version": 71,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1984,7 +1984,7 @@
       "id": 198,
       "favorite": false,
       "url": "https://www.radioreloncavi.com/",
-      "name": "Radio Relocanví",
+      "name": "Radio Reloncaví",
       "location": "Puerto Montt",
       "icon": "https://www.victorsanmartin.com/api/radios/images/198.png",
       "play": {
