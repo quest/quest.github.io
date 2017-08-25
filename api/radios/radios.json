@@ -1,5 +1,5 @@
 {
-  "version": 64,
+  "version": 65,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1859,6 +1859,16 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://streaming.chiloestreaming.com:9142/;"
+      }
+  }, {
+      "id": 187,
+      "favorite": false,
+      "url": "http://www.adulto-joven.cl/",
+      "name": "Radio Edelweiss 95.1",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/187.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://107.191.102.88:8000/edelweiss;"
       }
   }]
 }
