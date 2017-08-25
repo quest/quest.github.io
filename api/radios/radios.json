@@ -1,5 +1,5 @@
 {
-  "version": 67,
+  "version": 68,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1913,6 +1913,28 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://sc.digitalproserver.com:9534/;"
+      }
+  }, {
+      "id": 192,
+      "favorite": false,
+      "url": "http://www.nuevotiempo.cl/",
+      "name": "Radio Nuevo Tiempo",
+      "location": "Santiago",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/192.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/nuevotiempo"
+      }
+  }, {
+      "id": 193,
+      "favorite": false,
+      "url": "http://radiooleajes.com/",
+      "name": "Radio Oleajes Constitución",
+      "location": "Constitución",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/193.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s6.jcwebnew.com:7900/stream"
       }
   }]
 }
