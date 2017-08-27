@@ -1,5 +1,5 @@
 {
-  "version": 73,
+  "version": 74,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2078,6 +2078,50 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://stream5.eltelon.com:8000/nahuelbuta.aac"
+      }
+  }, {
+      "id": 207,
+      "favorite": false,
+      "url": "http://www.radioextrema.cl/",
+      "name": "Radio Extrema FM",
+      "location": "Puerto Saavedra",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/207.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/radio-extrema.aac"
+      }
+  }, {
+      "id": 208,
+      "favorite": false,
+      "url": "http://www.preludioradio.cl/",
+      "name": "Preludio Radio",
+      "location": "San Felipe",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/208.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://158.69.26.181:8010/;"
+      }
+  }, {
+      "id": 209,
+      "favorite": false,
+      "url": "http://primordial.cl/",
+      "name": "Radio Primordial",
+      "location": "Rancagua",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/209.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s4.medionline.cl:8097/;stream.nsv"
+      }
+  }, {
+      "id": 210,
+      "favorite": false,
+      "url": "http://www.purranquefm.cl/",
+      "name": "Purranque FM",
+      "location": "Purranque",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/210.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s5.medionline.cl:8710/;"
       }
   }]
 }
