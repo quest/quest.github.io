@@ -1,5 +1,5 @@
 {
-  "version": 72,
+  "version": 73,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2067,6 +2067,17 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://167.114.208.100:9976/;"
+      }
+  }, {
+      "id": 206,
+      "favorite": false,
+      "url": "http://www.radionahuelbutafm.cl/",
+      "name": "Radio Nahuelbuta",
+      "location": "Angol",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/206.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com:8000/nahuelbuta.aac"
       }
   }]
 }
