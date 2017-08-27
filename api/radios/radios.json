@@ -1,5 +1,5 @@
 {
-  "version": 71,
+  "version": 72,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2012,6 +2012,61 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://streaming.elpinguino.com:8069/pinguino.mp3"
+      }
+  }, {
+      "id": 201,
+      "favorite": false,
+      "url": "http://www.radioudec.cl/",
+      "name": "Radio U. de Concepción",
+      "location": "Concepción",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/201.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio.udec.cl:8000/radioudec"
+      }
+  }, {
+      "id": 202,
+      "favorite": false,
+      "url": "http://radiooneup.blogspot.cl/",
+      "name": "Radio ONEUP",
+      "location": "Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/202.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://184.107.165.66:9960/;"
+      }
+  }, {
+      "id": 203,
+      "favorite": false,
+      "url": "http://molecula.cl/",
+      "name": "Molécula",
+      "location": "Santiago",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/203.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio1.us.mediastre.am/molecula.aac"
+      }
+  }, {
+      "id": 204,
+      "favorite": false,
+      "url": "http://www.radioestacion1.cl/",
+      "name": "Radio Estación1",
+      "location": "Curicó",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/204.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s4.medionline.cl:8068/;stream.nsv"
+      }
+  }, {
+      "id": 205,
+      "favorite": false,
+      "url": "http://radioenriquetorres.blogspot.cl/",
+      "name": "Radio Popular Enrique Torres",
+      "location": "Santiago",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/205.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://167.114.208.100:9976/;"
       }
   }]
 }
