@@ -1,5 +1,5 @@
 {
-  "version": 76,
+  "version": 77,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2122,6 +2122,17 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://s5.medionline.cl:8710/;"
+      }
+  }, {
+      "id": 211,
+      "favorite": false,
+      "url": "http://www.region16.cl/",
+      "name": "Radio Región 16®",
+      "location": "Ñuñoa",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/211.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio1.us.mediastre.am/region16.aac"
       }
   }]
 }
