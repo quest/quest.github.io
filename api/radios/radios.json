@@ -1,5 +1,5 @@
 {
-  "version": 78,
+  "version": 79,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2133,6 +2133,39 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://radio1.us.mediastre.am/region16.aac"
+      }
+  }, {
+      "id": 213,
+      "favorite": false,
+      "url": "http://www.radiofantastica.cl/",
+      "name": "Radio Fantástica Curicó",
+      "location": "Curicó",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/213.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://173.233.72.82:9352/;"
+      }
+  }, {
+      "id": 214,
+      "favorite": false,
+      "url": "http://www.radioinvasion.cl/",
+      "name": "Radio Invasión",
+      "location": "Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/214.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://46.166.162.26:8025/stream"
+      }
+  }, {
+      "id": 215,
+      "favorite": false,
+      "url": "http://www.radiobknes.cl/",
+      "name": "Radiobknes Oficial",
+      "location": "Ñuñoa",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/215.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://158.69.210.201/;"
       }
   }]
 }
