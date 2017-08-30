@@ -1,5 +1,5 @@
 {
-  "version": 79,
+  "version": 80,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2166,6 +2166,116 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://158.69.210.201/;"
+      }
+  }, {
+      "id": 216,
+      "favorite": false,
+      "url": "http://www.amandafm.cl/",
+      "name": "Radio Amanda FM",
+      "location": "Buin",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/216.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://amanda.cmtelcom.com/amanda128"
+      }
+  }, {
+      "id": 217,
+      "favorite": false,
+      "url": "http://madrigalfm.cl/",
+      "name": "Radio Madrigal",
+      "location": "Nancagua",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/217.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://audio.streaminghd.cl:9042/stream;?1504062965096"
+      }
+  }, {
+      "id": 218,
+      "favorite": false,
+      "url": "http://www.radiocopihue.cl/",
+      "name": "Radio Copihue F.M.",
+      "location": "IX Región de la Araucanía",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/218.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com:8000/copihue.aac?1504063089578"
+      }
+  }, {
+      "id": 219,
+      "favorite": false,
+      "url": "http://www.radiorenacer.cl/",
+      "name": "Radio Renacer",
+      "location": "Hualañé",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/219.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/archi-renacer.aac"
+      }
+  }, {
+      "id": 220,
+      "favorite": false,
+      "url": "http://radioimagen.cl/",
+      "name": "Radio Imagen",
+      "location": "Puente Alto",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/220.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.18.164:9696/;stream/1"
+      }
+  }, {
+      "id": 221,
+      "favorite": false,
+      "url": "http://www.radiosantuario.cl/",
+      "name": "Radio Santuario",
+      "location": "Copiapó",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/221.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://186.103.174.171:8000/live.mp3?1504063962387"
+      }
+  }, {
+      "id": 222,
+      "favorite": false,
+      "url": "http://www.zonafm.cl/",
+      "name": "Radio Zona FM Puerto Natales",
+      "location": "Puerto Natales",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/222.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio.bvconline.com.ar:8004/;"
+      }
+  }, {
+      "id": 223,
+      "favorite": false,
+      "url": "http://www.rsbchile.cl/",
+      "name": "RSB Chile",
+      "location": "La Serena",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/223.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/san-bartolome.aac"
+      }
+  }, {
+      "id": 224,
+      "favorite": false,
+      "url": "http://sanfranciscofm.cl/",
+      "name": "Radio San Francisco FM",
+      "location": "Salamanca",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/224.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/archi-sanfrancisco.aac"
+      }
+  }, {
+      "id": 225,
+      "favorite": false,
+      "url": "https://santacruzfm.cl/",
+      "name": "Santa Cruz FM 94.3",
+      "location": "Santa Cruz",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/225.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://5.9.65.6:9996/;"
       }
   }]
 }
