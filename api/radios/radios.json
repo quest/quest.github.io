@@ -2324,13 +2324,13 @@
   }, {
       "id": 230,
       "favorite": false,
-      "url": "http://www.radioancoa.cl/",
-      "name": "Radio Ancoa Linares",
-      "location": "Linares",
+      "url": "http://atractivafm.blogspot.cl/",
+      "name": "Atractiva FM",
+      "location": "Los Lagos",
       "icon": "https://www.victorsanmartin.com/api/radios/images/230.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://s6.jcwebnew.com:7560/stream"
+          "urlStream": "http://stream5.eltelon.com/atractiva-fm.aac"
       }
   }, {
       "id": 231,
