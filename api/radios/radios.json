@@ -1,5 +1,5 @@
 {
-  "version": 80,
+  "version": 81,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2276,6 +2276,83 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://5.9.65.6:9996/;"
+      }
+  }, {
+      "id": 226,
+      "favorite": false,
+      "url": "http://www.dominacion.cl/",
+      "name": "Dominacion.cl",
+      "location": "Santiago",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/226.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://centova.audiostreaming.cl:8025/stream"
+      }
+  }, {
+      "id": 227,
+      "favorite": false,
+      "url": "http://www.radiobit.cl/",
+      "name": "Radio Bit",
+      "location": "Santiago",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/227.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://albireo.shoutca.st:9334/stream"
+      }
+  }, {
+      "id": 228,
+      "favorite": false,
+      "url": "http://www.subversiva.fm/",
+      "name": "Subversiva.fm",
+      "location": "Quilpue",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/228.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://albireo.shoutca.st:9334/stream"
+      }
+  }, {
+      "id": 229,
+      "favorite": false,
+      "url": "http://www.radioancoa.cl/",
+      "name": "Radio Ancoa Linares",
+      "location": "Linares",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/229.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s6.jcwebnew.com:7560/stream"
+      }
+  }, {
+      "id": 230,
+      "favorite": false,
+      "url": "http://www.radioancoa.cl/",
+      "name": "Radio Ancoa Linares",
+      "location": "Linares",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/230.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s6.jcwebnew.com:7560/stream"
+      }
+  }, {
+      "id": 231,
+      "favorite": false,
+      "url": "https://www.facebook.com/radiomia100.7/",
+      "name": "Radio Mia FM 100.7",
+      "location": "Rio Negro, Prov. Osorno",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/231.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/ayer-fm.aac"
+      }
+  }, {
+      "id": 232,
+      "favorite": false,
+      "url": "http://www.radiomia.cl/",
+      "name": "Radio Mia FM 89.3",
+      "location": "Los Ángeles",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/232.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/mia.aac"
       }
   }]
 }
