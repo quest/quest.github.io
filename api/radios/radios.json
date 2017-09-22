@@ -1,5 +1,5 @@
 {
-  "version": 82,
+  "version": 83,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1425,6 +1425,7 @@
       "favorite": false,
       "url": "http://radiolascolinas.cl/",
       "name": "Radio Las Colinas",
+      "location": "Carahue, Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/143.png",
       "play": {
           "contentType": "audio/aac",
@@ -2353,6 +2354,39 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://stream5.eltelon.com/mia.aac"
+      }
+  }, {
+      "id": 233,
+      "favorite": false,
+      "url": "http://www.radiolimari.cl/",
+      "name": "Radio Limari",
+      "location": "Ovalle, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/233.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://69.175.20.242:8160/movil"
+      }
+  }, {
+      "id": 234,
+      "favorite": false,
+      "url": "http://www.fmluz.cl/",
+      "name": "FM Luz 88.3",
+      "location": "Los Lagos, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/234.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://107.155.120.114:9924/;?1506108503597"
+      }
+  }, {
+      "id": 235,
+      "favorite": false,
+      "url": "http://www.buenisima.cl/",
+      "name": "Radio Buenísima PLC",
+      "location": "Padre Las Casas, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/235.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://streamprochile.com:9920/;"
       }
   }]
 }
