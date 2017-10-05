@@ -1,5 +1,5 @@
 {
-  "version": 83,
+  "version": 84,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2387,6 +2387,17 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://streamprochile.com:9920/;"
+      }
+  }, {
+      "id": 236,
+      "favorite": false,
+      "url": "http://www.laretro.cl/",
+      "name": "La Retro 80s Radio",
+      "location": "Santiago, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/236.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://206.190.136.140:7355/;stream/1"
       }
   }]
 }
