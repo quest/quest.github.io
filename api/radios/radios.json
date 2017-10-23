@@ -1,5 +1,5 @@
 {
-  "version": 84,
+  "version": 85,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2398,6 +2398,50 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://206.190.136.140:7355/;stream/1"
+      }
+  }, {
+      "id": 237,
+      "favorite": false,
+      "url": "http://canal95.cl/",
+      "name": "Radio Canal 95",
+      "location": "Antofagasta, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/237.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/canal95_aac"
+      }
+  }, {
+      "id": 238,
+      "favorite": false,
+      "url": "http://www.radiofiessta.cl/",
+      "name": "Radio Fiessta",
+      "location": "Rancagua, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/238.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://5.9.65.9:8174/;"
+      }
+  }, {
+      "id": 239,
+      "favorite": false,
+      "url": "http://www.radioserrano.cl/",
+      "name": "Radio Ignacio Serrano",
+      "location": "Melipilla, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/239.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.150.234:9958/;"
+      }
+  }, {
+      "id": 240,
+      "favorite": false,
+      "url": "http://www.radiocaricia.cl/",
+      "name": "Radio Caricia",
+      "location": "Melipilla, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/240.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.150.234:9752/;"
       }
   }]
 }
