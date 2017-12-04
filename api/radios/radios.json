@@ -1,5 +1,5 @@
 {
-  "version": 87,
+  "version": 88,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2464,6 +2464,17 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://192.99.18.164:9856/;"
+      }
+  }, {
+      "id": 243,
+      "favorite": false,
+      "url": "http://ekizradio.cl/",
+      "name": "EkizRadio",
+      "location": "Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/243.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://69.30.217.110:9872/;"
       }
   }]
 }
