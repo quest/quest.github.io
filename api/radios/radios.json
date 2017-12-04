@@ -1,5 +1,5 @@
 {
-  "version": 85,
+  "version": 86,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2442,6 +2442,17 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://192.99.150.234:9752/;"
+      }
+  }, {
+      "id": 241,
+      "favorite": false,
+      "url": "http://www.masfm.cl",
+      "name": "MASFM",
+      "location": "La Reina, Santiago, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/241.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream.masfm.cl:7412/;"
       }
   }]
 }
