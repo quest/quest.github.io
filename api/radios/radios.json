@@ -1,5 +1,5 @@
 {
-  "version": 86,
+  "version": 87,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -863,12 +863,12 @@
   }, {
       "id": 87,
       "favorite": false,
-      "url": "http://mgradiochile.weebly.com/",
+      "url": "http://mgradiochile.000webhostapp.com/",
       "name": "MG Radio Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/87.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://streaming.shoutcast.com/RadioHunter-TheElectronicChannel"
+          "urlStream": "http://78.129.224.19:21004/"
       }
   }, {
       "id": 88,
@@ -2453,6 +2453,17 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://stream.masfm.cl:7412/;"
+      }
+  }, {
+      "id": 242,
+      "favorite": false,
+      "url": "http://www.radioplaceres.cl/",
+      "name": "Radio Placeres Fm",
+      "location": "Valparaíso, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/242.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://192.99.18.164:9856/;"
       }
   }]
 }
