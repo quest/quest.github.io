@@ -1,5 +1,5 @@
 {
-  "version": 90,
+  "version": 91,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2486,6 +2486,72 @@
       "play": {
           "contentType": "audio/aacp",
           "urlStream": "http://5.9.65.6:9932/;"
+      }
+  }, {
+      "id": 245,
+      "favorite": false,
+      "url": "http://www.liderfm.cl/",
+      "name": "Radio Líder FM",
+      "location": "San Felipe, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/245.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://192.99.150.52:9340/;stream/1"
+      }
+  }, {
+      "id": 246,
+      "favorite": false,
+      "url": "http://radioquebuena.cl/",
+      "name": "Radio QueBuena",
+      "location": "Curicó, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/246.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://server1.literal.cl:8000/quebuena1.aac?hash=1513042450808.mp3"
+      }
+  }, {
+      "id": 247,
+      "favorite": false,
+      "url": "http://radioquebuena.cl/",
+      "name": "Radio QueBuena",
+      "location": "Curicó, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/247.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://server1.literal.cl:8000/quebuena1.aac?hash=1513042450808.mp3"
+      }
+  }, {
+      "id": 248,
+      "favorite": false,
+      "url": "http://radioquebuena.cl/",
+      "name": "Radio Buena Nueva Linares",
+      "location": "Linares, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/248.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com:8000/radio-buena-nueva.aac"
+      }
+  }, {
+      "id": 249,
+      "favorite": false,
+      "url": "http://radioquebuena.cl/",
+      "name": "Radio Buena Nueva Chanco",
+      "location": "Chanco, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/248.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com:8000/buena-nueva-chanco.aac"
+      }
+  }, {
+      "id": 250,
+      "favorite": false,
+      "url": "http://radioquebuena.cl/",
+      "name": "Radio Buena Nueva Longaví",
+      "location": "Longaví, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/248.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com:8000/el-nevado-longavi.aac"
       }
   }]
 }
