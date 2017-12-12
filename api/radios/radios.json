@@ -2512,13 +2512,13 @@
   }, {
       "id": 247,
       "favorite": false,
-      "url": "http://radioquebuena.cl/",
-      "name": "Radio QueBuena",
-      "location": "Curicó, Chile",
+      "url": "http://www.mirasolfm.cl/",
+      "name": "Radio Mirasol FM",
+      "location": "Algarrobo, Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/247.png",
       "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://server1.literal.cl:8000/quebuena1.aac?hash=1513042450808.mp3"
+          "contentType": "audio/aacp",
+          "urlStream": "http://audio.streaminghd.cl:9046/;"
       }
   }, {
       "id": 248,
