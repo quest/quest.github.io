@@ -1,5 +1,5 @@
 {
-  "version": 92,
+  "version": 93,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2552,6 +2552,17 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://stream5.eltelon.com:8000/el-nevado-longavi.aac"
+      }
+  }, {
+      "id": 251,
+      "favorite": false,
+      "url": "http://radioleufu.cl/",
+      "name": "Radio Leufu",
+      "location": "Concepción, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/251.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://190.3.169.87:9344/;stream.mp3"
       }
   }]
 }
