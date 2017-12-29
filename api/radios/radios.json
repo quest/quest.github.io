@@ -1,5 +1,5 @@
 {
-  "version": 93,
+  "version": 94,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2563,6 +2563,17 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://190.3.169.87:9344/;stream.mp3"
+      }
+  }, {
+      "id": 252,
+      "favorite": false,
+      "url": "http://www.todosjuntosradio.cl/",
+      "name": "Todos Juntos Radio",
+      "location": "Santiago, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/252.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://190.107.177.116:8000/;"
       }
   }]
 }
