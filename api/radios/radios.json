@@ -1,5 +1,5 @@
 {
-  "version": 94,
+  "version": 95,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1398,7 +1398,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/140.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://190.3.168.130:9060/stream"
+          "urlStream": "http://190.3.168.130:9045/stream"
       }
   }, {
       "id": 141,
@@ -2574,6 +2574,61 @@
       "play": {
           "contentType": "audio/aacp",
           "urlStream": "http://190.107.177.116:8000/;"
+      }
+  }, {
+      "id": 253,
+      "favorite": false,
+      "url": "http://www.radiousach.cl/",
+      "name": "Radio UdeSantiago",
+      "location": "Santiago, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/253.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://stream5.rbm.cl:8050/stream.mp3"
+      }
+  }, {
+      "id": 254,
+      "favorite": false,
+      "url": "http://www.radiousach.cl/",
+      "name": "Escena Viva",
+      "location": "Santiago, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/254.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://senalclasica.radiousach.cl:8080/;audio.mp3?hash=1519684335112"
+      }
+  }, {
+      "id": 255,
+      "favorite": false,
+      "url": "http://pajaritosfm.cl",
+      "name": "Pajaritos FM",
+      "location": "Maipú, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/255.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://190.3.169.87:9374/;"
+      }
+  }, {
+      "id": 256,
+      "favorite": false,
+      "url": "http://oneplayradio.com/",
+      "name": "One Play Radio",
+      "location": "Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/256.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://5.9.65.9:8134/;"
+      }
+  }, {
+      "id": 257,
+      "favorite": false,
+      "url": "http://www.retroclasicos.cl/",
+      "name": "Retroclasicos® Radio",
+      "location": "Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/257.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://63.247.65.202:10286/;"
       }
   }]
 }
