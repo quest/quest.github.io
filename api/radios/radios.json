@@ -1,5 +1,5 @@
 {
-  "version": 95,
+  "version": 96,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2386,7 +2386,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/235.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://streamprochile.com:9920/;"
+          "urlStream": "http://s3.mediostream.cl:9312/;"
       }
   }, {
       "id": 236,
@@ -2595,7 +2595,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/254.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://senalclasica.radiousach.cl:8080/;audio.mp3?hash=1519684335112"
+          "urlStream": "http://senalclasica.radiousach.cl:8080/;"
       }
   }, {
       "id": 255,
@@ -2629,6 +2629,39 @@
       "play": {
           "contentType": "audio/aacp",
           "urlStream": "http://63.247.65.202:10286/;"
+      }
+  }, {
+      "id": 258,
+      "favorite": false,
+      "url": "http://rvl.uv.cl/",
+      "name": "Radio Valentin Letelier",
+      "location": "Valparaíso, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/258.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://192.198.83.230:9304/;"
+      }
+  }, {
+      "id": 259,
+      "favorite": false,
+      "url": "http://www.ritoquefm.cl/",
+      "name": "Radio Ritoque FM",
+      "location": "Ritoque, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/259.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sonando.us.digitalproserver.com/ritoquefm_aac"
+      }
+  }, {
+      "id": 260,
+      "favorite": false,
+      "url": "http://www.radiouc.cl/",
+      "name": "Radio UC",
+      "location": "Santiago, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/260.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://146.155.190.111/;"
       }
   }]
 }
