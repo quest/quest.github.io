@@ -1,5 +1,5 @@
 {
-  "version": 96,
+  "version": 97,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1719,7 +1719,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/172.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://190.3.169.36:8056/live"
+          "urlStream": "http://144.217.129.213:8214/live"
       }
   }, {
       "id": 173,
