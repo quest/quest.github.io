@@ -1,5 +1,5 @@
 {
-  "version": 97,
+  "version": 99,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -538,7 +538,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://live-origin.us.niu.cl/niu_radio.aac?rand=0.7035691775319075"
+          "urlStream": "http://live-origin.us.niu.cl/niu_radio.mp3?rand=0.6055104982900708"
       }
   }, {
       "id": 54,
@@ -548,7 +548,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://live-origin.us.niu.cl/niu_pop.aac?rand=0.295647363996405"
+          "urlStream": "http://live-origin.us.niu.cl/niu_pop.mp3?rand=0.17679959549914392"
       }
   }, {
       "id": 55,
@@ -558,7 +558,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://live-origin.us.niu.cl/niu_indie.aac?rand=0.48283160193268615"
+          "urlStream": "http://live-origin.us.niu.cl/niu_indie.mp3?rand=0.09621813578233951"
       }
   }, {
       "id": 56,
@@ -568,7 +568,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://live-origin.us.niu.cl/niu_rock.aac?rand=0.4328400655258573"
+          "urlStream": "http://live-origin.us.niu.cl/niu_rock.mp3?rand=0.662594307076839"
       }
   }, {
       "id": 57,
@@ -578,7 +578,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://live-origin.us.niu.cl/niu_cl.aac?rand=0.3701315305542121"
+          "urlStream": "http://live-origin.us.niu.cl/niu_cl.mp3?rand=0.9209867391614326"
       }
   }, {
       "id": 58,
@@ -598,7 +598,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://live-origin.us.niu.cl/niu_90s.aac?rand=0.15481141759647388"
+          "urlStream": "http://live-origin.us.niu.cl/niu_90s.mp3?rand=0.9811811759554141"
       }
   }, {
       "id": 60,
@@ -608,7 +608,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/53.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://live-origin.us.niu.cl/niu_live.aac?rand=0.5485308457223754"
+          "urlStream": "http://live-origin.us.niu.cl/niu_live.mp3?rand=0.11897589702228273"
       }
   }, {
       "id": 61,
@@ -1208,7 +1208,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/121.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/amiga-fm.aac"
+          "urlStream": "http://stream5.eltelon.com:8000/amiga-fm.aac?hash=1523714539640.mp3"
       }
   }, {
       "id": 122,
@@ -1459,7 +1459,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/146.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://192.99.18.164:9748/;"
+          "urlStream": "http://176.31.241.17:8155/;"
       }
   }, {
       "id": 147,
@@ -1560,16 +1560,6 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://stream5.eltelon.com/ines-de-suarez.aac"
-      }
-  }, {
-      "id": 157,
-      "favorite": false,
-      "url": "http://www.cprpresencia.cl/",
-      "name": "Radio Camelia",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/157.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://200.54.134.30:3698/;stream.nsv"
       }
   }, {
       "id": 158,
@@ -1902,7 +1892,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/190.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/nueva-belen.aac?1503629480922"
+          "urlStream": "http://stream5.eltelon.com/nueva-belen.aac?1523713753873"
       }
   }, {
       "id": 191,
@@ -2100,7 +2090,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/208.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://158.69.26.181:8010/;"
+          "urlStream": "http://144.217.189.5:9302/;?1523713838779"
       }
   }, {
       "id": 209,
@@ -2122,7 +2112,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/210.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://s5.medionline.cl:8710/;"
+          "urlStream": "http://192.99.18.164:9392/;"
       }
   }, {
       "id": 211,
@@ -2474,7 +2464,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/243.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://69.30.217.110:9872/;"
+          "urlStream": "http://serviprobolivia.com:9872/;stream.mp3"
       }
   }, {
       "id": 244,
@@ -2507,7 +2497,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/246.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://server1.literal.cl:8000/quebuena1.aac?hash=1513042450808.mp3"
+          "urlStream": "http://server1.literal.cl:8000/quebuena1.aac?hash=1523714722177.mp3"
       }
   }, {
       "id": 247,
@@ -2523,7 +2513,7 @@
   }, {
       "id": 248,
       "favorite": false,
-      "url": "http://radioquebuena.cl/",
+      "url": "http://www.radiobuenanueva.cl/",
       "name": "Radio Buena Nueva Linares",
       "location": "Linares, Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/248.png",
@@ -2534,7 +2524,7 @@
   }, {
       "id": 249,
       "favorite": false,
-      "url": "http://radioquebuena.cl/",
+      "url": "http://www.radiobuenanueva.cl/",
       "name": "Radio Buena Nueva Chanco",
       "location": "Chanco, Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/248.png",
@@ -2545,7 +2535,7 @@
   }, {
       "id": 250,
       "favorite": false,
-      "url": "http://radioquebuena.cl/",
+      "url": "http://www.radiobuenanueva.cl/",
       "name": "Radio Buena Nueva Longaví",
       "location": "Longaví, Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/248.png",
@@ -2595,7 +2585,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/254.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://senalclasica.radiousach.cl:8080/;"
+          "urlStream": "http://158.170.20.252:8080/usach2"
       }
   }, {
       "id": 255,
@@ -2662,6 +2652,28 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://146.155.190.111/;"
+      }
+  }, {
+      "id": 261,
+      "favorite": false,
+      "url": "http://www.decultochile.cl/",
+      "name": "De Culto Radio",
+      "location": "Valdivia, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/261.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://sscl.denialstream.com:8004/stream2"
+      }
+  }, {
+      "id": 262,
+      "favorite": false,
+      "url": "http://www.carabineros.cl",
+      "name": "Radio Carabineros de Chile",
+      "location": "Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/262.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://5.9.65.6:9978/;"
       }
   }]
 }
