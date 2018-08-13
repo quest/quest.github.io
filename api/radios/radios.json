@@ -1,5 +1,5 @@
 {
-  "version": 104,
+  "version": 105,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2872,6 +2872,17 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://cdn.akausa240.usastreams.com:9312/;"
+      }
+  }, {
+      "id": 281,
+      "favorite": false,
+      "url": "http://radiofrutillar.cl/",
+      "name": "Radio Frutillar",
+      "location": "Frutillar, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/281.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://s3.mediostream.cl:9356/;"
       }
   }]
 }
