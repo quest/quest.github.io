@@ -1,5 +1,5 @@
 {
-  "version": 103,
+  "version": 104,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2729,6 +2729,149 @@
       "play": {
           "contentType": "audio/aacp",
           "urlStream": "http://livehd.cdn.felpysolutions.us/proxy/sc_coltaucofm?mp=/;"
+      }
+  }, {
+      "id": 268,
+      "favorite": false,
+      "url": "https://www.radiocorporacion.cl/",
+      "name": "Radio Corporacion",
+      "location": "Santiago, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/268.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://s6.jcwebnew.com:7280/stream"
+      }
+  }, {
+      "id": 269,
+      "favorite": false,
+      "url": "http://www.radiocarrera.com/",
+      "name": "Radio Carrera",
+      "location": "Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/269.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://186.103.213.249:9306/;"
+      }
+  }, {
+      "id": 270,
+      "favorite": false,
+      "url": "http://www.pauta.cl/",
+      "name": "Radio Pauta.cl",
+      "location": "Providencia, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/270.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://pauta-shoutcast.avz.cl:8002/;"
+      }
+  }, {
+      "id": 271,
+      "favorite": false,
+      "url": "http://www.positivafm.cl/",
+      "name": "Radio Positiva - Iquique",
+      "location": "Iquique, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/271.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://mimix.mercurio.cl:8000/iquique2"
+      }
+  }, {
+      "id": 272,
+      "favorite": false,
+      "url": "http://www.positivafm.cl/",
+      "name": "Radio Positiva - Antofagasta",
+      "location": "Antofagasta, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/271.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://mimix.mercurio.cl:8000/antofagasta2"
+      }
+  }, {
+      "id": 273,
+      "favorite": false,
+      "url": "http://www.positivafm.cl/",
+      "name": "Radio Positiva - Copiapo",
+      "location": "Copiapo, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/271.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://mimix.mercurio.cl:8000/copiapo2"
+      }
+  }, {
+      "id": 274,
+      "favorite": false,
+      "url": "http://www.positivafm.cl/",
+      "name": "Radio Positiva - San Antonio",
+      "location": "San Antonio, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/271.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://mimix.mercurio.cl:8000/sanantonio2"
+      }
+  }, {
+      "id": 275,
+      "favorite": false,
+      "url": "http://www.positivafm.cl/",
+      "name": "Radio Positiva - Santiago",
+      "location": "Santiago, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/271.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://mimix.mercurio.cl:8000/positivafm"
+      }
+  }, {
+      "id": 276,
+      "favorite": false,
+      "url": "http://www.positivafm.cl/",
+      "name": "Radio Positiva - Temuco",
+      "location": "Temuco, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/271.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://mimix.mercurio.cl:8000/temuco2"
+      }
+  }, {
+      "id": 277,
+      "favorite": false,
+      "url": "http://www.positivafm.cl/",
+      "name": "Radio Positiva - Valdivia",
+      "location": "Valdivia, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/271.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://mimix.mercurio.cl:8000/valdivia2"
+      }
+  }, {
+      "id": 278,
+      "favorite": false,
+      "url": "http://www.positivafm.cl/",
+      "name": "Radio Positiva - Castro",
+      "location": "Castro, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/271.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://mimix.mercurio.cl:8000/castro"
+      }
+  }, {
+      "id": 279,
+      "favorite": false,
+      "url": "https://www.radiosantiago.cl/",
+      "name": "Radio Santiago",
+      "location": "Santiago, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/279.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://200.24.229.253:8290/;"
+      }
+  }, {
+      "id": 280,
+      "favorite": false,
+      "url": "https://www.radiox.cl/",
+      "name": "Radio X",
+      "location": "La Serena, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/280.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://cdn.akausa240.usastreams.com:9312/;"
       }
   }]
 }
