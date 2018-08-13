@@ -1,5 +1,5 @@
 {
-  "version": 100,
+  "version": 101,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2674,6 +2674,39 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://5.9.65.6:9978/;"
+      }
+  }, {
+      "id": 263,
+      "favorite": false,
+      "url": "http://www.radiovicfer.cl/",
+      "name": "RadioVicfer Curacavi",
+      "location": "Curacaví, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/263.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://190.3.169.87:9358/;stream.mp3"
+      }
+  }, {
+      "id": 264,
+      "favorite": false,
+      "url": "http://www.musicnet.cl/",
+      "name": "Radio MusicNet",
+      "location": "Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/264.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://s3.medionline.cl:7004/;"
+      }
+  }, {
+      "id": 265,
+      "favorite": false,
+      "url": "http://www.google.cl/",
+      "name": "Radio Estación 24/7",
+      "location": "Osorno, Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/265.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://167.114.119.122:9984/;"
       }
   }]
 }
