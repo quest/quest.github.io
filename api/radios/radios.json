@@ -1,5 +1,5 @@
 {
-  "version": 105,
+  "version": 106,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -178,7 +178,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/18.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream3.rbm.cl:8010/playerweb.aac"
+          "urlStream": "http://35.236.62.14:8000/;"
       }
   }, {
       "id": 19,
@@ -2574,7 +2574,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/253.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://stream5.rbm.cl:8050/stream.mp3"
+          "urlStream": "http://158.170.20.250:8000/usach1"
       }
   }, {
       "id": 254,
