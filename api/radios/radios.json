@@ -1,5 +1,5 @@
 {
-  "version": 106,
+  "version": 107,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1329,16 +1329,6 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://176.31.241.17:8068/;stream.nsv"
-      }
-  }, {
-      "id": 212,
-      "favorite": false,
-      "url": "http://radiopopchile.myl2mr.com/",
-      "name": "Radio Pop Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/134.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://50.22.217.113/stream.mp3?ipport=50.22.217.113_16940"
       }
   }, {
       "id": 135,
@@ -2883,6 +2873,28 @@
       "play": {
           "contentType": "audio/aacp",
           "urlStream": "http://s3.mediostream.cl:9356/;"
+      }
+  }, {
+      "id": 282,
+      "favorite": false,
+      "url": "http://onlineradiobox.com/cl/dimension/?cs=cl.dimension&played=1",
+      "name": "Radio Dimensión FM",
+      "location": "Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/282.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://192.99.18.164:9998/;"
+      }
+  }, {
+      "id": 283,
+      "favorite": false,
+      "url": "http://radiovuelo.myl2mr.com/",
+      "name": "Radio Vuelo",
+      "location": "Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/283.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://5.133.182.164/stream.mp3?ipport=5.133.182.164_17289"
       }
   }]
 }
