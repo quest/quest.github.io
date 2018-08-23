@@ -1,5 +1,5 @@
 {
-  "version": 108,
+  "version": 109,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2844,6 +2844,17 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://5.133.182.164/stream.mp3?ipport=5.133.182.164_17289"
+      }
+  }, {
+      "id": 284,
+      "favorite": false,
+      "url": "http://www.dinamoonline.net/",
+      "name": "Radio Dinamo Online",
+      "location": "Chile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/284.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://167.114.208.100:9900/;"
       }
   }]
 }
