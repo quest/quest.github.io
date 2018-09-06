@@ -1,5 +1,5 @@
 {
-  "version": 109,
+  "version": 110,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2855,6 +2855,18 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://167.114.208.100:9900/;"
+      }
+  }, {
+      "id": 285,
+      "favorite": false,
+      "url": "http://www.radionuevomundodeovalle.cl/",
+      "name": "Radio Nuevo Mundo Ovalle",
+      "location": "Chile",
+      "twitter": "Ovalle",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/285.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://104.236.248.181:7960/;"
       }
   }]
 }
