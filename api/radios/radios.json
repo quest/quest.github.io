@@ -1343,12 +1343,12 @@
   }, {
       "id": 140,
       "favorite": false,
-      "url": "http://www.sofchileradio.cl/",
-      "name": "SOFChile Radio.cl",
+      "url": "https://www.rdiplus.cl/",
+      "name": "Radio RDIPlus",
       "icon": "https://www.victorsanmartin.com/api/radios/images/140.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://190.3.168.130:9045/stream"
+          "urlStream": "https://19003.live.streamtheworld.com/SP_R2691747_SC"
       }
   }, {
       "id": 141,
