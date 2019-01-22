@@ -1283,7 +1283,7 @@
   }, {
       "id": 133,
       "favorite": false,
-      "url": "http://www.codigometal.net/",
+      "url": "http://www.codigometal.cl/",
       "name": "Código Metal Radio",
       "icon": "https://www.victorsanmartin.com/api/radios/images/133.png",
       "play": {
@@ -2867,6 +2867,18 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://104.236.248.181:7960/;"
+      }
+  }, {
+      "id": 286,
+      "favorite": false,
+      "url": "http://www.futurafm.cl/",
+      "name": "Radio Futura",
+      "location": "Maule, Chile",
+      "twitter": "futurafmoficial",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/286.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://stream5.eltelon.com/futura.aac"
       }
   }]
 }
