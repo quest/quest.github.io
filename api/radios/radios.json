@@ -1,5 +1,5 @@
 {
-  "version": 111,
+  "version": 112,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2879,6 +2879,18 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://stream5.eltelon.com/futura.aac"
+      }
+  }, {
+      "id": 287,
+      "favorite": false,
+      "url": "http://www.zona4fm.cl/",
+      "name": "Zona4Fm",
+      "location": "VII Region, Chile",
+      "twitter": "zona4fm",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/287.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://audio2.tustreaming.cl:8050/zona4fm"
       }
   }]
 }
