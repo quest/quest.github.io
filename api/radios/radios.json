@@ -1,5 +1,5 @@
 {
-  "version": 115,
+  "version": 116,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -8,7 +8,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/1.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://mimix.mercurio.cl:8000/digitalfm"
+          "urlStream": "http://envivo.digitalfm.cl:8000/digitalfm"
       }
   }, {
       "id": 2,
@@ -2981,6 +2981,30 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://espora.org:8000/radiokurruf?_=1"
+      }
+  }, {
+      "id": 302,
+      "favorite": false,
+      "url": "http://www.radiointegracion.cl",
+      "name": "Radio Integración",
+      "location": "San Antonio, Chile",
+      "twitter": "",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/302.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://server2.mundonline.cl:9314/;?_=0.8037924138666719"
+      }
+  }, {
+      "id": 303,
+      "favorite": false,
+      "url": "http://radiobienvenida.cl/",
+      "name": "Radio Bienvenida",
+      "location": "Rancagua, Chile",
+      "twitter": "",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/303.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://201.238.248.153:7283/bienvenida"
       }
   }]
 }
