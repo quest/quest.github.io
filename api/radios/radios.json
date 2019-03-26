@@ -1,5 +1,5 @@
 {
-  "version": 113,
+  "version": 114,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3049,6 +3049,18 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://streaming.fmokey.cl/FmOkValpo.mp3"
+      }
+  }, {
+      "id": 301,
+      "favorite": false,
+      "url": "http://radiokurruf.org/",
+      "name": "Radio Kvrruf",
+      "location": "Wallmapu, Chile",
+      "twitter": "RadioKurruf",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/301.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://espora.org:8000/radiokurruf?_=1"
       }
   }]
 }
