@@ -1,5 +1,5 @@
 {
-  "version": 120,
+  "version": 121,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -208,7 +208,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/21.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://tunein.digitalproserver.com/universobb.aac"
+          "urlStream": "http://unlimited3-cl.dps.live/universo/aac/icecast.audio"
       }
   }, {
       "id": 22,
@@ -248,7 +248,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/25.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://tunein.digitalproserver.com/dunabb.aac"
+          "urlStream": "https://unlimited3-cl.dps.live/duna/aac/icecast.audio"
       }
   }, {
       "id": 26,
@@ -288,7 +288,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/29.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "https://unlimited1-us.dps.live/agricultura/go/audio/now/livestream1.m3u8"
+          "urlStream": "http://unlimited3-cl.dps.live/agricultura/aac/icecast.audio"
       }
   }, {
       "id": 30,
@@ -308,7 +308,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/31.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "https://janus.cooperativa.cl/playlist/stream.m3u8"
+          "urlStream": "http://unlimited11-cl.dps.live/cooperativafm/mp3/icecast.audio"
       }
   }, {
       "id": 32,
@@ -328,7 +328,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/33.png",
       "play": {
           "contentType": "application/x-mpegURL",
-          "urlStream": "http://unlimited1-us.dps.live/infinita/go/audio/now/livestream1.m3u8"
+          "urlStream": "http://unlimited3-cl.dps.live/infinita/aac/icecast.audio"
       }
   }, {
       "id": 34,
@@ -478,7 +478,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/50.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://playfm.janus.cl/playlist/stream.m3u8?s=playfm&t=1500529315&id=0d554ef9-57aa-4c92-b695-85b0c8c3c34e"
+          "urlStream": "http://mp3.playfm.cl/stream/1/"
       }
   }, {
       "id": 51,
