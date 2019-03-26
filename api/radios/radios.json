@@ -1,5 +1,5 @@
 {
-  "version": 118,
+  "version": 120,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -138,7 +138,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/14.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://cp.elconquistador.usastreams.com:9314/stream/1/"
+          "urlStream": "http://195.154.167.62:9314/;"
       }
   }, {
       "id": 15,
@@ -3029,6 +3029,30 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://190.13.188.102:9308/;"
+      }
+  }, {
+      "id": 306,
+      "favorite": false,
+      "url": "http://www.estilofm.cl/",
+      "name": "Radio Estilo",
+      "location": "Chile",
+      "twitter": "Estilo_FM",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/306.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://audio2.tustreaming.cl:8058/stream"
+      }
+  }, {
+      "id": 307,
+      "favorite": false,
+      "url": "http://bigradio.cl/",
+      "name": "BIG Radio",
+      "location": "Chile",
+      "twitter": "bigradiocl",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/307.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://live-balancer.us.bigradio.net/big_radio.aac"
       }
   }]
 }
