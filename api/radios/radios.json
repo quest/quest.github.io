@@ -1,5 +1,5 @@
 {
-  "version": 121,
+  "version": 122,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3053,6 +3053,18 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://live-balancer.us.bigradio.net/big_radio.aac"
+      }
+  }, {
+      "id": 308,
+      "favorite": false,
+      "url": "http://monosconnavaja.cl/",
+      "name": "Radio Monos con Navaja",
+      "location": "Santiago, Chile",
+      "twitter": "MonosNavajaCl",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/308.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://14123.live.streamtheworld.com/SAM01AAC70_SC"
       }
   }]
 }
