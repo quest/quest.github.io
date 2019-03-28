@@ -1,5 +1,5 @@
 {
-  "version": 122,
+  "version": 123,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3065,6 +3065,18 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://14123.live.streamtheworld.com/SAM01AAC70_SC"
+      }
+  }, {
+      "id": 309,
+      "favorite": false,
+      "url": "http://radiodelorean.blogspot.com/",
+      "name": "Radio Delorean",
+      "location": "Santiago, Chile",
+      "twitter": "Radio_delorean",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/309.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://5.9.65.6:9968/;"
       }
   }]
 }
