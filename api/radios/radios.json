@@ -1,5 +1,5 @@
 {
-  "version": 123,
+  "version": 124,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -779,16 +779,6 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://radio1.us.mediastre.am/subela.aac"
-      }
-  }, {
-      "id": 90,
-      "favorite": false,
-      "url": "http://www.rinoceronte.fm/",
-      "name": "Rinoceronte.fm",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/90.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://radio1.us.mediastre.am/rinoceronte.aac"
       }
   }, {
       "id": 91,
@@ -2851,18 +2841,6 @@
           "urlStream": "http://streaming.fmokey.cl/FmOkPM.mp3"
       }
   }, {
-      "id": 291,
-      "favorite": false,
-      "url": "http://www.fmokey.cl/",
-      "name": "Radio Okey Tocopilla",
-      "location": "Tocopilla, Chile",
-      "twitter": "FMOk",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/42.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://streaming.fmokey.cl/FmOkLA.mp3"
-      }
-  }, {
       "id": 292,
       "favorite": false,
       "url": "http://www.fmokey.cl/",
@@ -3077,6 +3055,126 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://5.9.65.6:9968/;"
+      }
+  }, {
+      "id": 310,
+      "favorite": false,
+      "url": "https://www.patagoniaradio.cl/",
+      "name": "Patagonia Radio FM",
+      "location": "Patagonia, Chile",
+      "twitter": "patagoniaradio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/310.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://163.172.209.91:7071/;"
+      }
+  }, {
+      "id": 311,
+      "favorite": false,
+      "url": "http://www.escuchalaradio.cl/",
+      "name": "EsuchalaRadioCl",
+      "location": "Patagonia, Chile",
+      "twitter": "escucha_laradio",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/311.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://87.117.208.118:20237/;"
+      }
+  }, {
+      "id": 312,
+      "favorite": false,
+      "url": "http://fmplus.cl/",
+      "name": "Radio Fm Plus",
+      "location": "Antofagasta, Chile",
+      "twitter": "FmPlusChile",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/312.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://sonando.us.digitalproserver.com/fmplus_aac"
+      }
+  }, {
+      "id": 313,
+      "favorite": false,
+      "url": "http://www.radiocreativa.cl/",
+      "name": "Radio Creativa",
+      "location": "Melipilla, Chile",
+      "twitter": "",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/313.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://sonando.us.digitalproserver.com/creativa"
+      }
+  }, {
+      "id": 314,
+      "favorite": false,
+      "url": "http://radioelsoldelaflorida.cl/",
+      "name": "Radio el Sol de la Florida",
+      "location": "La Florida, Chile",
+      "twitter": "soldelaflorida",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/314.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://198.15.77.50:9160/;"
+      }
+  }, {
+      "id": 315,
+      "favorite": false,
+      "url": "http://radionina.cl/",
+      "name": "Radio Nina FM",
+      "location": "Chile",
+      "twitter": "",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/315.png",
+      "play": {
+          "contentType": "audio/aacp",
+          "urlStream": "http://142.44.179.127:9306/;"
+      }
+  }, {
+      "id": 316,
+      "favorite": false,
+      "url": "https://radiortl.cl/",
+      "name": "Radio RTL Curico",
+      "location": "Curico, Chile",
+      "twitter": "rtlcurico",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/316.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio.mediadev.cl:8090/rtl_curico"
+      }
+  }, {
+      "id": 317,
+      "favorite": false,
+      "url": "https://radiortl.cl/",
+      "name": "Radio RTL San Fernando",
+      "location": "San Fernando, Chile",
+      "twitter": "rtlcurico",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/316.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio.mediadev.cl:8110/san_fernando"
+      }
+  }, {
+      "id": 318,
+      "favorite": false,
+      "url": "https://radiortl.cl/",
+      "name": "Radio RTL Linares",
+      "location": "Linares, Chile",
+      "twitter": "rtlcurico",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/316.png",
+      "play": {
+          "contentType": "audio/aac",
+          "urlStream": "http://radio.mediadev.cl:8040/rtllinares"
+      }
+  }, {
+      "id": 319,
+      "favorite": false,
+      "url": "http://www.radiocalipsofm.cl/",
+      "name": "Radio Calipso",
+      "location": "Melipilla, Chile",
+      "twitter": "",
+      "icon": "https://www.victorsanmartin.com/api/radios/images/319.png",
+      "play": {
+          "contentType": "audio/mpeg",
+          "urlStream": "http://audio2.tustreaming.cl:8052/stream"
       }
   }]
 }
