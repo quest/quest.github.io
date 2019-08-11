@@ -1,5 +1,5 @@
 {
-  "version": 124,
+  "version": 125,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -498,7 +498,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/52.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "https://ic.imusicaradios.com.br/chile.stream.http.48k"
+          "urlStream": "http://stream.zenolive.com/9ghzut04v2quv"
       }
   }, {
       "id": 61,

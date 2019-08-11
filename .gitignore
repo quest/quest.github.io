@@ -1,2 +1,5 @@
 .DS_*
 cleancache.sh
+json-to-firebase.js
+node_modules
+package-lock.json
