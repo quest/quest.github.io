@@ -1,5 +1,5 @@
 {
-  "version": 128,
+  "version": 129,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2435,7 +2435,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/255.png",
       "play": {
           "contentType": "audio/aacp",
-          "urlStream": "http://190.3.169.87:9374/;"
+          "urlStream": "http://149.56.175.167:5100/;"
       }
   }, {
       "id": 256,
