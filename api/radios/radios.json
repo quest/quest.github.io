@@ -1,5 +1,5 @@
 {
-  "version": 126,
+  "version": 128,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -478,7 +478,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/50.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/live.m3u8"
+          "urlStream": "https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio"
       }
   }, {
       "id": 51,
