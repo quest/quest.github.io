@@ -1,5 +1,5 @@
 {
-  "version": 130,
+  "version": 131,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3165,16 +3165,40 @@
           "urlStream": "http://radio.mediadev.cl:8040/rtllinares"
       }
   }, {
-      "id": 319,
-      "favorite": false,
-      "url": "http://www.radiocalipsofm.cl/",
-      "name": "Radio Calipso",
-      "location": "Melipilla, Chile",
-      "twitter": "",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/319.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://audio2.tustreaming.cl:8052/stream"
-      }
+    "id": 319,
+    "favorite": false,
+    "url": "http://www.radiocalipsofm.cl/",
+    "name": "Radio Calipso",
+    "location": "Melipilla, Chile",
+    "twitter": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/319.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "http://audio2.tustreaming.cl:8052/stream"
+    }
+  }, {
+    "id": 320,
+    "favorite": false,
+    "url": "http://www.lamejor.cl/",
+    "name": "Radio La Mejor",
+    "location": "Santiago, Chile",
+    "twitter": "lamejorchile",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/320.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonicpanel.mediostream.cl/8066/stream"
+    }
+  }, {
+    "id": 321,
+    "favorite": false,
+    "url": "http://www.lamejor.cl/",
+    "name": "Radio La Morena",
+    "location": "Santiago, Chile",
+    "twitter": "lamejorchile",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/321.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonicpanel.mediostream.cl/8068/stream"
+    }
   }]
 }
