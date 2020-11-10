@@ -1,5 +1,5 @@
 {
-  "version": 132,
+  "version": 133,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3215,7 +3215,7 @@
   }, {
     "id": 323,
     "favorite": false,
-    "url": "http://www.mazcl.tk/",
+    "url": "https://www.interradio1.net/",
     "name": "InterRadio TV",
     "location": "Frutillar, Chile",
     "twitter": "interradio1",
