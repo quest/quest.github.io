@@ -1,5 +1,5 @@
 {
-  "version": 133,
+  "version": 134,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2215,7 +2215,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/235.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://s3.mediostream.cl:9312/;"
+          "urlStream": "https://www.buenisima.cl/live"
       }
   }, {
       "id": 236,
