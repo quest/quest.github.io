@@ -1,5 +1,5 @@
 {
-  "version": 134,
+  "version": 135,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3223,6 +3223,115 @@
     "play": {
         "contentType": "audio/aacp",
         "urlStream": "https://radio.saopaulo01.com.br:10815/;"
+    }
+  }, {
+    "id": 324,
+    "favorite": false,
+    "url": "https://www.ninafm.cl/",
+    "name": "Nina FM",
+    "location": "Santiago, Chile",
+    "twitter": "ninaladiferente",
+    "facebook": "ninaladiferente",
+    "instagram": "ninaladiferente",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/324.png",
+    "play": {
+        "contentType": "audio/aacp",
+        "urlStream": "http://162.251.160.57:8038/;"
+    }
+  }, {
+    "id": 325,
+    "favorite": false,
+    "url": "https://radiobelenchile.cl/",
+    "name": "Radio Belén Chile",
+    "location": "Chile",
+    "facebook": "RBunasenaldeamor",
+    "instagram": "radiobelenchile",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/325.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonic.portalfoxmix.club/8246/stream"
+    }
+  }, {
+    "id": 326,
+    "favorite": false,
+    "url": "http://www.ccpradio.cl/",
+    "name": "CCP Radio",
+    "location": "Concepción, Chile",
+    "twitter": "ccpradio1",
+    "facebook": "ccpradio",
+    "instagram": "ccpradio",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/326.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "http://190.3.169.87:9300/;"
+    }
+  }, {
+    "id": 327,
+    "favorite": false,
+    "url": "https://www.radioantofagastaonline.cl/raol-retro",
+    "name": "Radio Raol Retro",
+    "location": "Antofagasta, Chile",
+    "twitter": "radioaftaonline",
+    "facebook": "radioantofagastaonline",
+    "instagram": "radioantofagastaonline",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/327.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "http://stream.zeno.fm/57kv56x32yzuv.mp3"
+    }
+  }, {
+    "id": 328,
+    "favorite": false,
+    "url": "https://radiofmdance.com",
+    "name": "Radio FM Dance",
+    "location": "Chile",
+    "twitter": "radiofmdance",
+    "facebook": "radiofmdance",
+    "instagram": "radiofmdance",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/328.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonic.portalfoxmix.cl/9818/stream"
+    }
+  }, {
+    "id": 329,
+    "favorite": false,
+    "url": "https://www.waveradio.cl",
+    "name": "Wave Radio Pop",
+    "location": "Chile",
+    "twitter": "waveradio_cl",
+    "facebook": "waveradiocl",
+    "instagram": "waveradiocl",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/329.png",
+    "play": {
+        "contentType": "audio/aac",
+        "urlStream": "https://cdn4.onstream.audio:9243/stream"
+    }
+  }, {
+    "id": 330,
+    "favorite": false,
+    "url": "https://www.waveradio.cl",
+    "name": "Wave Radio Urbana",
+    "location": "Chile",
+    "twitter": "waveradio_cl",
+    "facebook": "waveradiocl",
+    "instagram": "waveradiocl",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/330.png",
+    "play": {
+        "contentType": "audio/aac",
+        "urlStream": "https://cdn4.onstream.audio:9219/stream"
+    }
+  }, {
+    "id": 331,
+    "favorite": false,
+    "url": "http://www.radioplazadeladignidad.cl",
+    "name": "Radio Plaza de la Dignidad",
+    "location": "Chile",
+    "facebook": "radioplazadeladignidadoficial",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/331.png",
+    "play": {
+        "contentType": "audio/aac",
+        "urlStream": "http://92.222.122.116:8106/stream"
     }
   }]
 }
