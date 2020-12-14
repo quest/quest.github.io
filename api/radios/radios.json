@@ -1,5 +1,5 @@
 {
-  "version": 135,
+  "version": 136,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3222,7 +3222,7 @@
     "icon": "https://www.victorsanmartin.com/api/radios/images/323.png",
     "play": {
         "contentType": "audio/aacp",
-        "urlStream": "https://radio.saopaulo01.com.br:10815/;"
+        "urlStream": "https://radio.saopaulo01.com.br/8186/stream"
     }
   }, {
     "id": 324,
