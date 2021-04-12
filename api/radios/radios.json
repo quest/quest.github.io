@@ -1,5 +1,5 @@
 {
-  "version": 138,
+  "version": 139,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3332,6 +3332,191 @@
     "play": {
         "contentType": "audio/aac",
         "urlStream": "http://92.222.122.116:8106/stream"
+    }
+  }, {
+    "id": 332,
+    "favorite": false,
+    "url": "http://www.myradio.cl",
+    "name": "MY RADIO 97.7 FM",
+    "location": "Punta Arenas, Chile",
+    "facebook": "myradio.cl",
+    "twitter": "myradio_cl",
+    "instagram": "myradiofm",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/332.png",
+    "play": {
+        "contentType": "audio/aacp",
+        "urlStream": "http://198.204.228.202:8166/mp3_live"
+    }
+  }, {
+    "id": 333,
+    "favorite": false,
+    "url": "http://www.myradio.cl",
+    "name": "MY RADIO 95.9 FM",
+    "location": "Punta Arenas, Chile",
+    "facebook": "myradio.cl",
+    "twitter": "myradio_cl",
+    "instagram": "myradiofm",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/332.png",
+    "play": {
+        "contentType": "audio/aacp",
+        "urlStream": "http://198.204.228.202:8175/mp3_live"
+    }
+  }, {
+    "id": 334,
+    "favorite": false,
+    "url": "http://www.estacionactiva.cl",
+    "name": "Estación Activa",
+    "location": "Cañete, Chile",
+    "facebook": "www.estacionactiva.cl",
+    "twitter": "EstacionActiv",
+    "instagram": "estacionactiva",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/334.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "http://sonicpanel.mediostream.cl:8024/stream"
+    }
+  }, {
+    "id": 335,
+    "favorite": false,
+    "url": "http://www.radiocondell.cl/",
+    "name": "Radio Condell",
+    "location": "Curicó, Chile",
+    "facebook": "RadioCondell",
+    "twitter": "RadioCondell",
+    "instagram": "RadioCondell",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/335.png",
+    "play": {
+        "contentType": "audio/aac",
+        "urlStream": "http://5.9.65.9:8099/stream"
+    }
+  }, {
+    "id": 336,
+    "favorite": false,
+    "url": "https://www.radioamigavallenar.cl/",
+    "name": "Radio Amiga Vallenar 88.5",
+    "location": "Vallenar, Chile",
+    "twitter": "amigavallenarfm",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/336.png",
+    "play": {
+        "contentType": "audio/mp3g",
+        "urlStream": "https://stream.playhosting.cl/8002/stream"
+    }
+  }, {
+    "id": 337,
+    "favorite": false,
+    "url": "https://radiorutanorte.cl/",
+    "name": "Radio Ruta Norte FM",
+    "location": "Coquimbo, Chile",
+    "facebook": "RutaNorteFM",
+    "twitter": "rrutanorte",
+    "instagram": "radio_rutanorte",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/337.png",
+    "play": {
+        "contentType": "audio/aac",
+        "urlStream": "https://streamprivate.live:10934/RRN2021"
+    }
+  }, {
+    "id": 338,
+    "favorite": false,
+    "url": "https://www.radiovalparaiso.cl/",
+    "name": "Radio Valparaíso",
+    "location": "Coquimbo, Chile",
+    "facebook": "valparaisofm",
+    "twitter": "radiovalparaiso",
+    "instagram": "radio_valparaiso",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/338.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://ascl.denial.cl:2020/stream/8024/;stream.nsv"
+    }
+  }, {
+    "id": 339,
+    "favorite": false,
+    "url": "https://www.canalsurpatagonia.cl/",
+    "name": "Canal Sur Patagonia",
+    "location": "Patagonia, Chile",
+    "twitter": "CanalSurPatagon",
+    "instagram": "CanalSurPatagonia",
+    "facebook": "CanalSurPatagonia",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/339.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "http://audio2.tustreaming.cl:8084/stream"
+    }
+  }, {
+    "id": 340,
+    "favorite": false,
+    "url": "https://www.hvaradio.cl/",
+    "name": "HVA Radio 96.3 Fm",
+    "location": "Valdivia, Chile",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/340.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "http://149.56.241.149:8044/stream?type=http&nocache=21"
+    }
+  }, {
+    "id": 341,
+    "favorite": false,
+    "url": "https://rpanamericanachile.wixsite.com/radiopanamericana",
+    "name": "RADIO PANAMERICANA CHILE",
+    "location": "Chile",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/341.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonic-us.streaming-chile.com:7037/;"
+    }
+  }, {
+    "id": 342,
+    "favorite": false,
+    "url": "https://radiopoderosafm.com/",
+    "name": "Radio Poderosa",
+    "location": "Chile",
+    "twitter": "turadiopoderosa",
+    "instagram": "turadiopoderosa",
+    "facebook": "Turadiopoderosa-101576745008069",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/342.png",
+    "play": {
+        "contentType": "audio/aacp",
+        "urlStream": "https://sonic.portalfoxmix.club/8004/stream"
+    }
+  }, {
+    "id": 343,
+    "favorite": false,
+    "url": "http://rsmc90.sytes.net/",
+    "name": "Radio Poderosa",
+    "location": "Copiapó, Chile",
+    "twitter": "RadioRSMC90s",
+    "instagram": "RadioRSMC90s",
+    "facebook": "RSMC90s",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/343.png",
+    "play": {
+        "contentType": "audio/aacp",
+        "urlStream": "http://rsmc90.sytes.net:8000/live"
+    }
+  }, {
+    "id": 344,
+    "favorite": false,
+    "url": "https://riosdevidabendicion.webnode.cl/",
+    "name": "Radio Ríos de agua viva",
+    "location": "Pucón, Chile",
+    "facebook": "RiosdeAguaVivaFM",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/344.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://streamprivate.live/8078/stream"
+    }
+  }, {
+    "id": 355,
+    "favorite": false,
+    "url": "http://www.djserviceiquique.cl/",
+    "name": "Dj Service Iquique",
+    "location": "Iquique, Chile",
+    "facebook": "djserviceiquique",
+    "instagram": "djserviceiquique",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/355.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://tvstreaming.cl/8014/stream"
     }
   }]
 }
