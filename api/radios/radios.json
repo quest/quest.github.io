@@ -133,12 +133,12 @@
   }, {
       "id": 14,
       "favorite": false,
-      "url": "http://www.elconquistadorfm.cl/",
+      "url": "http://www.elconquistadorfm.net/",
       "name": "Radio El Conquistador",
       "icon": "https://www.victorsanmartin.com/api/radios/images/14.png",
       "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://195.154.167.62:9314/;"
+          "contentType": "audio/mpeg",
+          "urlStream": "https://stream10.usastreams.com/9314/stream/"
       }
   }, {
       "id": 15,
