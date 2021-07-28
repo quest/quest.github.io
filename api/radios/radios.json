@@ -1,5 +1,5 @@
 {
-  "version": 141,
+  "version": 142,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3517,6 +3517,17 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://tvstreaming.cl/8014/stream"
+    }
+  }, {
+    "id": 356,
+    "favorite": false,
+    "url": "http://retromix.club/",
+    "name": "Retromix",
+    "location": "Antofagasta, Chile",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/356.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "http://panelradio.online:8871/mp3"
     }
   }]
 }
