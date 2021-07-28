@@ -1,5 +1,5 @@
 {
-  "version": 144,
+  "version": 145,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3292,34 +3292,6 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://sonic.portalfoxmix.cl/9818/stream"
-    }
-  }, {
-    "id": 329,
-    "favorite": false,
-    "url": "https://www.waveradio.cl",
-    "name": "Wave Radio Pop",
-    "location": "Chile",
-    "twitter": "waveradio_cl",
-    "facebook": "waveradiocl",
-    "instagram": "waveradiocl",
-    "icon": "https://www.victorsanmartin.com/api/radios/images/329.png",
-    "play": {
-        "contentType": "audio/aac",
-        "urlStream": "https://cdn4.onstream.audio:9243/stream"
-    }
-  }, {
-    "id": 330,
-    "favorite": false,
-    "url": "https://www.waveradio.cl",
-    "name": "Wave Radio Urbana",
-    "location": "Chile",
-    "twitter": "waveradio_cl",
-    "facebook": "waveradiocl",
-    "instagram": "waveradiocl",
-    "icon": "https://www.victorsanmartin.com/api/radios/images/330.png",
-    "play": {
-        "contentType": "audio/aac",
-        "urlStream": "https://cdn4.onstream.audio:9219/stream"
     }
   }, {
     "id": 331,
