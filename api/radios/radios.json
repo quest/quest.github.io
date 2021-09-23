@@ -1,5 +1,5 @@
 {
-  "version": 147,
+  "version": 148,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3186,7 +3186,7 @@
     "icon": "https://www.victorsanmartin.com/api/radios/images/320.png",
     "play": {
         "contentType": "audio/mpeg",
-        "urlStream": "http://62.210.178.22:8146/;"
+        "urlStream": "https://stream20.usastreams.com/8146/stream"
     }
   }, {
     "id": 321,
@@ -3198,7 +3198,7 @@
     "icon": "https://www.victorsanmartin.com/api/radios/images/321.png",
     "play": {
         "contentType": "audio/mpeg",
-        "urlStream": "http://62.210.178.22:8148/;"
+        "urlStream": "https://stream20.usastreams.com/8148/stream"
     }
   }, {
     "id": 322,
