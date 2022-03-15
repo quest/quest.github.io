@@ -1,5 +1,5 @@
 {
-  "version": 148,
+  "version": 150,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3500,6 +3500,19 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "http://panelradio.online:8871/mp3"
+    }
+  }, {
+    "id": 360,
+    "favorite": false,
+    "url": "https://radioazucar.cl/",
+    "name": "Radio Azucar",
+    "location": "Santiago, Chile",
+    "facebook": "lamasdulcedechile",
+    "instagram": "radioazucarfm",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/356.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://audio1.tustreaming.cl:10953/azucarsantiago"
     }
   }]
 }
