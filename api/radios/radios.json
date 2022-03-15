@@ -1,5 +1,5 @@
 {
-  "version": 150,
+  "version": 160,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3509,7 +3509,7 @@
     "location": "Santiago, Chile",
     "facebook": "lamasdulcedechile",
     "instagram": "radioazucarfm",
-    "icon": "https://www.victorsanmartin.com/api/radios/images/356.png",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/360.png",
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://audio1.tustreaming.cl:10953/azucarsantiago"
