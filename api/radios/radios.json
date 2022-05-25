@@ -1,5 +1,5 @@
 {
-  "version": 163,
+  "version": 164,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2814,6 +2814,19 @@
     "play": {
         "contentType": "audio/aacp",
         "urlStream": "https://audio.divalstream.com:7006/;"
+    }
+  }, {
+    "id": 363,
+    "favorite": false,
+    "url": "http://www.radiocentinela.cl/",
+    "name": "Centinela FM",
+    "location": "Yumbel, Chile",
+    "twitter": "RadioCentinela",
+    "facebook": "CentinelaYumbel.cl",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/363.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonicpanel.mediostream.cl/8116/stream"
     }
   }]
 }
