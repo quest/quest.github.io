@@ -1,5 +1,5 @@
 {
-  "version": 162,
+  "version": 163,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2800,6 +2800,20 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://cp.sonicpanel.stream:8006/;stream.mp3"
+    }
+  }, {
+    "id": 362,
+    "favorite": false,
+    "url": "https://www.aeradio.cl/",
+    "name": "AE Radio",
+    "location": "Concepción, Chile",
+    "twitter": "ae_radio",
+    "facebook": "aeradio.cl",
+    "instagram": "aeradio",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/362.png",
+    "play": {
+        "contentType": "audio/aacp",
+        "urlStream": "https://audio.divalstream.com:7006/;"
     }
   }]
 }
