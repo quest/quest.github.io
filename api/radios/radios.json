@@ -8,7 +8,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/1.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://envivo.digitalfm.cl:8000/digitalfm"
+          "urlStream": "https://redirector.dps.live/digitalfm/aac/icecast.audio"
       }
   }, {
       "id": 2,
@@ -78,7 +78,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/8.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://unlimited3-cl.dps.live/disney/mp364k/icecast.audio"
+          "urlStream": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_CHI_SA.mp3?dist=web-radiodisney-disneylatino"
       }
   }, {
       "id": 9,
@@ -109,16 +109,6 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "http://redirector.dps.live/romantica/mp3/icecast.audio"
-      }
-  }, {
-      "id": 12,
-      "favorite": false,
-      "url": "http://www.radiozero.cl/",
-      "name": "Radio Zero",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/12.png",
-      "play": {
-          "contentType": "application/x-mpegURL",
-          "urlStream": "http://unlimited1-us.dps.live/zero/go/audio/now/livestream1.m3u8"
       }
   }, {
       "id": 13,
@@ -168,7 +158,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/17.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://tunein.digitalproserver.com/candelabb.aac"
+          "urlStream": "https://hls-audio-cl-2-isp.dps.live/candela/gotardis/audio/now/livestream1.m3u8"
       }
   }, {
       "id": 18,
@@ -178,7 +168,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/18.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://35.236.62.14:8000/;"
+          "urlStream": "https://streamuchile.teslati.com/liveruch"
       }
   }, {
       "id": 19,
@@ -188,7 +178,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/19.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://tunein.digitalproserver.com/fmtiempobb.mp3"
+          "urlStream": "https://pantera1-100gb-cl-movistar.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8"
       }
   }, {
       "id": 20,
@@ -218,7 +208,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/22.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://mp3.oasisfm.cl/stream/1/"
+          "urlStream": "https://mdstrm.com/audio/5c915497c6fd7c085b29169d/live.m3u8"
       }
   }, {
       "id": 23,
@@ -238,7 +228,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/24.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://tunein.digitalproserver.com/beethovenbb.aac"
+          "urlStream": "https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8"
       }
   }, {
       "id": 25,
@@ -249,16 +239,6 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "https://unlimited3-cl.dps.live/duna/aac/icecast.audio"
-      }
-  }, {
-      "id": 26,
-      "favorite": false,
-      "url": "http://www.radiounochile.cl/player-online/",
-      "name": "Radio Uno",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/26.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_UNO_SC"
       }
   }, {
       "id": 27,
@@ -318,7 +298,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/32.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://173.233.72.82:9358/;"
+          "urlStream": "https://streaming.comunicacioneschile.net/9358/stream"
       }
   }, {
       "id": 33,
@@ -348,7 +328,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/35.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://186.103.213.249:9988/stream/1/"
+          "urlStream": "https://audio2.tustreaming.cl:10997/stream"
       }
   }, {
       "id": 36,
@@ -358,17 +338,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/36.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://montecarloradiostation2.better-than.tv/stream/1/"
-      }
-  }, {
-      "id": 37,
-      "favorite": false,
-      "url": "http://www.radiocentinela.cl/",
-      "name": "Radio Centinela Yumbel",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/37.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://s3.medionline.cl:9964/;"
+          "urlStream": "https://streamprivate.live/8124/stream"
       }
   }, {
       "id": 38,
@@ -378,7 +348,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/38.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://192.99.150.234:9902/;"
+          "urlStream": "http://192.99.18.164:9820/;"
       }
   }, {
       "id": 40,
@@ -398,17 +368,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/41.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://mp3.sonarfm.cl/stream/1/"
-      }
-  }, {
-      "id": 44,
-      "favorite": false,
-      "url": "http://www.radiomaxima.cl/",
-      "name": "Radio Máxima",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/44.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://streamprochile.com:9938/stream/1/"
+          "urlStream": "https://mdstrm.com/audio/5c915724519bce27671c4d15/live.m3u8"
       }
   }, {
       "id": 45,
@@ -421,26 +381,6 @@
           "urlStream": "http://radio.radiohoy.cl:7002/;"
       }
   }, {
-      "id": 81,
-      "favorite": false,
-      "url": "http://hoydeportes.cl/",
-      "name": "Radio Hoy Deportes",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/81.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://radio.radiohoy.cl:7000/;"
-      }
-  }, {
-      "id": 46,
-      "favorite": false,
-      "url": "http://www.nacionaldechile.cl/",
-      "name": "Radio Nacional de Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/46.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://radio.nacionaldechile.cl:9954/;"
-      }
-  }, {
       "id": 47,
       "favorite": false,
       "url": "http://www.7fm.cl/",
@@ -448,7 +388,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/47.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://latitudmedia.cl:9030/;"
+          "urlStream": "http://131.221.33.235:9994/;"
       }
   }, {
       "id": 48,
@@ -458,17 +398,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/48.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://s6.jcwebnew.com:8060/stream"
-      }
-  }, {
-      "id": 49,
-      "favorite": false,
-      "url": "http://radio.injuv.cl/",
-      "name": "Radio Injuv FM",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/49.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://unlimited3-cl.dps.live/injuvfm/aac/icecast.audio"
+          "urlStream": "https://stream.polarhost.cl/portales_am"
       }
   }, {
       "id": 50,
@@ -481,16 +411,6 @@
           "urlStream": "https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio"
       }
   }, {
-      "id": 51,
-      "favorite": false,
-      "url": "http://www.cnxradio.cl/",
-      "name": "CNX Radio",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/51.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://5.9.65.9:8074/;"
-      }
-  }, {
       "id": 52,
      "favorite": false,
       "url": "https://www.coca-cola.cl/",
@@ -498,27 +418,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/52.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://stream.zenolive.com/9ghzut04v2quv"
-      }
-  }, {
-      "id": 61,
-      "favorite": false,
-      "url": "http://radiofmimagen.net/",
-      "name": "Radio FM Imagen",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/61.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://200.58.102.90:8034/live"
-      }
-  }, {
-      "id": 62,
-      "favorite": false,
-      "url": "http://www.fusionradio.cl/",
-      "name": "Fusion Radio",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/62.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://107.155.120.114:9904/;"
+          "urlStream": "https://str3.openstream.co/1084"
       }
   }, {
       "id": 63,
@@ -528,17 +428,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/63.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://s3.medionline.cl:8078/;"
-      }
-  }, {
-      "id": 64,
-      "favorite": false,
-      "url": "http://www.chilechico.cl/",
-      "name": "Radio FM tú 92.1",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/64.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://201.187.109.44:8000/;"
+          "urlStream": "https://audio0.tustreaming.cl/7290/stream"
       }
   }, {
       "id": 65,
@@ -568,7 +458,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/67.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://sc.digitalproserver.com:9604/;?1501890036393"
+          "urlStream": "https://sonic.portalfoxmix.cl/8034/stream"
       }
   }, {
       "id": 68,
@@ -578,7 +468,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://unlimited3-cl.dps.live/p7valparaiso/aac/icecast.audio"
+          "urlStream": "https://redirector.dps.live/p7valparaiso/aac/icecast.audio"
       }
   }, {
       "id": 69,
@@ -588,7 +478,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://unlimited3-cl.dps.live/p7concepcion/aac/icecast.audio"
+          "urlStream": "https://redirector.dps.live/p7concepcion/aac/icecast.audio"
       }
   }, {
       "id": 70,
@@ -598,7 +488,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://unlimited3-cl.dps.live/p7losangeles/aac/icecast.audio"
+          "urlStream": "https://redirector.dps.live/p7losangeles/mp3/icecast.audio"
       }
   }, {
       "id": 71,
@@ -608,7 +498,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://unlimited3-cl.dps.live/p7temuco/aac/icecast.audio"
+          "urlStream": "https://redirector.dps.live/p7temuco/aac/icecast.audio"
       }
   }, {
       "id": 72,
@@ -618,7 +508,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://unlimited3-cl.dps.live/p7valdivia/aac/icecast.audio"
+          "urlStream": "https://redirector.dps.live/p7valdivia/aac/icecast.audio"
       }
   }, {
       "id": 73,
@@ -628,7 +518,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://unlimited3-cl.dps.live/p7osorno/aac/icecast.audio"
+          "urlStream": "https://redirector.dps.live/p7osorno/aac/icecast.audio"
       }
   }, {
       "id": 74,
@@ -638,17 +528,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/68.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://unlimited3-cl.dps.live/p7puertomontt/aac/icecast.audio"
-      }
-  }, {
-      "id": 75,
-      "favorite": false,
-      "url": "https://www.maxivinil.com",
-      "name": "Maxivinil Radio",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/75.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://206.190.136.140:7355/;stream/1"
+          "urlStream": "https://redirector.dps.live/p7puertomontt/mp3/icecast.audio"
       }
   }, {
       "id": 76,
@@ -698,17 +578,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/80.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://sscl.denialstream.com:8044/;stream/1"
-      }
-  }, {
-      "id": 82,
-      "favorite": false,
-      "url": "http://www.somoschileradio.cl/",
-      "name": "Somos Chile Radio",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/82.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://5.9.65.9:8120/;"
+          "urlStream": "https://stream3.polarhost.cl/RadioSportChile"
       }
   }, {
       "id": 83,
@@ -731,16 +601,6 @@
           "urlStream": "http://5.9.65.9:8022/stream"
       }
   }, {
-      "id": 85,
-      "favorite": false,
-      "url": "http://www.lauradio.cl/",
-      "name": "La U Radio",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/85.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://stream3.rbm.cl:8010/playerweb.aac"
-      }
-  }, {
       "id": 86,
       "favorite": false,
       "url": "http://radioazulchile.cl/",
@@ -748,17 +608,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/86.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://centova.crearchile.info:8104/stream"
-      }
-  }, {
-      "id": 87,
-      "favorite": false,
-      "url": "http://mgradiochile.000webhostapp.com/",
-      "name": "MG Radio Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/87.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://78.129.224.19:21004/"
+          "urlStream": "https://sonicpanel.chileservidores.cl/8020/;"
       }
   }, {
       "id": 88,
@@ -768,7 +618,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/88.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://173.233.72.82:9326/;"
+          "urlStream": "https://streaming.comunicacioneschile.net/9326/stream"
       }
   }, {
       "id": 89,
@@ -778,7 +628,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/89.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://radio1.us.mediastre.am/subela.aac"
+          "urlStream": "https://mdstrm.com/audio/5d013e4bc8a64d0da420ced6/live.m3u8"
       }
   }, {
       "id": 91,
@@ -791,16 +641,6 @@
           "urlStream": "http://sonando.us.digitalproserver.com/beatfm_aac"
       }
   }, {
-      "id": 92,
-      "favorite": false,
-      "url": "http://www.rocketradio.cl/",
-      "name": "Rocket Radio",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/92.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://104.131.18.232:8000/;"
-      }
-  }, {
       "id": 93,
       "favorite": false,
       "url": "https://www.radiosago.cl/",
@@ -808,7 +648,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/93.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://184.107.165.66:9974/;?1502558795846"
+          "urlStream": "https://audio.divalstream.com:7001/stream"
       }
   }, {
       "id": 94,
@@ -818,7 +658,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/93.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://184.107.165.66:9992/;?1502558811387"
+          "urlStream": "https://audio.divalstream.com:7002/stream"
       }
   }, {
       "id": 95,
@@ -881,16 +721,6 @@
           "urlStream": "http://sonando.us.digitalproserver.com/carnaval_sanantonio.aac"
       }
   }, {
-      "id": 101,
-      "favorite": false,
-      "url": "http://radiocarnaval.cl/rancagua/",
-      "name": "Radio Carnaval FM Rancagua",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/27.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://sonando.us.digitalproserver.com/carnaval_rancagua.aac"
-      }
-  }, {
       "id": 102,
       "favorite": false,
       "url": "http://radiocarnaval.cl/curico/",
@@ -928,7 +758,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/106.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://192.99.18.164:9560/;"
+          "urlStream": "https://sonic.portalfoxmix.cl/8012/stream"
       }
   }, {
       "id": 107,
@@ -958,7 +788,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/109.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://streaming.chiloestreaming.com:9554/;"
+          "urlStream": "https://streaming.chiloestreaming.com:10997/;"
       }
   }, {
       "id": 110,
@@ -968,27 +798,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/110.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://radio1.us.mediastre.am/siente.aac"
-      }
-  }, {
-      "id": 111,
-      "favorite": false,
-      "url": "http://www.radiosiente.com/",
-      "name": "Radio Siente 80s/Pop/Rock",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/111.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://radio1.us.mediastre.am/siente2.aac"
-      }
-  }, {
-      "id": 112,
-      "favorite": false,
-      "url": "http://www.radiosiente.com/",
-      "name": "Radio Siente Dance/House/Pop",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/112.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://radio1.us.mediastre.am/siente3.aac"
+          "urlStream": "https://mdstrm.com/audio/5de5597e52a9da4517903734/live.m"
       }
   }, {
       "id": 113,
@@ -998,7 +808,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/113.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://radio.streamingchile.net:9552/;"
+          "urlStream": "https://club.asdmedios.cl/radio/8180//radio.mp3"
       }
   }, {
       "id": 114,
@@ -1008,47 +818,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/114.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://radio.cl.mediastre.am/rockaxis.aac"
-      }
-  }, {
-      "id": 115,
-      "favorite": false,
-      "url": "http://www.radiovillafrancia.cl/",
-      "name": "Radio Villa Francia",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/115.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://167.114.208.100:9814/;"
-      }
-  }, {
-      "id": 116,
-      "favorite": false,
-      "url": "http://www.radiounidafm.cl/",
-      "name": "Radio Unida Fm Chile Oficial",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/116.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://livehd.cdn.felpysolutions.us:5840/radiounidafm.mp3"
-      }
-  }, {
-      "id": 117,
-      "favorite": false,
-      "url": "http://radiofederacion.cl/",
-      "name": "Radio Federación",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/117.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://radiofederacion-shout.janus.cl/;stream.mp3"
-      }
-  }, {
-      "id": 118,
-      "favorite": false,
-      "url": "http://radiolacentral.cl/",
-      "name": "Radio LaCENTRAL",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/118.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://sonando.us.digitalproserver.com/lacentral_aac"
+          "urlStream": "https://mdstrm.com/audio/5de7fdb07e2fde0798203821/live.m3u8"
       }
   }, {
       "id": 119,
@@ -1058,7 +828,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/119.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream3.rbm.cl:8010/playerweb.aac"
+          "urlStream": "https://streamuchile.teslati.com/liveruch"
       }
   }, {
       "id": 120,
@@ -1078,17 +848,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/121.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com:8000/amiga-fm.aac?hash=1523714539640.mp3"
-      }
-  }, {
-      "id": 122,
-      "favorite": false,
-      "url": "http://www.radiopulso.cl/",
-      "name": "Radio Pulso",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/122.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://104.131.243.43:8095/;"
+          "urlStream": "https://streams.radiomast.io/aff8c0f0-5d0c-41d6-83b2-71daff574701"
       }
   }, {
       "id": 124,
@@ -1097,8 +857,8 @@
       "name": "Radio Recreo",
       "icon": "https://www.victorsanmartin.com/api/radios/images/124.png",
       "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://s4.medionline.cl:8025/;stream.nsv"
+          "contentType": "audio/mpeg",
+          "urlStream": "https://streamingsonicpro.com/8132/stream"
       }
   }, {
       "id": 125,
@@ -1108,7 +868,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/125.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://184.154.173.147:8004/stream?1502936207387"
+          "urlStream": "https://cp.streamchileno.cl/radio/8040/radio.mp3"
       }
   }, {
       "id": 126,
@@ -1128,7 +888,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/127.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://s6.jcwebnew.com:7060/stream"
+          "urlStream": "https://audio2.tustreaming.cl:10987/stream"
       }
   }, {
       "id": 128,
@@ -1138,7 +898,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/128.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://167.114.119.122:9838/;"
+          "urlStream": "http://audio.jgm.uchile.cl:8549/radiojgm"
       }
   }, {
       "id": 129,
@@ -1148,7 +908,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/129.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://mp3.t13radio.cl/;"
+          "urlStream": "https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8"
       }
   }, {
       "id": 130,
@@ -1168,7 +928,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/131.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://unlimited1-cl.digitalproserver.com/nostalgica/aac/icecast.audio"
+          "urlStream": "https://redirector.dps.live/nostalgica/aac/icecast.audio"
       }
   }, {
       "id": 132,
@@ -1178,7 +938,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/131.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://unlimited1-cl.digitalproserver.com/nostalgicaplus/aac/icecast.audio"
+          "urlStream": "https://redirector.dps.live/nostalgicaplus/aac/icecast.audio"
       }
   }, {
       "id": 133,
@@ -1188,7 +948,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/133.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://176.31.241.17:8068/;stream.nsv"
+          "urlStream": "https://streaming.viphosting.cl/8012/stream"
       }
   }, {
       "id": 135,
@@ -1221,16 +981,6 @@
           "urlStream": "http://200.24.229.253:8310/;"
       }
   }, {
-      "id": 138,
-      "favorite": false,
-      "url": "http://www.radiotributo.net/",
-      "name": "Radio Tributo",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/138.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://144.217.129.213:8850/stream;"
-      }
-  }, {
       "id": 139,
       "favorite": false,
       "url": "http://www.radiosanjoaquin.cl/",
@@ -1251,26 +1001,6 @@
           "urlStream": "http://audio.rdiplus.cl:8000/live"
       }
   }, {
-      "id": 141,
-      "favorite": false,
-      "url": "http://fm7lagos.cl/",
-      "name": "FM 7 Lagos",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/141.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://192.99.18.164:9852/;"
-      }
-  }, {
-      "id": 142,
-      "favorite": false,
-      "url": "http://ndmradiochile.cl/",
-      "name": "Radio NDM",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/142.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://94.23.84.122:7048/;"
-      }
-  }, {
       "id": 143,
       "favorite": false,
       "url": "http://radiolascolinas.cl/",
@@ -1289,7 +1019,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/144.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://laradiohd.com:9920/;"
+          "urlStream": "https://sonic.portalfoxmix.cl/8040/stream"
       }
   }, {
       "id": 145,
@@ -1302,16 +1032,6 @@
           "urlStream": "http://5.9.65.6:9952/;"
       }
   }, {
-      "id": 146,
-      "favorite": false,
-      "url": "http://www.radioaukinko.cl/",
-      "name": "Radio Aukinko",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/146.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://176.31.241.17:8155/;"
-      }
-  }, {
       "id": 147,
       "favorite": false,
       "url": "http://www.rlpfm.cl/osornochile/",
@@ -1319,17 +1039,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/147.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://167.114.208.100:9954/;?1503344786904"
-      }
-  }, {
-      "id": 148,
-      "favorite": false,
-      "url": "http://www.radiokamila.cl/",
-      "name": "Radio Kamila",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/148.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://s6.jcwebnew.com:7470/stream"
+          "urlStream": "https://sonic.portalfoxmix.cl:7012/;"
       }
   }, {
       "id": 149,
@@ -1339,7 +1049,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/149.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://198.50.154.235:10248/;"
+          "urlStream": "https://sp1.streamingssl.com/8060/stream;"
       }
   }, {
       "id": 150,
@@ -1379,7 +1089,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/153.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com:8000/femenina-fm.aac"
+          "urlStream": "http://archi-us.digitalproserver.com/femenina.aac"
       }
   }, {
       "id": 154,
@@ -1390,16 +1100,6 @@
       "play": {
           "contentType": "audio/aac",
           "urlStream": "http://stream5.eltelon.com/genesis.aac"
-      }
-  }, {
-      "id": 155,
-      "favorite": false,
-      "url": "http://www.radiohualaihue.cl/",
-      "name": "Radio Hualaihué FM",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/155.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://192.99.150.234:9934/;stream.mp3"
       }
   }, {
       "id": 156,
@@ -1422,16 +1122,6 @@
           "urlStream": "http://s6.jcwebnew.com:7500/stream"
       }
   }, {
-      "id": 159,
-      "favorite": false,
-      "url": "http://www.inacapradio.cl/",
-      "name": "Inacap Radio",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/159.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://198.15.86.218:9014/;"
-      }
-  }, {
       "id": 160,
       "favorite": false,
       "url": "http://fmcandelaria.cl/",
@@ -1439,7 +1129,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/160.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/candelaria.aac"
+          "urlStream": "https://srv6.sonicpanel.cl/8294/stream"
       }
   }, {
       "id": 161,
@@ -1449,7 +1139,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/161.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://radio.radiofranja.cl:8000/;"
+          "urlStream": "https://audio.streaminghd.cl:2000/stream/RadioFranja"
       }
   }, {
       "id": 162,
@@ -1549,7 +1239,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/171.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://radio.2702.cl:8003/live.mp3?hash=1503456676255"
+          "urlStream": "https://stream.radiojar.com/8333083seg0uv"
       }
   }, {
       "id": 172,
@@ -1559,7 +1249,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/172.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://144.217.129.213:8214/live"
+          "urlStream": "https://modoradiocl.radioca.st/live"
       }
   }, {
       "id": 173,
@@ -1569,7 +1259,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/173.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://radio.santotomas.cl:8000/;audio.mp3?hash=1503457987803"
+          "urlStream": "https://us1.internet-radio.com/proxy/radiosantotomas/stream"
       }
   }, {
       "id": 174,
@@ -1579,17 +1269,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/174.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/magallanes.aac"
-      }
-  }, {
-      "id": 175,
-      "favorite": false,
-      "url": "http://www.radionatales.com/",
-      "name": "Radio Natales CD-117",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/175.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/natales.aac"
+          "urlStream": "https://archi-us.digitalproserver.com/magallanes.aac"
       }
   }, {
       "id": 176,
@@ -1599,7 +1279,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/176.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://ip.audiostreaming.cl:9396/;"
+          "urlStream": "http://archi-us.digitalproserver.com/magica.aac"
       }
   }, {
       "id": 177,
@@ -1639,7 +1319,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/180.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com:8000/magiztral.aac"
+          "urlStream": "https://archi-us.digitalproserver.com/magiztral-fm.aac"
       }
   }, {
       "id": 181,
@@ -1648,8 +1328,8 @@
       "name": "Radio Manantial FM",
       "icon": "https://www.victorsanmartin.com/api/radios/images/181.png",
       "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://s6.medionline.cl:7602/;;audio.mp3?hash=1503460493118"
+          "contentType": "audio/mpeg",
+          "urlStream": "https://sonic-cl.streaming-chile.com/8068/stream"
       }
   }, {
       "id": 182,
@@ -1658,8 +1338,8 @@
       "name": "Radio Manantial AM",
       "icon": "https://www.victorsanmartin.com/api/radios/images/181.png",
       "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://s3.medionline.cl:8590/;;audio.mp3?hash=1503460492526"
+          "contentType": "audio/mpeg",
+          "urlStream": "https://sonic-cl.streaming-chile.com/8066/stream"
       }
   }, {
       "id": 183,
@@ -1679,17 +1359,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/184.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/archi-marcela.aac"
-      }
-  }, {
-      "id": 185,
-      "favorite": false,
-      "url": "http://buenamusicafm.com/",
-      "name": "Buena Música FM",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/185.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://s6.jcwebnew.com:9040/stream"
+          "urlStream": "https://archi-us.digitalproserver.com/marcelafm.aac"
       }
   }, {
       "id": 186,
@@ -1699,17 +1369,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/186.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://streaming.chiloestreaming.com:9142/;"
-      }
-  }, {
-      "id": 187,
-      "favorite": false,
-      "url": "http://www.adulto-joven.cl/",
-      "name": "Radio Edelweiss 95.1",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/187.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://107.191.102.88:8000/edelweiss;"
+          "urlStream": "http://45.236.128.48/castro"
       }
   }, {
       "id": 188,
@@ -1720,29 +1380,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/188.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://107.191.102.88:8000/miradortco;"
-      }
-  }, {
-      "id": 189,
-      "favorite": false,
-      "url": "http://www.mgandina.cl",
-      "name": "Superandina 88.5 FM",
-      "location": "Los Andes",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/189.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://atanua.broadcastchile.cl:8009/;audio.mp3?hash=1503629416344"
-      }
-  }, {
-      "id": 190,
-      "favorite": false,
-      "url": "http://www.radionuevabelen.cl/",
-      "name": "Nueva Belén 92.3 FM",
-      "location": "Puerto Montt",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/190.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/nueva-belen.aac?1534781026042"
+          "urlStream": "https://stream.edelweiss.fm/radio/8030/radio.mp3"
       }
   }, {
       "id": 191,
@@ -1753,7 +1391,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/191.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://sc.digitalproserver.com:9534/;"
+          "urlStream": "http://sonando.us.digitalproserver.com/rdi.aac"
       }
   }, {
       "id": 192,
@@ -1764,7 +1402,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/192.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://sonando.us.digitalproserver.com/nuevotiempo"
+          "urlStream": "https://stream.zeno.fm/xnk291h7e8zuv"
       }
   }, {
       "id": 193,
@@ -1775,7 +1413,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/193.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://s6.jcwebnew.com:7900/stream"
+          "urlStream": "https://audio5.tustreaming.cl/7050/stream"
       }
   }, {
       "id": 194,
@@ -1819,18 +1457,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/197.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://104.131.43.160:7208/;"
-      }
-  }, {
-      "id": 198,
-      "favorite": false,
-      "url": "https://www.radioreloncavi.com/",
-      "name": "Radio Reloncaví",
-      "location": "Puerto Montt",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/198.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://167.114.208.100:9988/;"
+          "urlStream": "https://radioparati.sintarifa.cl:8000/stream.aac"
       }
   }, {
       "id": 199,
@@ -1841,7 +1468,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/199.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://198.50.154.235:9302/;?_=0.6959502016717296"
+          "urlStream": "https://sp1.streamingssl.com/8058/stream"
       }
   }, {
       "id": 200,
@@ -1863,51 +1490,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/201.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://radio.udec.cl:8000/radioudec"
-      }
-  }, {
-      "id": 202,
-      "favorite": false,
-      "url": "http://radiooneup.blogspot.cl/",
-      "name": "Radio ONEUP",
-      "location": "Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/202.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://184.107.165.66:9960/;"
-      }
-  }, {
-      "id": 203,
-      "favorite": false,
-      "url": "http://molecula.cl/",
-      "name": "Molécula",
-      "location": "Santiago",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/203.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://radio1.us.mediastre.am/molecula.aac"
-      }
-  }, {
-      "id": 204,
-      "favorite": false,
-      "url": "http://www.radioestacion1.cl/",
-      "name": "Radio Estación1",
-      "location": "Curicó",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/204.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://s4.medionline.cl:8068/;stream.nsv"
-      }
-  }, {
-      "id": 205,
-      "favorite": false,
-      "url": "http://radioenriquetorres.blogspot.cl/",
-      "name": "Radio Popular Enrique Torres",
-      "location": "Santiago",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/205.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://167.114.208.100:9976/;"
+          "urlStream": "https://audio.divalstream.com:7019/stream"
       }
   }, {
       "id": 206,
@@ -1921,17 +1504,6 @@
           "urlStream": "http://stream5.eltelon.com:8000/nahuelbuta.aac"
       }
   }, {
-      "id": 207,
-      "favorite": false,
-      "url": "http://www.radioextrema.cl/",
-      "name": "Radio Extrema FM",
-      "location": "Puerto Saavedra",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/207.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/radio-extrema.aac"
-      }
-  }, {
       "id": 208,
       "favorite": false,
       "url": "http://www.preludioradio.cl/",
@@ -1940,7 +1512,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/208.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://144.217.189.5:9302/;?1523713838779"
+          "urlStream": "https://sonic.mallocohosting.cl/8002/;"
       }
   }, {
       "id": 209,
@@ -1951,7 +1523,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/209.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://s4.medionline.cl:8097/;stream.nsv"
+          "urlStream": "https://sonicpanel.mediostream.cl/8106/stream"
       }
   }, {
       "id": 210,
@@ -1962,29 +1534,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/210.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://192.99.18.164:9392/;"
-      }
-  }, {
-      "id": 211,
-      "favorite": false,
-      "url": "http://www.region16.cl/",
-      "name": "Radio Región 16®",
-      "location": "Ñuñoa",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/211.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://radio1.us.mediastre.am/region16.aac"
-      }
-  }, {
-      "id": 213,
-      "favorite": false,
-      "url": "http://www.radiofantastica.cl/",
-      "name": "Radio Fantástica Curicó",
-      "location": "Curicó",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/213.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://173.233.72.82:9352/;"
+          "urlStream": "https://sonic.portalfoxmix.club/8396/stream"
       }
   }, {
       "id": 214,
@@ -1995,7 +1545,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/214.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://46.166.162.26:8025/stream"
+          "urlStream": "http://185.105.4.100/proxy/radioinv?mp=/stream"
       }
   }, {
       "id": 215,
@@ -2017,7 +1567,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/216.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://amanda.cmtelcom.com/amanda128"
+          "urlStream": "https://server1.streamingradio.online/proxy/amanda1/stream"
       }
   }, {
       "id": 217,
@@ -2050,18 +1600,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/219.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/archi-renacer.aac"
-      }
-  }, {
-      "id": 220,
-      "favorite": false,
-      "url": "http://radioimagen.cl/",
-      "name": "Radio Imagen",
-      "location": "Puente Alto",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/220.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://192.99.18.164:9696/;stream/1"
+          "urlStream": "https://streamingsonicpro.com/8008/;"
       }
   }, {
       "id": 221,
@@ -2072,7 +1611,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/221.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://186.103.174.171:8000/live.mp3?1504063962387"
+          "urlStream": "http://190.151.99.133:8000/live.mp3?1653454415294"
       }
   }, {
       "id": 222,
@@ -2083,7 +1622,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/222.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://radio.bvconline.com.ar:8004/;"
+          "urlStream": "http://audio.crearchile.info:9302/stream?type=http&nocache=4200"
       }
   }, {
       "id": 223,
@@ -2116,7 +1655,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/225.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://5.9.65.6:9996/;"
+          "urlStream": "https://archi-us.digitalproserver.com/santa-cruz-fm.aac"
       }
   }, {
       "id": 226,
@@ -2130,17 +1669,6 @@
           "urlStream": "http://centova.audiostreaming.cl:8025/stream"
       }
   }, {
-      "id": 228,
-      "favorite": false,
-      "url": "http://www.subversiva.fm/",
-      "name": "Subversiva.fm",
-      "location": "Quilpue",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/228.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://albireo.shoutca.st:9334/stream"
-      }
-  }, {
       "id": 229,
       "favorite": false,
       "url": "http://www.radioancoa.cl/",
@@ -2149,29 +1677,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/229.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://s6.jcwebnew.com:7560/stream"
-      }
-  }, {
-      "id": 230,
-      "favorite": false,
-      "url": "http://atractivafm.blogspot.cl/",
-      "name": "Atractiva FM",
-      "location": "Los Lagos",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/230.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/atractiva-fm.aac"
-      }
-  }, {
-      "id": 231,
-      "favorite": false,
-      "url": "https://www.facebook.com/radiomia100.7/",
-      "name": "Radio Mia FM 100.7",
-      "location": "Rio Negro, Prov. Osorno",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/231.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/ayer-fm.aac"
+          "urlStream": "https://v2.tustreaming.cl/radioancoa/index.m3u8"
       }
   }, {
       "id": 232,
@@ -2182,7 +1688,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/232.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/mia.aac"
+          "urlStream": "https://archi-us.digitalproserver.com/mia.aac"
       }
   }, {
       "id": 233,
@@ -2193,7 +1699,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/233.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://69.175.20.242:8160/movil"
+          "urlStream": "https://sonicpanel.mediostream.cl/8046/stream"
       }
   }, {
       "id": 234,
@@ -2204,7 +1710,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/234.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://107.155.120.114:9924/;?1506108503597"
+          "urlStream": "http://66.165.231.118:9924/;stream.mp3?1653454449385"
       }
   }, {
       "id": 235,
@@ -2226,7 +1732,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/236.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://206.190.136.140:7355/;stream/1"
+          "urlStream": "https://s2.radio.co/s9ecef4f68/listen"
       }
   }, {
       "id": 237,
@@ -2237,7 +1743,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/237.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://sonando.us.digitalproserver.com/canal95_aac"
+          "urlStream": "https://streaming.conectaapp.cl/canal95"
       }
   }, {
       "id": 238,
@@ -2248,18 +1754,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/238.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://5.9.65.9:8174/;"
-      }
-  }, {
-      "id": 239,
-      "favorite": false,
-      "url": "http://www.radioserrano.cl/",
-      "name": "Radio Ignacio Serrano",
-      "location": "Melipilla, Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/239.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://192.99.150.234:9958/;"
+          "urlStream": "https://radiostreaming.cloudserverlatam.com/8058/stream"
       }
   }, {
       "id": 240,
@@ -2270,7 +1765,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/240.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://192.99.150.234:9752/;"
+          "urlStream": "https://sonic.portalfoxmix.club/8244/stream/"
       }
   }, {
       "id": 241,
@@ -2281,7 +1776,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/241.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream.masfm.cl:7412/;"
+          "urlStream": "http://live.masfm.cl:7412/stream?icy=http"
       }
   }, {
       "id": 242,
@@ -2303,18 +1798,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/243.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://09.stmip.in:9716/stream.mp3"
-      }
-  }, {
-      "id": 244,
-      "favorite": false,
-      "url": "http://www.radioalfa.cl/",
-      "name": "Radio Alfa",
-      "location": "Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/244.png",
-      "play": {
-          "contentType": "audio/aacp",
-          "urlStream": "http://5.9.65.6:9932/;"
+          "urlStream": "http://stream.zeno.fm/y6sk0hgtu5quv"
       }
   }, {
       "id": 245,
@@ -2325,7 +1809,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/245.png",
       "play": {
           "contentType": "audio/aacp",
-          "urlStream": "http://192.99.150.52:9340/;stream/1"
+          "urlStream": "http://radiolatina.live/9340/stream"
       }
   }, {
       "id": 246,
@@ -2336,7 +1820,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/246.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://server1.literal.cl:8000/quebuena1.aac?hash=1523714722177.mp3"
+          "urlStream": "https://cast01.matisanh.cl/icecast/radio.quebuena"
       }
   }, {
       "id": 247,
@@ -2369,7 +1853,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/248.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com:8000/buena-nueva-chanco.aac"
+          "urlStream": "http://archi-us.digitalproserver.com/buenanueva_chanco.aac"
       }
   }, {
       "id": 250,
@@ -2380,29 +1864,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/248.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com:8000/el-nevado-longavi.aac"
-      }
-  }, {
-      "id": 251,
-      "favorite": false,
-      "url": "http://radioleufu.cl/",
-      "name": "Radio Leufu",
-      "location": "Concepción, Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/251.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://190.3.169.87:9344/;stream.mp3"
-      }
-  }, {
-      "id": 252,
-      "favorite": false,
-      "url": "http://www.todosjuntosradio.cl/",
-      "name": "Todos Juntos Radio",
-      "location": "Santiago, Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/252.png",
-      "play": {
-          "contentType": "audio/aacp",
-          "urlStream": "http://190.107.177.116:8000/;"
+          "urlStream": "http://archi-us.digitalproserver.com/buenanueva_longavi.aac"
       }
   }, {
       "id": 253,
@@ -2413,18 +1875,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/253.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://158.170.20.250:8000/usach1"
-      }
-  }, {
-      "id": 254,
-      "favorite": false,
-      "url": "http://www.radiousach.cl/",
-      "name": "Escena Viva",
-      "location": "Santiago, Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/254.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://158.170.20.252:8000/usach2"
+          "urlStream": "https://rusach.janus.cl/playlist/stream.m3u8"
       }
   }, {
       "id": 255,
@@ -2457,7 +1908,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/257.png",
       "play": {
           "contentType": "audio/aacp",
-          "urlStream": "http://63.247.65.202:10286/;"
+          "urlStream": "http://144.217.197.70:8094/stream;"
       }
   }, {
       "id": 258,
@@ -2468,7 +1919,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/258.png",
       "play": {
           "contentType": "audio/aacp",
-          "urlStream": "http://192.198.83.230:9304/;"
+          "urlStream": "https://audio.streaminghd.cl:2020/stream/RadioValentinLetelier"
       }
   }, {
       "id": 259,
@@ -2501,18 +1952,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/261.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://sscl.denialstream.com:8004/stream2"
-      }
-  }, {
-      "id": 262,
-      "favorite": false,
-      "url": "http://www.carabineros.cl",
-      "name": "Radio Carabineros de Chile",
-      "location": "Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/262.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://5.9.65.6:9978/;"
+          "urlStream": "https://ascl.denial.cl:8014/stream"
       }
   }, {
       "id": 263,
@@ -2534,29 +1974,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/264.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://s3.medionline.cl:7004/;"
-      }
-  }, {
-      "id": 265,
-      "favorite": false,
-      "url": "http://www.google.cl/",
-      "name": "Radio Estación 24/7",
-      "location": "Osorno, Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/265.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "http://167.114.119.122:9984/;"
-      }
-  }, {
-      "id": 266,
-      "favorite": false,
-      "url": "http://fresiafm.cl/",
-      "name": "Radio Fresia FM",
-      "location": "Fresia, Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/266.png",
-      "play": {
-          "contentType": "audio/aacp",
-          "urlStream": "http://s3.mediostream.cl:9390/;"
+          "urlStream": "https://tunein.radiomaniacos.cl/musicnet.aac"
       }
   }, {
       "id": 267,
@@ -2567,7 +1985,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/267.png",
       "play": {
           "contentType": "audio/aacp",
-          "urlStream": "http://livehd.cdn.felpysolutions.us/proxy/sc_coltaucofm?mp=/;"
+          "urlStream": "https://servers58.com/proxy/sc_coltaucofm?mp=/stream"
       }
   }, {
       "id": 268,
@@ -2578,18 +1996,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/268.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://s6.jcwebnew.com:7280/stream"
-      }
-  }, {
-      "id": 269,
-      "favorite": false,
-      "url": "http://www.radiocarrera.com/",
-      "name": "Radio Carrera",
-      "location": "Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/269.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://186.103.213.249:9306/;"
+          "urlStream": "https://audio1.tustreaming.cl:10973/stream"
       }
   }, {
       "id": 270,
@@ -2600,7 +2007,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/270.png",
       "play": {
           "contentType": "audio/aacp",
-          "urlStream": "http://pauta-shoutcast.avz.cl:8002/;"
+          "urlStream": "https://redirector.dps.live/radiopauta/aac/icecast.audio"
       }
   }, {
       "id": 271,
@@ -2655,7 +2062,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/271.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://mimix.mercurio.cl:8000/positivafm"
+          "urlStream": "https://redirector.dps.live/positiva/aac/icecast.audio"
       }
   }, {
       "id": 276,
@@ -2688,7 +2095,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/271.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://mimix.mercurio.cl:8000/castro"
+          "urlStream": "http://radio.digitalfm.cl:8000/castro"
       }
   }, {
       "id": 279,
@@ -2699,7 +2106,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/279.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://200.24.229.253:8290/;"
+          "urlStream": "https://audio4.tustreaming.cl/8130/stream"
       }
   }, {
       "id": 280,
@@ -2710,7 +2117,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/280.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://cdn.akausa240.usastreams.com:9312/;"
+          "urlStream": "https://audio5.tustreaming.cl/8160/stream"
       }
   }, {
       "id": 281,
@@ -2721,7 +2128,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/281.png",
       "play": {
           "contentType": "audio/aacp",
-          "urlStream": "http://s3.mediostream.cl:9356/;"
+          "urlStream": "https://sonicpanel.mediostream.cl:7064/stream/50/;"
       }
   }, {
       "id": 282,
@@ -2735,28 +2142,6 @@
           "urlStream": "http://192.99.18.164:9998/;"
       }
   }, {
-      "id": 283,
-      "favorite": false,
-      "url": "http://radiovuelo.myl2mr.com/",
-      "name": "Radio Vuelo",
-      "location": "Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/283.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://5.133.182.164/stream.mp3?ipport=5.133.182.164_17289"
-      }
-  }, {
-      "id": 284,
-      "favorite": false,
-      "url": "http://www.dinamoonline.net/",
-      "name": "Radio Dinamo Online",
-      "location": "Chile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/284.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://167.114.208.100:9900/;"
-      }
-  }, {
       "id": 285,
       "favorite": false,
       "url": "http://www.radionuevomundodeovalle.cl/",
@@ -2766,7 +2151,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/285.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://104.236.248.181:7960/;"
+          "urlStream": "http://192.99.16.17:8102/;"
       }
   }, {
       "id": 286,
@@ -2778,7 +2163,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/286.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://stream5.eltelon.com/futura.aac"
+          "urlStream": "https://streaming.conectaapp.cl/futura.fm"
       }
   }, {
       "id": 287,
@@ -2790,7 +2175,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/287.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://audio2.tustreaming.cl:8050/zona4fm"
+          "urlStream": "https://audio4.tustreaming.cl/7520/zona4fm"
       }
   }, {
       "id": 288,
@@ -2802,7 +2187,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/288.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://164.77.84.69:8000/punto9"
+          "urlStream": "http://radioserver.ddns.net:8000/punto9?ver=514363"
       }
   }, {
       "id": 42,
@@ -2958,7 +2343,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/301.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://espora.org:8000/radiokurruf?_=1"
+          "urlStream": "https://radio.latina.red/radiokurruf.mp3?_=1"
       }
   }, {
       "id": 302,
@@ -2970,7 +2355,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/302.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://server2.mundonline.cl:9314/;?_=0.8037924138666719"
+          "urlStream": "http://audio.crearchile.info:9958/;"
       }
   }, {
       "id": 303,
@@ -2995,18 +2380,6 @@
       "play": {
           "contentType": "audio/mpeg",
           "urlStream": "https://bbnspanish-lh.akamaihd.net/i/BibleBroadcasting_Spanishios@87757/master.m3u8"
-      }
-  }, {
-      "id": 305,
-      "favorite": false,
-      "url": "http://radiodelvino.cl/",
-      "name": "Radio Del Vino",
-      "location": "Colchagua, Chile",
-      "twitter": "RadioVIChile",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/305.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://190.13.188.102:9308/;"
       }
   }, {
       "id": 306,
@@ -3042,19 +2415,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/308.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "http://14123.live.streamtheworld.com/SAM01AAC70_SC"
-      }
-  }, {
-      "id": 309,
-      "favorite": false,
-      "url": "http://radiodelorean.blogspot.com/",
-      "name": "Radio Delorean",
-      "location": "Santiago, Chile",
-      "twitter": "Radio_delorean",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/309.png",
-      "play": {
-          "contentType": "audio/mpeg",
-          "urlStream": "http://5.9.65.6:9968/;"
+          "urlStream": "https://samcloud.spacial.com/api/listen?sid=76815"
       }
   }, {
       "id": 310,
@@ -3066,19 +2427,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/310.png",
       "play": {
           "contentType": "audio/aacp",
-          "urlStream": "http://163.172.209.91:7071/;"
-      }
-  }, {
-      "id": 311,
-      "favorite": false,
-      "url": "http://www.escuchalaradio.cl/",
-      "name": "EsuchalaRadioCl",
-      "location": "Patagonia, Chile",
-      "twitter": "escucha_laradio",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/311.png",
-      "play": {
-          "contentType": "audio/aacp",
-          "urlStream": "http://87.117.208.118:20237/;"
+          "urlStream": "https://audio.streaminghd.cl:9036/stream"
       }
   }, {
       "id": 312,
@@ -3090,7 +2439,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/312.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://sonando.us.digitalproserver.com/fmplus_aac"
+          "urlStream": "https://streaming.conectaapp.cl/fmplus"
       }
   }, {
       "id": 313,
@@ -3102,31 +2451,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/313.png",
       "play": {
           "contentType": "audio/mpeg",
-          "urlStream": "http://sonando.us.digitalproserver.com/creativa"
-      }
-  }, {
-      "id": 314,
-      "favorite": false,
-      "url": "http://radioelsoldelaflorida.cl/",
-      "name": "Radio el Sol de la Florida",
-      "location": "La Florida, Chile",
-      "twitter": "soldelaflorida",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/314.png",
-      "play": {
-          "contentType": "audio/aacp",
-          "urlStream": "http://198.15.77.50:9160/;"
-      }
-  }, {
-      "id": 315,
-      "favorite": false,
-      "url": "http://radionina.cl/",
-      "name": "Radio Nina FM",
-      "location": "Chile",
-      "twitter": "",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/315.png",
-      "play": {
-          "contentType": "audio/aacp",
-          "urlStream": "http://142.44.179.127:9306/;"
+          "urlStream": "https://audio0.tustreaming.cl/7280/stream"
       }
   }, {
       "id": 316,
@@ -3201,18 +2526,6 @@
         "urlStream": "https://stream20.usastreams.com/8148/stream"
     }
   }, {
-    "id": 322,
-    "favorite": false,
-    "url": "http://www.mazcl.tk/",
-    "name": "Radio Maz",
-    "location": "Santiago, Chile",
-    "twitter": "maztvcl",
-    "icon": "https://www.victorsanmartin.com/api/radios/images/322.png",
-    "play": {
-        "contentType": "audio/aacp",
-        "urlStream": "http://109.169.23.17:8068/;"
-    }
-  }, {
     "id": 323,
     "favorite": false,
     "url": "https://www.interradio1.net/",
@@ -3277,7 +2590,7 @@
     "icon": "https://www.victorsanmartin.com/api/radios/images/327.png",
     "play": {
         "contentType": "audio/mpeg",
-        "urlStream": "http://stream.zeno.fm/57kv56x32yzuv.mp3"
+        "urlStream": "https://sonic.portalfoxmix.club:7157/;"
     }
   }, {
     "id": 328,
@@ -3292,18 +2605,6 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://sonic.portalfoxmix.cl/9818/stream"
-    }
-  }, {
-    "id": 331,
-    "favorite": false,
-    "url": "http://www.radioplazadeladignidad.cl",
-    "name": "Radio Plaza de la Dignidad",
-    "location": "Chile",
-    "facebook": "radioplazadeladignidadoficial",
-    "icon": "https://www.victorsanmartin.com/api/radios/images/331.png",
-    "play": {
-        "contentType": "audio/aac",
-        "urlStream": "http://92.222.122.116:8106/stream"
     }
   }, {
     "id": 332,
@@ -3359,7 +2660,7 @@
     "icon": "https://www.victorsanmartin.com/api/radios/images/335.png",
     "play": {
         "contentType": "audio/aac",
-        "urlStream": "http://5.9.65.9:8099/stream"
+        "urlStream": "http://5.9.65.9:8037/stream"
     }
   }, {
     "id": 336,
@@ -3452,20 +2753,6 @@
         "urlStream": "https://sonic.portalfoxmix.club/8004/stream"
     }
   }, {
-    "id": 343,
-    "favorite": false,
-    "url": "http://rsmc90.sytes.net/",
-    "name": "Radio Poderosa",
-    "location": "Copiapó, Chile",
-    "twitter": "RadioRSMC90s",
-    "instagram": "RadioRSMC90s",
-    "facebook": "RSMC90s",
-    "icon": "https://www.victorsanmartin.com/api/radios/images/343.png",
-    "play": {
-        "contentType": "audio/aacp",
-        "urlStream": "http://rsmc90.sytes.net:8000/live"
-    }
-  }, {
     "id": 344,
     "favorite": false,
     "url": "https://riosdevidabendicion.webnode.cl/",
@@ -3476,19 +2763,6 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://streamprivate.live/8078/;"
-    }
-  }, {
-    "id": 355,
-    "favorite": false,
-    "url": "http://www.djserviceiquique.cl/",
-    "name": "Dj Service Iquique",
-    "location": "Iquique, Chile",
-    "facebook": "djserviceiquique",
-    "instagram": "djserviceiquique",
-    "icon": "https://www.victorsanmartin.com/api/radios/images/355.png",
-    "play": {
-        "contentType": "audio/mpeg",
-        "urlStream": "https://streamingsonicpro.com:7121/stream"
     }
   }, {
     "id": 356,
