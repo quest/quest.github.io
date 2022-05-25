@@ -1,5 +1,5 @@
 {
-  "version": 160,
+  "version": 161,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3513,6 +3513,19 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://audio1.tustreaming.cl:10953/azucarsantiago"
+    }
+  }, {
+    "id": 361,
+    "favorite": false,
+    "url": "https://radiodivina.cl/",
+    "name": "Radio Divina",
+    "location": "Santiago, Chile",
+    "facebook": "",
+    "instagram": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/361.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://cp.sonicpanel.stream:8006/;stream.mp3"
     }
   }]
 }
