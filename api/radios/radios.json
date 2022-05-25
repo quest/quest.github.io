@@ -1,5 +1,5 @@
 {
-  "version": 164,
+  "version": 165,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2827,6 +2827,18 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://sonicpanel.mediostream.cl/8116/stream"
+    }
+  }, {
+    "id": 364,
+    "favorite": false,
+    "url": "https://www.radiolimari.cl/",
+    "name": "Radio Limari",
+    "location": "Ovalle, Chile",
+    "twitter": "radiolimari",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/364.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonicpanel.mediostream.cl/8046/stream"
     }
   }]
 }
