@@ -1248,7 +1248,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/140.png",
       "play": {
           "contentType": "audio/aac",
-          "urlStream": "https://19003.live.streamtheworld.com/SP_R2691747_SC"
+          "urlStream": "http://audio.rdiplus.cl:8000/live"
       }
   }, {
       "id": 141,
@@ -3385,7 +3385,7 @@
     "icon": "https://www.victorsanmartin.com/api/radios/images/337.png",
     "play": {
         "contentType": "audio/aac",
-        "urlStream": "https://streamprivate.live:10934/RRN2021"
+        "urlStream": "http://198.50.159.128:8154/stream"
     }
   }, {
     "id": 338,
@@ -3475,7 +3475,7 @@
     "icon": "https://www.victorsanmartin.com/api/radios/images/344.png",
     "play": {
         "contentType": "audio/mpeg",
-        "urlStream": "https://streamprivate.live/8078/stream"
+        "urlStream": "https://streamprivate.live/8078/;"
     }
   }, {
     "id": 355,
@@ -3488,7 +3488,7 @@
     "icon": "https://www.victorsanmartin.com/api/radios/images/355.png",
     "play": {
         "contentType": "audio/mpeg",
-        "urlStream": "https://tvstreaming.cl/8014/stream"
+        "urlStream": "https://streamingsonicpro.com:7121/stream"
     }
   }, {
     "id": 356,
