@@ -1,5 +1,5 @@
 {
-  "version": 165,
+  "version": 166,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2839,6 +2839,18 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://sonicpanel.mediostream.cl/8046/stream"
+    }
+  }, {
+    "id": 365,
+    "favorite": false,
+    "url": "https://metropolisfm.cl/",
+    "name": "Metropolis FM",
+    "location": "Chile",
+    "twitter": "@metropolisfm1",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/365.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://radio.tvstream.cl/8002/stream"
     }
   }]
 }
