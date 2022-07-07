@@ -1,5 +1,5 @@
 {
-  "version": 166,
+  "version": 167,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1903,12 +1903,12 @@
       "id": 257,
       "favorite": false,
       "url": "http://www.retroclasicos.cl/",
-      "name": "Retroclasicos® Radio",
+      "name": "Retroclasicos Radio",
       "location": "Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/257.png",
       "play": {
           "contentType": "audio/aacp",
-          "urlStream": "http://144.217.197.70:8094/stream;"
+          "urlStream": "https://radio.trixserver.com:18094/stream"
       }
   }, {
       "id": 258,
