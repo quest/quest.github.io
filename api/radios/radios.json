@@ -1,5 +1,5 @@
 {
-  "version": 168,
+  "version": 169,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2861,7 +2861,7 @@
     "twitter": "@RadioDetv",
     "facebook": "RadioDetv-Fmchile-cabrero-107548845216116",
     "instagram": "radiodetv_fmchile",
-    "icon": "https://www.victorsanmartin.com/api/radios/images/366.jpg",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/366.jpeg",
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://node-06.zeno.fm/f38q0mukr18uv?zs=XXdJth06TiGtgZOUAbFN3g&rj-tok=AAABgnbXhkYAx23gxZzOVdUARA&rj-ttl=5"
