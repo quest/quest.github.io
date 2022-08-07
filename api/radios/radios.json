@@ -1,5 +1,5 @@
 {
-  "version": 170,
+  "version": 171,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1882,11 +1882,12 @@
       "favorite": false,
       "url": "http://pajaritosfm.cl",
       "name": "Pajaritos FM",
+      "twitter": "pajaritosfm",
       "location": "Maipú, Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/255.png",
       "play": {
           "contentType": "audio/aacp",
-          "urlStream": "http://149.56.175.167:5100/;"
+          "urlStream": "http://streaming.comunicacioneschile.net:8006/stream"
       }
   }, {
       "id": 256,
