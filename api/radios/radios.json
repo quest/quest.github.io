@@ -1,5 +1,5 @@
 {
-  "version": 171,
+  "version": 172,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2893,6 +2893,45 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://sonic.streamingchilenos.com/8040/stream"
+    }
+  }, {
+    "id": 369,
+    "favorite": false,
+    "url": "https://www.radiocaramelo.cl/",
+    "name": "Radio Caramelo",
+    "location": "Angol, Chile",
+    "facebook": "radiocaramelo.cl",
+    "twitter": "carameloredarau",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/369.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://archi-us.digitalproserver.com/caramelo-fm-angol.aac"
+    }
+  }, {
+    "id": 370,
+    "favorite": false,
+    "url": "https://www.caramelofm.cl/",
+    "name": "Radio Caramelo San Vicente",
+    "location": "San Vicente, Chile",
+    "facebook": "radiocaramelo104.5",
+    "twitter": "Caramelo1045",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/370.jpeg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://audio3.tustreaming.cl:10964/caramelosvicente"
+    }
+  }, {
+    "id": 371,
+    "favorite": false,
+    "url": "https://radiosupersol.com/",
+    "name": "Radio Super Sol",
+    "location": "Osorno, Chile",
+    "facebook": "RadioSupersolfm",
+    "twitter": "Radio_SuperSol",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/371.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonic.portalfoxmix.club/8024/stream"
     }
   }]
 }
