@@ -1,5 +1,5 @@
 {
-  "version": 167,
+  "version": 168,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2851,6 +2851,20 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://radio.tvstream.cl/8002/stream"
+    }
+  }, {
+    "id": 366,
+    "favorite": false,
+    "url": "https://radiodetv-fmchile.jimdosite.com/",
+    "name": "RadioDetv Fmchile",
+    "location": "Cabreros, Chile",
+    "twitter": "@RadioDetv",
+    "facebook": "RadioDetv-Fmchile-cabrero-107548845216116",
+    "instagram": "radiodetv_fmchile",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/366.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://node-06.zeno.fm/f38q0mukr18uv?zs=XXdJth06TiGtgZOUAbFN3g&rj-tok=AAABgnbXhkYAx23gxZzOVdUARA&rj-ttl=5"
     }
   }]
 }
