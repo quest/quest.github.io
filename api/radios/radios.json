@@ -1,5 +1,5 @@
 {
-  "version": 169,
+  "version": 170,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2858,13 +2858,40 @@
     "url": "https://radiodetv-fmchile.jimdosite.com/",
     "name": "RadioDetv Fmchile",
     "location": "Cabreros, Chile",
-    "twitter": "@RadioDetv",
+    "twitter": "RadioDetv",
     "facebook": "RadioDetv-Fmchile-cabrero-107548845216116",
     "instagram": "radiodetv_fmchile",
     "icon": "https://www.victorsanmartin.com/api/radios/images/366.jpeg",
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://node-06.zeno.fm/f38q0mukr18uv?zs=XXdJth06TiGtgZOUAbFN3g&rj-tok=AAABgnbXhkYAx23gxZzOVdUARA&rj-ttl=5"
+    }
+  }, {
+    "id": 367,
+    "favorite": false,
+    "url": "https://radioprimaveraonline.cl/",
+    "name": "Radio Primavera",
+    "location": "San Antonio, Chile",
+    "twitter": "rprimaveraon",
+    "facebook": "primaveraonline",
+    "instagram": "radioprimavera",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/367.jpeg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://server2.ejeserver.com:8714/stream"
+    }
+  }, {
+    "id": 368,
+    "favorite": false,
+    "url": "http://radiotropihits.cl/",
+    "name": "Radio TropiHits",
+    "location": "Concepción, Chile",
+    "facebook": "tropihits.cl",
+    "instagram": "tropihits.cl",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/368.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonic.streamingchilenos.com/8040/stream"
     }
   }]
 }
