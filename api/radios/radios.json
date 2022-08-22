@@ -1909,7 +1909,7 @@
       "icon": "https://www.victorsanmartin.com/api/radios/images/257.png",
       "play": {
           "contentType": "audio/aacp",
-          "urlStream": "https://radio.trixserver.com:18094/stream"
+          "urlStream": "https://radio.trixserver.com:18094/stream;"
       }
   }, {
       "id": 258,
