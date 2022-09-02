@@ -1,5 +1,5 @@
 {
-  "version": 172,
+  "version": 173,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2605,7 +2605,7 @@
     "icon": "https://www.victorsanmartin.com/api/radios/images/328.png",
     "play": {
         "contentType": "audio/mpeg",
-        "urlStream": "https://sonic.portalfoxmix.cl/9818/stream"
+        "urlStream": "https://sonic.streamingchilenos.com/8138/stream"
     }
   }, {
     "id": 332,
