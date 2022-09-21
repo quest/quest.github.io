@@ -2828,7 +2828,7 @@
     "icon": "https://www.victorsanmartin.com/api/radios/images/364.png",
     "play": {
         "contentType": "audio/mpeg",
-        "urlStream": "https://sonicpanel.mediostream.cl/8046/stream"
+        "urlStream": "https://sonic.streamingchilenos.com/8024/stream"
     }
   }, {
     "id": 365,
