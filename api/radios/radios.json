@@ -1,5 +1,5 @@
 {
-  "version": 177,
+  "version": 179,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2989,6 +2989,32 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://stream.zeno.fm/epgvaraes0hvv"
+    }
+  }, {
+    "id": 377,
+    "favorite": false,
+    "url": "https://djsenaccion.club",
+    "name": "Djs en Accion Club",
+    "description": "COMUNIDAD INTERNACIONAL DE EMISORAS INDEPENDIENTES CON LOS MEJORES DJS TOCANDO EN VIVO!!",
+    "location": "Chile",
+    "facebook": "djsenacciononline",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/377.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stream.zeno.fm/ywepmw12v0hvv"
+    }
+  }, {
+    "id": 378,
+    "favorite": false,
+    "url": "https://onlineradiobox.com/cl/nacionalchil/?cs=cl.nacionalchil",
+    "name": "Radio Remid FM Chile",
+    "description": "Nueva radio de la comuna cabrero región del Biobío",
+    "location": "Cabrero, Chile",
+    "twitter": "Radioremidfm",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/378.jpeg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stream.zeno.fm/shcsx95cn9ktv"
     }
   }]
 }
