@@ -1,5 +1,5 @@
 {
-  "version": 176,
+  "version": 177,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2961,6 +2961,34 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://endirecto.radioareabpm.com/8018/stream"
+    }
+  }, {
+    "id": 375,
+    "favorite": false,
+    "url": "https://www.danceparty.cl/",
+    "name": "Danceparty Dj Streaming",
+    "description": "www.danceparty.cl Portal 100% Gratuito de Video Streaming. Se parte de nosotros no dudes en contactarnos",
+    "location": "Chile",
+    "facebook": "dancepartychile",
+    "instagram": "danceparty_chile",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/375.jpeg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stream.zeno.fm/x3h1pw5u498uv"
+    }
+  }, {
+    "id": 376,
+    "favorite": false,
+    "url": "http://sunsetradiochile.cl/",
+    "name": "Sunset Radio Chile",
+    "description": "Cuenta con djs de distintos países como Chile; Colombia; España; Ecuador y Uruguay tocando en vivo y además programación musical que te activa 24/7, con mix de gran variedad de estilos y principalmente orientada a la Electrónica y sus sub géneros.",
+    "location": "Chile",
+    "facebook": "Sunsetradiochile",
+    "instagram": "sunsetradiochileonline",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/376.jpeg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stream.zeno.fm/epgvaraes0hvv"
     }
   }]
 }
