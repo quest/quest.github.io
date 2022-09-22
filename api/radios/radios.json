@@ -1,5 +1,5 @@
 {
-  "version": 179,
+  "version": 180,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1482,16 +1482,19 @@
           "urlStream": "http://streaming.elpinguino.com:8069/pinguino.mp3"
       }
   }, {
-      "id": 201,
-      "favorite": false,
-      "url": "http://www.radioudec.cl/",
-      "name": "Radio U. de Concepción",
-      "location": "Concepción",
-      "icon": "https://www.victorsanmartin.com/api/radios/images/201.png",
-      "play": {
-          "contentType": "audio/aac",
-          "urlStream": "https://audio.divalstream.com:7019/stream"
-      }
+    "id": 201,
+    "url": "https://www.radioudec.cl/",
+    "name": "Radio Universidad de Concepción",
+    "description": "Cultura, actualidad, ciencia y muchos más junto a una gran selección de música clásica, artistas nacionales y el mejor rock de todos los tiempos en 95.1 FM",
+    "location": "Concepción, Chile",
+    "twitter": "radioudec",
+    "instagram": "radioudec",
+    "facebook": "RadioUdeC",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/201.jpeg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://audio.divalstream.com:7019/stream"
+    }
   }, {
       "id": 206,
       "favorite": false,
@@ -3015,6 +3018,50 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://stream.zeno.fm/shcsx95cn9ktv"
+    }
+  }, {
+    "id": 379,
+    "favorite": false,
+    "url": "https://radiovuelo.radio12345.com/",
+    "name": "Radio Vuelo",
+    "description": "Radio Vuelo nace un 24 de Junio del 2022 con una propuesta de música anglo de lo mejor de las últimas décadas.",
+    "location": "Chile",
+    "twitter": "RadioVueloChile",
+    "instagram": "radiovuelo",
+    "facebook": "RadioVuelo",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/379.jpeg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://us1freenew.listen2myradio.com/live.mp3?typeportmount=s1_29138_stream_46267028"
+    }
+  }, {
+    "id": 380,
+    "favorite": false,
+    "url": "https://www.radioua.cl/",
+    "name": "Radio Universidad de Antofagasta",
+    "description": "Somos la emisora universitaria de la región de #Antofagasta. El sonido, las voces y las informaciones de la @udeantofagasta. Sintonízanos en la frecuencia 99.9",
+    "location": "Antofagasta, Chile",
+    "twitter": "radiouantof",
+    "instagram": "radio.ua",
+    "facebook": "RadioUAntofagasta",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/380.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://us9.maindigitalstream.com/ssl/7422"
+    }
+  }, {
+    "id": 381,
+    "favorite": false,
+    "url": "https://clubdance.cl/",
+    "name": "CLUB DANCE CHILE",
+    "description": "Estilo original, con todas las tendencias de una epoca Rock, Dance, Anglo Pop, EuroDance, Latin Hous",
+    "location": "Chile",
+    "instagram": "clubdancechile",
+    "facebook": "ClubDanceChile",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/381.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonic-cl.streaming-chile.com/8036/stream"
     }
   }]
 }
