@@ -1,5 +1,5 @@
 {
-  "version": 175,
+  "version": 176,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -2933,6 +2933,34 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://estacion7radio.com:10997/stream/1/"
+    }
+  }, {
+    "id": 373,
+    "favorite": false,
+    "url": "https://www.studioradio.cl",
+    "name": "Studio Radio 94.7 Linares",
+    "description": "Es una radio FM chilena que entrega cobertura en toda la provincia de Linares. Su variada parilla musical esta hecha para acompañar y entretener.",
+    "location": "Linares, Chile",
+    "facebook": "studioradio94.7",
+    "instagram": "studioradio94.7",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/373.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stream.zeno.fm/fkn8ndkwty8uv"
+    }
+  }, {
+    "id": 374,
+    "favorite": false,
+    "url": "https://radioareabpm.com/",
+    "name": "Radio Area BPM",
+    "description": "Somos Radio BPM Emisora Online Dedicada a la Entretención e Informar 24 Hrs De Todos los Estilos Musicales,DJS en Vivo #djs #radiosonline",
+    "location": "Santiago, Chile",
+    "facebook": "100070018055765",
+    "instagram": "radio_area_bpm",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/374.jpeg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://endirecto.radioareabpm.com/8018/stream"
     }
   }]
 }
