@@ -1,5 +1,5 @@
 {
-  "version": 181,
+  "version": 182,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3079,6 +3079,20 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://video.mediawebchile.com:8102/stream"
+    }
+  }, {
+    "id": 383,
+    "favorite": false,
+    "url": "https://chicureoradio.cl/",
+    "name": "Radio Chicureo",
+    "description": "Chicureo Radio, Noticias Chicureo, Panoramas Chicureo Tendencia Música, Emisora Online Concepto de buen gusto musical Solo Clásicos",
+    "location": "Chicureo, Chile",
+    "facebook": "radiochicureo",
+    "twitter": "RadioChicureo",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/383.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stream.zeno.fm/4n938rrp7yzuv"
     }
   }]
 }
