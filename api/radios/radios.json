@@ -1,5 +1,5 @@
 {
-  "version": 180,
+  "version": 181,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3062,6 +3062,23 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://sonic-cl.streaming-chile.com/8036/stream"
+    }
+  }, {
+    "id": 382,
+    "favorite": false,
+    "url": "https://nunoaturadio.cl/",
+    "name": "Ñuñoa tu Radio",
+    "description": "Ñuñoa tu Radio: Comunicamos con y para la comunidad.",
+    "location": "Ñuñoa, Chile",
+    "instagram": "nunoaturadio",
+    "facebook": "Ñuñoa-tu-Radio-104096425612155",
+    "twitter": "NunoatuRadio",
+    "tiktok": "nunoaturadio",
+    "twitch": "nunoaturadio",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/382.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://video.mediawebchile.com:8102/stream"
     }
   }]
 }
