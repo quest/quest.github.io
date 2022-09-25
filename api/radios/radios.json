@@ -1,5 +1,5 @@
 {
-  "version": 183,
+  "version": 184,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3116,7 +3116,7 @@
     "facebook": "ofensivaradio",
     "instagram": "ofensivaradio",
     "twitter": "ofensiva_cl",
-    "icon": "https://www.victorsanmartin.com/api/radios/images/385.jpg",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/385.png",
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://stream.zeno.fm/p1am28k9038uv"
@@ -3147,6 +3147,62 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://player.livestation.stream/proxy/7056/stream/1/"
+    }
+  }, {
+    "id": 388,
+    "favorite": false,
+    "url": "http://mixar.cl/radio/",
+    "name": "Radio Mixar",
+    "description": "Radio Mixar - tocamos lo que alguna vez te hizo bailar",
+    "location": "Santiago, Chile",
+    "facebook": "radiomixar.cl",
+    "instagram": "mixar.cl",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/388.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonic.streamingchilenos.com:7046/stream?icy=http"
+    }
+  }, {
+    "id": 389,
+    "favorite": false,
+    "url": "https://lamaskaliente.com/",
+    "name": "Radio La Más kaliente",
+    "description": "Radio Latina en Santiago de Chile",
+    "location": "Santiago, Chile",
+    "instagram": "lamaskaliente",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/389.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://cloudstream2032.conectarhosting.com/8138/stream"
+    }
+  }, {
+    "id": 390,
+    "favorite": false,
+    "url": "https://ondachile.com/",
+    "name": "Radio Onda Chile",
+    "description": "Desde Calama Segunda Región para todo Chile y el Mundo con una parrilla programática variada para",
+    "location": "Calama, Chile",
+    "facebook": "100046664564649",
+    "tiktok": "ondachile",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/390.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://radio.tvstream.cl/8048/stream"
+    }
+  }, {
+    "id": 391,
+    "favorite": false,
+    "url": "https://ondaradio.cl",
+    "name": "Onda Radio Chile",
+    "description": "Onda Radio nació bajo el alero de generar un medio de comunicación diverso, entretenido, y una opción diferente en el dial online. Contamos con programación fresca, y con diferentes estilos musicales, que harán de tu vida un nuevo concepto de Radio por Internet.",
+    "location": "Santiago, Chile",
+    "facebook": "ondaradiocl",
+    "instagram": "ondaradiocl",
+    "twitter": "ondaradiocl",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/391.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonic-us.streaming-chile.com:7005/stream"
     }
   }]
 }
