@@ -1,5 +1,5 @@
 {
-  "version": 182,
+  "version": 183,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3093,6 +3093,60 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://stream.zeno.fm/4n938rrp7yzuv"
+    }
+  }, {
+    "id": 384,
+    "favorite": false,
+    "url": "https://radiofamilychile.wixsite.com/",
+    "name": "Radio Family 96.5 FM",
+    "description": "Radiofamily grupo dvccomunicaciones  nace con la necesidad de integrar a la familias de la comuna poder llegar mas cercana a los vecinos siendo de utilidad publica.",
+    "location": "Coronel, Chile",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/384.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stream.zeno.fm/7ga8ab3w968uv"
+    }
+  }, {
+    "id": 385,
+    "favorite": false,
+    "url": "https://radio.ofensiva.cl/",
+    "name": "Ofensiva Radio",
+    "description": "SERES VIVOS Y MAQUINAS CONFORMAN OFENSIVA. SOMOS UNA RADIO INDEPENDIENTE AL SUR DEL PLANETA. TRANSMITIMOS, ENTRETENEMOS E INFORMAMOS A NUESTROS VECINOS DEL MUNDO LO QUE SUCEDE A NUESTRO ALREDEDOR, MOTIVADOS POR LA MÚSICA Y EL DEPORTE LOCAL.",
+    "location": "Puerto Montt, Chile",
+    "facebook": "ofensivaradio",
+    "instagram": "ofensivaradio",
+    "twitter": "ofensiva_cl",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/385.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stream.zeno.fm/p1am28k9038uv"
+    }
+  }, {
+    "id": 386,
+    "favorite": false,
+    "url": "http://www.radioretroactiva.com/",
+    "name": "Radio Retroactiva Concepción",
+    "description": "Radio Retroactiva Concepción. Selección Musical 24/7 con los clásicos de los 80, 90s",
+    "location": "Concepción, Chile",
+    "facebook": "RetroactivaConce",
+    "instagram": "radioretroactiva",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/386.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonic.portalfoxmix.club/8168/stream"
+    }
+  }, {
+    "id": 387,
+    "favorite": false,
+    "url": "https://radiorenacervirtual.weebly.com/",
+    "name": "Radio Renacer Virtual",
+    "description": "Radio Renacer Virtual, donde la música tiene sentido.",
+    "location": "Coyhaique, Chile",
+    "facebook": "renacervirtual",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/387.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://player.livestation.stream/proxy/7056/stream/1/"
     }
   }]
 }
