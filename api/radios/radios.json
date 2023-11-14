@@ -1,5 +1,5 @@
 {
-  "version": 184,
+  "version": 186,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3061,7 +3061,7 @@
     "icon": "https://www.victorsanmartin.com/api/radios/images/381.png",
     "play": {
         "contentType": "audio/mpeg",
-        "urlStream": "https://sonic-cl.streaming-chile.com/8036/stream"
+        "urlStream": "https://stream.clubdance.cl"
     }
   }, {
     "id": 382,
