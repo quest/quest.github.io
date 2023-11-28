@@ -1,5 +1,5 @@
 {
-  "version": 186,
+  "version": 187,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -1874,12 +1874,14 @@
       "favorite": false,
       "url": "http://pajaritosfm.cl",
       "name": "Pajaritos FM",
-      "twitter": "pajaritosfm",
+      "twitter": "PajaritosFM",
+      "instagram": "pajaritosfm",
+      "facebook": "pajaritosfm",
       "location": "Maipú, Chile",
       "icon": "https://www.victorsanmartin.com/api/radios/images/255.png",
       "play": {
           "contentType": "audio/aacp",
-          "urlStream": "http://streaming.comunicacioneschile.net:8006/stream"
+          "urlStream": "https://srv6.sonicpanel.cl:7064/;"
       }
   }, {
       "id": 256,
@@ -3203,6 +3205,156 @@
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://sonic-us.streaming-chile.com:7005/stream"
+    }
+  }, {
+    "id": 392,
+    "favorite": false,
+    "url": "https://radiosonidostoxicos.blogspot.com/",
+    "name": "Radio Sonidos Toxicos ",
+    "description": "",
+    "location": "Chile",
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/392.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sp001.servidoresph.com/8042/;"
+    }
+  }, {
+    "id": 393,
+    "favorite": false,
+    "url": "https://www.radiorecuerdos.cl/",
+    "name": "Radio Recuerdos",
+    "description": "Radio Recuerdos nace para ofrecer a un público fiel a las canciones del ayer.",
+    "location": "Chile",
+    "facebook": "recuerdoscl",
+    "instagram": "radiorecuerods.cl",
+    "twitter": "radiorecchile",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/393.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonando-us.digitalproserver.com/radiorecuerdos.mp3"
+    }
+  }, {
+    "id": 394,
+    "favorite": false,
+    "url": "https://www.radio247.net/",
+    "name": "Radio 24/7",
+    "description": "Radio Recuerdos nace para ofrecer a un público fiel a las canciones del ayer.",
+    "location": "Antofagasta, Chile",
+    "facebook": "Radio.247.Chile",
+    "instagram": "",
+    "twitter": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/394.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://broadcast.radio247.net/listen/live/radio.mp3"
+    }
+  }, {
+    "id": 395,
+    "favorite": false,
+    "url": "https://www.retrocediendo.cl/",
+    "name": "Retrocediendo Radio",
+    "description": "Somos Retrocediendo Radio una señal online que transmite desde Tocopilla, Region de Antofagasta, Chile.",
+    "location": "Tocopilla, Chile",
+    "facebook": "RadioRetrocediendo",
+    "instagram": "retrocediendo32",
+    "twitter": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/395.jpeg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stm3.srvif.com:7064/stream"
+    }
+  }, {
+    "id": 396,
+    "favorite": false,
+    "url": "https://radiomilagrofrutillar.wordpress.com/",
+    "name": "Radio Miladro",
+    "description": "Con Radio milagro, tu viaje empieza aquí. Miles de contenidos que edifican que llenan tu alma de amor de gozo y paz donde de seguro Dios te sorprende con su espíritu santo , un viaje en adoración a Dios. acompáñanos se parte de FM milagro frutillar décima región de los lagos sur de Chile.",
+    "location": "Tocopilla, Chile",
+    "facebook": "radiomilagro107.5frutillar",
+    "instagram": "radiomilagros2",
+    "twitter": "radiomilagro83",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/396.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stream.zeno.fm/ayf43lkiibnuv"
+    }
+  }, {
+    "id": 397,
+    "favorite": false,
+    "url": "https://radioschile2030.wixsite.com/radiogroupchile/tropical",
+    "name": "Señal Tropical Chile",
+    "description": "Estación radial chilena, Música 24/7 Grandes éxitos del Grandes Éxitos tropicales chilenos y latinos",
+    "location": "Chile",
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/397.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stream.zeno.fm/mw9uhb6w9zhvv"
+    }
+  }, {
+    "id": 398,
+    "favorite": false,
+    "url": "https://radioschile2030.wixsite.com/radiogroupchile/soloparat",
+    "name": "Radio Solo Para Ti Chile",
+    "description": "Te invitamos a sintonizar nuestra emisora que te transportará a través de los recuerdos del ayer y las mejores canciones de hoy",
+    "location": "Chile",
+    "facebook": "radiosoloparatii",
+    "instagram": "radio.soloparati",
+    "twitter": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/398.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stream.zeno.fm/cfuz60ydyxhvv"
+    }
+  }, {
+    "id": 399,
+    "favorite": false,
+    "url": "https://radioschile2030.wixsite.com/radiogroupchile/se%C3%B1aldiscotheque",
+    "name": "Radio Discotheque Chile",
+    "description": "Disfruta de la mejor música bailable los 7 días de la semana con nuestra emisora. Te brindamos una experiencia inolvidable con los sets más impactantes de DJ locales e internacionales.",
+    "location": "Chile",
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/399.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://stream.zeno.fm/m9ky5y1t0nhvv"
+    }
+  }, {
+    "id": 400,
+    "favorite": false,
+    "url": "https://radioschile2030.wixsite.com/radiogroupchile/se%C3%B1aldance",
+    "name": "Señal Dance Chile",
+    "description": "En nuestra emisora online, nos especializamos en ofrecer a nuestros oyentes lo mejor de la música electrónica, dance y house de la escena nacional e internacional. ",
+    "location": "Chile",
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/400.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "http://stream.zeno.fm/12qqry2t0nhvv"
+    }
+  }, {
+    "id": 401,
+    "favorite": false,
+    "url": "https://radioschile2030.wixsite.com/radiogroupchile/se%C3%B1aldance",
+    "name": "Radio Urbana Chile",
+    "description": "Como emisora online, nos dedicamos a transmitir la mejor musica urbana del ayer y hoy. Nos enfocamos en los ritmos del reggaeton, dancehall, hiphop, entre otros generos nacionales e internacionales.",
+    "location": "Chile",
+    "facebook": "urbanachilefm",
+    "instagram": "radiourbanachile",
+    "twitter": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/401.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "http://stream.zeno.fm/y0uf615c27zuv"
     }
   }]
 }
