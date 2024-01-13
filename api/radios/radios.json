@@ -1,5 +1,5 @@
 {
-  "version": 187,
+  "version": 188,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3366,7 +3366,7 @@
     "instagram": "instagram",
     "twitter": "",
     "facebook": "",
-    "icon": "https://www.victorsanmartin.com/api/radios/images/401.jpg",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/401.png",
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://radiolatina.live/8112/;"
