@@ -3356,5 +3356,20 @@
         "contentType": "audio/mpeg",
         "urlStream": "http://stream.zeno.fm/y0uf615c27zuv"
     }
+  }, {
+    "id": 402,
+    "favorite": false,
+    "url": "http://www.radiotricolor.cl/",
+    "name": "Radio Tricolor",
+    "description": "Radio Tricolor, la estación radial de la música 100% chilena.",
+    "location": "Concepción, Chile",
+    "instagram": "instagram",
+    "twitter": "",
+    "facebook": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/401.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://radiolatina.live/8112/;"
+    }
   }]
 }
