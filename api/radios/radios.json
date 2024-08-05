@@ -1,5 +1,5 @@
 {
-  "version": 188,
+  "version": 189,
   "radios": [{
       "id": 1,
       "favorite": false,
@@ -3366,10 +3366,40 @@
     "instagram": "instagram",
     "twitter": "",
     "facebook": "",
-    "icon": "https://www.victorsanmartin.com/api/radios/images/401.png",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/402.png",
     "play": {
         "contentType": "audio/mpeg",
         "urlStream": "https://radiolatina.live/8112/;"
+    }
+  }, {
+    "id": 403,
+    "favorite": false,
+    "url": "https://radiosoloclasicos.cl/",
+    "name": "Radio Solo Clasicos",
+    "description": "Somos Tu compañía las 24 horas, aquí encontraras los éxitos de los años 70,80,90 y también lo mas actual.",
+    "location": "Santiago, Chile",
+    "instagram": "",
+    "twitter": "",
+    "facebook": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/403.jpg",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://sonic.portalfoxmix.club:7132/;"
+    }
+  }, {
+    "id": 404,
+    "favorite": false,
+    "url": "https://radioclub80dance.com/",
+    "name": "Radio Club 80 Señal Dance",
+    "description": "Somos Radio Club 80, Pasión por la música !!",
+    "location": "Concepción, Chile",
+    "instagram": "radio_club80",
+    "twitter": "",
+    "facebook": "",
+    "icon": "https://www.victorsanmartin.com/api/radios/images/404.png",
+    "play": {
+        "contentType": "audio/mpeg",
+        "urlStream": "https://e20.yesstreaming.net/p/7276/stream"
     }
   }]
 }
